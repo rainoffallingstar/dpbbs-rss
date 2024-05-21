@@ -43,7 +43,6 @@ jobs:
 
       - name: Install hugo and blogdowm then compile
         run: |
-         pak::pak("blogdown")
          blogdown::install_hugo(version = "0.85.0")
          blogdown::build_site()
         shell: Rscript {0}

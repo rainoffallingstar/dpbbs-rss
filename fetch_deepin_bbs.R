@@ -72,8 +72,20 @@ deepin_bbs_fetch <- function(){
   dfs <- data.table::rbindlist(dfs) %>%
     as.data.frame()
 }
-
-df <- deepin_bbs_fetch()
+tryclass <- "try-error"
+trytimes <- 0
+while (tryclass == "try-error") {
+  df <- try(deepin_bbs_fetch())
+  tryclass <- class(df)[1]
+  trytimes <- trytimes + 1
+  if (trytimes == 20){
+    tryclass <- "not error"
+  }
+  if (tryclass == "try-error"){
+    message("retrying...")
+    Sys.sleep(60)
+  }
+}
 #write.csv(df,"R/deepin_bbs.csv",quote = FALSE,row.names = FALSE)
 exist_df <- readr::read_csv("R/deepin_bbs.csv")
 df_backup <- rbind(exist_df,df) %>%
