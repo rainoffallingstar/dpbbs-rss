@@ -80,7 +80,7 @@ while (tryclass == "try-error") {
   df <- try(deepin_bbs_fetch())
   tryclass <- class(df)[1]
   trytimes <- trytimes + 1
-  if (trytimes == 20){
+  if (trytimes == 10){
     tryclass <- "not error"
   }
   if (tryclass == "try-error"){
