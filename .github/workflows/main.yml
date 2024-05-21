@@ -51,6 +51,8 @@ jobs:
 
       - name: Push results
         run: |
+          git config --global user.email "fallingstar@bot.io"
+          git config --global user.name "clibot"
           git add --all *
           git commit -m "Daily Update"
           git push -q https://${{secrets.GH_TOKEN}}@github.com/${{secrets.GH_REPOSITORY}}.git HEAD:master
