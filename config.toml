@@ -9,6 +9,7 @@ preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
 hasCJKLanguage = true
 enableEmoji = true
+enableRobotsTXT = true
 
 [[menu.main]]
     name = "Home"
@@ -34,8 +35,9 @@ enableEmoji = true
     description = "light news/blog aggregator website for R"
     summary_length = 300
     github_edit = "https://github.com/rainoffallingstar/dpbbs-rss/edit/master/content/"
+    rss = true
     footer = "&copy; [Fallingstar](https://rainoffallingstar.github.io) 2023 | [Github](https://github.com/rainoffallingstar)"
-    
+
 [params.text]
     back = "&larr; Back to Home"
     edit = "Edit this page &rarr;"

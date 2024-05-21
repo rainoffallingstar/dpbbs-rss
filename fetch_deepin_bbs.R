@@ -83,7 +83,7 @@ while (tryclass == "try-error") {
   }
   if (tryclass == "try-error"){
     message("retrying...")
-    Sys.sleep(60)
+    Sys.sleep(10)
   }
 }
 #write.csv(df,"R/deepin_bbs.csv",quote = FALSE,row.names = FALSE)
