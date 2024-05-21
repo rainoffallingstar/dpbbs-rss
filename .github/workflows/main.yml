@@ -6,7 +6,7 @@ name: dailyupdate
 
 jobs:
   fetch-rss:
-    runs-on: macOS-latest
+    runs-on: ubuntu-latest
     env:
       GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
     steps:
@@ -16,9 +16,16 @@ jobs:
         run: |
           install.packages('remotes')
           install.packages('fs')
+          install.packages('rvest')
+          install.packages('chromote')
+          install.packages('dplyr')
+          remotes::install_cran("pak")
           saveRDS(remotes::dev_package_deps(dependencies = TRUE), ".github/depends.Rds", version = 2)
           writeLines(sprintf("R-%i.%i", getRversion()$major, getRversion()$minor), ".github/R-version")
         shell: Rscript {0}
+      - name: install chrome
+        run: |
+          sudo apt install chromium-browser -y
       - name: Cache R packages
         uses: actions/cache@v2
         with:
@@ -33,16 +40,15 @@ jobs:
         shell: Rscript {0}
       - name: Fetch RSS
         run: |
-          Rscript fetch.R
-         
+          Rscript fetch_deepin_bbs.R
+
       - name: Install hugo and blogdowm then compile
         run: |
-         remotes::install_cran("pak")
          pak::pak("blogdown")
          blogdown::install_hugo(version = "0.85.0")
          blogdown::build_site()
         shell: Rscript {0}
-        
+
       - name: Push results
         run: |
           git add --all *

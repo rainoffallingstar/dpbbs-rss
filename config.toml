@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Fallingstar Daily R"
+title = "deepin Daily R"
 theme = "hugo-xmag"
 googleAnalytics = ""
 disqusShortname = "fallingsstar"
@@ -33,7 +33,7 @@ enableEmoji = true
 [params]
     description = "light news/blog aggregator website for R"
     summary_length = 300
-    github_edit = "https://github.com/rainoffallingstar/daily-rss/edit/master/content/"
+    github_edit = "https://github.com/rainoffallingstar/dpbbs-rss/edit/master/content/"
     footer = "&copy; [Fallingstar](https://rainoffallingstar.github.io) 2023 | [Github](https://github.com/rainoffallingstar)"
     
 [params.text]
