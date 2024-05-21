@@ -10,6 +10,7 @@ deepin_bbs_fetch <- function(){
                  "https://bbs.deepin.org/en/?offset=2&limit=500&order=updated_at")
   get_post_content <- function(post_dir){
     post <- rvest::read_html(post_dir)
+    Sys.sleep(3)
     post_content_paragrah <- post %>%
       rvest::html_elements("div.post_conten") %>%
       rvest::html_elements("p") %>%
@@ -23,6 +24,7 @@ deepin_bbs_fetch <- function(){
   }
   get_post_info <- function(url_page1){
     html <- rvest::read_html_live(url_page1)
+    Sys.sleep(3)
     links <- html %>%
       rvest::html_elements("a.post_lin_pc") %>%
       rvest::html_attr("href")
