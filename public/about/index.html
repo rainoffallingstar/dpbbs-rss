@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>Daily R | Fallingstar Daily R</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    <link href="//cdn.bootcss.com/highlight.js/9.12.0/styles/github.min.css" rel="stylesheet">
+
+  </head>
+
+  <body class="page">
+    <nav class="header">
+      <div class="banner">
+<a href="/" class="text">
+&Ffr;&Afr;&Lfr;&Lfr;&Ifr;&Nfr;&Gfr;&Sfr;&Tfr;&Afr;&Rfr; &Dfr;&Afr;&Ifr;&Lfr;&Yfr; &Rfr;
+</a>
+</div>
+
+      <div class="head-meta">
+      
+        <span><a href="/">&larr; Back to Home</a></span>
+        
+        
+        
+        
+          
+        
+        
+        <span><a href="https://github.com/rainoffallingstar/daily-rss/edit/master/content/about.md">Edit this page &rarr;</a></span>
+        
+        
+      
+      </div>
+    </nav>
+
+<div class="container">
+<article>
+<div class="article-meta">
+
+  <div class="categories">
+  
+  </div>
+
+  <h1><span class="title">Daily R</span></h1>
+
+  
+  <h3 class="author">Miao Yu
+</h3>
+  
+
+  
+  
+
+</div>
+
+
+
+<main>
+<h1 id="daily-rss">Daily RSS</h1>
+<p>Daily News/Blog aggregator website and you could use this website as a template to create you own public rss daily reader by adding you own rss addresses collection in <code>R/list.txt</code> .</p>
+<p><strong>Daily R</strong> is a light news/blog aggregator website for R.</p>
+<h1 id="features">Features</h1>
+<ul>
+<li>
+<p>Real daily update and you could use RSS reader or click archive to find entries of the old posts</p>
+</li>
+<li>
+<p>No AD</p>
+</li>
+<li>
+<p>Remove the author to make more contents focused</p>
+</li>
+<li>
+<p>Update everyday via a automated process</p>
+</li>
+<li>
+<p>Use Github PR API to control posts</p>
+</li>
+<li>
+<p>Re-direct to the orginal pages by click title in the homepage and wait 10s to re-direct in the post page</p>
+</li>
+<li>
+<p>We reserve the right to delete any inappropriate posts</p>
+</li>
+</ul>
+<h1 id="contribute">Contribute</h1>
+<ul>
+<li>
+<p>Add your rss address and dates to the <code>R/list.txt</code></p>
+</li>
+<li>
+<p>Use <code>getrss</code> from <a href="https://github.com/yufree/scifetch">scifetch</a> to convert rss xml file into dataframe and use the following code to generate <code>md</code> files and PR to this repo.</p>
+</li>
+</ul>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-r" data-lang="r"><span style="color:#a6e22e">if </span>(<span style="color:#f92672">!</span><span style="color:#a6e22e">dir.exists</span>(<span style="color:#e6db74">&#34;content&#34;</span>)) <span style="color:#a6e22e">dir.create</span>(<span style="color:#e6db74">&#34;content&#34;</span>)
+<span style="color:#a6e22e">if </span>(<span style="color:#f92672">!</span><span style="color:#a6e22e">dir.exists</span>(<span style="color:#e6db74">&#34;content/post&#34;</span>)) <span style="color:#a6e22e">dir.create</span>(<span style="color:#e6db74">&#34;content/post&#34;</span>)
+x <span style="color:#f92672">&lt;-</span> scifetch<span style="color:#f92672">::</span><span style="color:#a6e22e">getrss</span>(<span style="color:#e6db74">&#39;path-to-your-own-rss-xml-files&#39;</span>)
+<span style="color:#a6e22e">for </span>(i in <span style="color:#ae81ff">1</span><span style="color:#f92672">:</span><span style="color:#a6e22e">NROW</span>(x)) {
+    name <span style="color:#f92672">=</span> <span style="color:#a6e22e">gsub</span>(<span style="color:#e6db74">&#34;^http[s]?://|/$&#34;</span>, <span style="color:#e6db74">&#34;&#34;</span>, <span style="color:#a6e22e">tolower</span>(x[i, <span style="color:#e6db74">&#39;linkTitle&#39;</span>]))
+    name <span style="color:#f92672">=</span> <span style="color:#a6e22e">gsub</span>(<span style="color:#e6db74">&#34;%&#34;</span>, <span style="color:#e6db74">&#34;&#34;</span>, name)
+    name <span style="color:#f92672">=</span> <span style="color:#a6e22e">gsub</span>(<span style="color:#e6db74">&#34;[^a-z0-9]+&#34;</span>, <span style="color:#e6db74">&#34;-&#34;</span>, name)
+    name <span style="color:#f92672">=</span> <span style="color:#a6e22e">gsub</span>(<span style="color:#e6db74">&#34;--+&#34;</span>, <span style="color:#e6db74">&#34;-&#34;</span>, name)
+    <span style="color:#75715e"># file name too long issue</span>
+    name <span style="color:#f92672">=</span> <span style="color:#a6e22e">substr</span>(name, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">200</span>)
+    p <span style="color:#f92672">=</span> <span style="color:#a6e22e">sprintf</span>(<span style="color:#e6db74">&#39;content/post/%s.md&#39;</span>, <span style="color:#a6e22e">paste0</span>(name))
+    
+    <span style="color:#a6e22e">sink</span>(p)
+    <span style="color:#a6e22e">cat</span>(<span style="color:#e6db74">&#39;---\n&#39;</span>)
+    <span style="color:#a6e22e">cat</span>(yaml<span style="color:#f92672">::</span><span style="color:#a6e22e">as.yaml</span>(x[i,],))
+    <span style="color:#a6e22e">cat</span>(<span style="color:#e6db74">&#39;disable_comments: true\n&#39;</span>)
+    <span style="color:#a6e22e">cat</span>(<span style="color:#e6db74">&#39;---\n&#39;</span>)
+    <span style="color:#a6e22e">cat</span>(<span style="color:#a6e22e">as.character</span>(x[i, <span style="color:#ae81ff">5</span>]))
+    <span style="color:#a6e22e">sink</span>()
+}
+</code></pre></div><ul>
+<li>Add comma and your name to the <code>YAML</code> front matter block in contributor.md</li>
+</ul>
+<h1 id="recipe">Recipe</h1>
+<ul>
+<li><a href="https://github.com/rstudio/blogdown">Blogdown</a> to build the site from @yihui</li>
+<li><a href="https://github.com/yihui/hugo-xmag">xmag</a> layout also from @yihui and I made some modifications <a href="https://github.com/yufree/hugo-xmag">here</a></li>
+<li><a href="https://github.com/yufree/scifetch">scifetch</a> to analysis RSS(support xml, atom and json) from @yufree, modified from <a href="https://cran.r-project.org/web/packages/tidyRSS/index.html">tidyRSS</a> from @RobertMyles</li>
+<li><a href="https://t.yihui.name">twitter-blogdown</a> by @yihui was the template to be hacked</li>
+<li><a href="https://github.com/features/actions">Github Action</a></li>
+<li><a href="https://docs.github.com/en/actions/reference/events-that-trigger-workflows">Cron Job</a></li>
+<li><a href="https://github.com/yufree/daily/edit/master/R/list.txt">Your PR to RSS list</a></li>
+</ul>
+
+<script>
+var url = "Daily R";
+var strReg = "http|https";
+var re = new RegExp(strReg);
+setTimeout(function() { if(re.test(url)) {window.location.href = url} }, 10000);
+</script>
+</main>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="comments">
+	<div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "fallingsstar" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+
+
+</article>
+</div>
+
+<script async src="//yihui.name/js/center-img.js"></script>
+
+<footer>
+
+<div class="footer">
+  <ul class="menu">
+    
+    <li><a href="/"><span data-hover="Home">Home</span></a></li>
+    
+    <li><a href="/about/"><span data-hover="About">About</span></a></li>
+    
+    <li><a href="/archives/"><span data-hover="Archive">Archive</span></a></li>
+    
+    <li><a href="/contributor/"><span data-hover="Contributor">Contributor</span></a></li>
+    
+    <li><a href="/index.xml"><span data-hover="Subscribe">Subscribe</span></a></li>
+    
+  </ul>
+  
+  <div class="copyright">© <a href="https://rainoffallingstar.github.io">Fallingstar</a> 2023 | <a href="https://github.com/rainoffallingstar">Github</a></div>
+  
+</div>
+</footer>
+
+
+<script src="//yihui.name/js/math-code.js"></script>
+<script async src="//cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+
+<script src="//cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+<script src="//cdn.bootcss.com/highlight.js/9.12.0/languages/r.min.js"></script>
+<script>
+hljs.configure({languages: []});
+hljs.initHighlightingOnLoad();
+</script>
+
+
+
+
+</body>
+</html>
+

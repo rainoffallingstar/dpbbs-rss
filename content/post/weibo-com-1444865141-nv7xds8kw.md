@@ -1,0 +1,13 @@
+---
+title: 回了趟母校---严格来说，不算回。我原来是在虹口校区念书，现在这个松江校区还是第一次来。地方大就是好，校园开阔恢宏，建筑端庄大气，就连路上的猫也比当年热...
+date: '2023-12-01'
+linkTitle: https://weibo.com/1444865141/Nv7xDs8Kw
+source: 马伯庸的微博
+description: 回了趟母校---严格来说，不算回。我原来是在虹口校区念书，现在这个松江校区还是第一次来。地方大就是好，校园开阔恢宏，建筑端庄大气，就连路上的猫也比当年热情。唯一别扭的是，进门有一条“西索大道”，应该是上外简称SISU的音译，但难免有奇怪的联想……
+  <img style="" src="https://tvax2.sinaimg.cn/large/001zMvqtgy1hkecpe06qgj63b04eob2d02.jpg"
+  referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax2.sinaimg.cn/large/001zMvqtgy1hkecraaq82j60zh144qeo02.jpg"
+  referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax2.sinaimg.cn/large/001zMvqtgy1hkecphwrtfj63b04eoqv802.jpg"
+  referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax4.sinaimg. ...
+disable_comments: true
+---
+回了趟母校---严格来说，不算回。我原来是在虹口校区念书，现在这个松江校区还是第一次来。地方大就是好，校园开阔恢宏，建筑端庄大气，就连路上的猫也比当年热情。唯一别扭的是，进门有一条“西索大道”，应该是上外简称SISU的音译，但难免有奇怪的联想…… <img style="" src="https://tvax2.sinaimg.cn/large/001zMvqtgy1hkecpe06qgj63b04eob2d02.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax2.sinaimg.cn/large/001zMvqtgy1hkecraaq82j60zh144qeo02.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax2.sinaimg.cn/large/001zMvqtgy1hkecphwrtfj63b04eoqv802.jpg" referrerpolicy="no-referrer"><br><br><img style="" src="https://tvax4.sinaimg. ...

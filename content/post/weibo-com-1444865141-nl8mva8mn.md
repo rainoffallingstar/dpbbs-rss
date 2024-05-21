@@ -1,0 +1,13 @@
+---
+title: 娱乐谁的你倒是说清楚……啊，不对，还是不要说了！//@你是我爱而不得的人呐:本地人告诉你，不过是一个游乐园娱乐场所罢了[doge] - 转发 @马伯庸:&ensp;我就不该...
+date: '2023-09-26'
+linkTitle: https://weibo.com/1444865141/Nl8mVa8mN
+source: 马伯庸的微博
+description: 娱乐谁的你倒是说清楚……啊，不对，还是不要说了！//<a href="https://weibo.com/n/%E4%BD%A0%E6%98%AF%E6%88%91%E7%88%B1%E8%80%8C%E4%B8%8D%E5%BE%97%E7%9A%84%E4%BA%BA%E5%91%90">@你是我爱而不得的人呐</a>:本地人告诉你，不过是一个游乐园娱乐场所罢了<span
+  class="url-icon"><img alt="[doge]" src="https://h5.sinaimg.cn/m/emoticon/icon/others/d_doge-be7f768d78.png"
+  style="width:1em; height:1em;" referrerpolicy="no-referrer"></span><br><blockquote>
+  - 转发 <a href="https://weibo.com/1444865141" target="_blank">@马伯庸</a>: 我就不该睡前打开地图……
+  <img style="" src="https://tvax3.sinaimg.cn/large/001zMvqtgy1hiaf8cvu1gj60 ...
+disable_comments: true
+---
+娱乐谁的你倒是说清楚……啊，不对，还是不要说了！//<a href="https://weibo.com/n/%E4%BD%A0%E6%98%AF%E6%88%91%E7%88%B1%E8%80%8C%E4%B8%8D%E5%BE%97%E7%9A%84%E4%BA%BA%E5%91%90">@你是我爱而不得的人呐</a>:本地人告诉你，不过是一个游乐园娱乐场所罢了<span class="url-icon"><img alt="[doge]" src="https://h5.sinaimg.cn/m/emoticon/icon/others/d_doge-be7f768d78.png" style="width:1em; height:1em;" referrerpolicy="no-referrer"></span><br><blockquote> - 转发 <a href="https://weibo.com/1444865141" target="_blank">@马伯庸</a>: 我就不该睡前打开地图…… <img style="" src="https://tvax3.sinaimg.cn/large/001zMvqtgy1hiaf8cvu1gj60 ...

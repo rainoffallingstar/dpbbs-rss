@@ -1,0 +1,9 @@
+---
+title: 我叔叔问了我一个问题，中国围棋第一人是谁。我：……
+date: '2024-04-01'
+linkTitle: https://weibo.com/3825863518/O7IwNuBnr
+source: 正宗毒奶菇的微博
+description: 我叔叔问了我一个问题，中国围棋第一人是谁。<br>我：……  ...
+disable_comments: true
+---
+我叔叔问了我一个问题，中国围棋第一人是谁。<br>我：……  ...

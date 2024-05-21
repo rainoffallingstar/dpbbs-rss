@@ -1,0 +1,42 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Fallingstar Daily R"
+theme = "hugo-xmag"
+googleAnalytics = ""
+disqusShortname = "fallingsstar"
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
+footnotereturnlinkcontents = "↩"
+hasCJKLanguage = true
+enableEmoji = true
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+[[menu.main]]
+    name = "Archive"
+    url = "/archives/"
+    weight = 2
+[[menu.main]]
+    name = "Contributor"
+    url = "/Contributor/"
+    weight = 2
+[[menu.main]]
+    name = "Subscribe"
+    url = "/index.xml"
+
+[params]
+    description = "light news/blog aggregator website for R"
+    summary_length = 300
+    github_edit = "https://github.com/rainoffallingstar/daily-rss/edit/master/content/"
+    footer = "&copy; [Fallingstar](https://rainoffallingstar.github.io) 2023 | [Github](https://github.com/rainoffallingstar)"
+    
+[params.text]
+    back = "&larr; Back to Home"
+    edit = "Edit this page &rarr;"
+    truncated = "&hellip;"

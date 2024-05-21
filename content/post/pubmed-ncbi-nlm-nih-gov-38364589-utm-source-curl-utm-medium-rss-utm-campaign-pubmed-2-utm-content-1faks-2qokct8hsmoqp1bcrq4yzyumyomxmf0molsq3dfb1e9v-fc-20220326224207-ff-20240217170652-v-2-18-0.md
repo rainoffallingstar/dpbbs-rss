@@ -1,0 +1,12 @@
+---
+title: AI-based automated detection and stability analysis of traumatic vertebral
+  body fractures on computed tomography
+date: '2024-02-16'
+linkTitle: https://pubmed.ncbi.nlm.nih.gov/38364589/?utm_source=curl&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1FakS-2QOkCT8HsMOQP1bCRQ4YzyumYOmxmF0moLsQ3dFB1E9V&fc=20220326224207&ff=20240217170652&v=2.18.0
+source: heidelberg[Affiliation]
+description: 'CONCLUSION: The developed neural network can automatically detect vertebral
+  body fractures and evaluate their stability concurrently with a high diagnostic
+  ...'
+disable_comments: true
+---
+CONCLUSION: The developed neural network can automatically detect vertebral body fractures and evaluate their stability concurrently with a high diagnostic ...

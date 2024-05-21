@@ -1,0 +1,10 @@
+---
+title: 不会看代码的解说，不是好的喷子[怒]
+date: '2024-03-22'
+linkTitle: https://weibo.com/3825863518/O6dcagSXJ
+source: 正宗毒奶菇的微博
+description: 不会看代码的解说，不是好的喷子<span class="url-icon"><img alt="[怒]" src="https://h5.sinaimg.cn/m/emoticon/icon/default/d_nu-0ddf642bed.png"
+  style="width:1em; height:1em;" referrerpolicy="no-referrer"></span>  ...
+disable_comments: true
+---
+不会看代码的解说，不是好的喷子<span class="url-icon"><img alt="[怒]" src="https://h5.sinaimg.cn/m/emoticon/icon/default/d_nu-0ddf642bed.png" style="width:1em; height:1em;" referrerpolicy="no-referrer"></span>  ...

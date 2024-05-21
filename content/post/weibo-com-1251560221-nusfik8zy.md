@@ -1,0 +1,9 @@
+---
+title: 注册后等了快一年才收到了Bluesky Social的invite code，然后登陆后发现上面全是progressive的账号。让人等一年是为了做背景调查以拒绝有任何支持Trump倾向的账...
+date: '2023-11-29'
+linkTitle: https://weibo.com/1251560221/NuSfIk8ZY
+source: 子陵在听歌的微博
+description: 注册后等了快一年才收到了Bluesky Social的invite code，然后登陆后发现上面全是progressive的账号。让人等一年是为了做背景调查以拒绝有任何支持Trump倾向的账号么？（jk）  ...
+disable_comments: true
+---
+注册后等了快一年才收到了Bluesky Social的invite code，然后登陆后发现上面全是progressive的账号。让人等一年是为了做背景调查以拒绝有任何支持Trump倾向的账号么？（jk）  ...

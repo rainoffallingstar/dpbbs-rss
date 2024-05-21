@@ -1,0 +1,12 @@
+---
+title: '张敬信回答了问题: Excel中身份证号码如何分段显示，难倒小编，有什么好方法吗？'
+date: '2024-02-25'
+linkTitle: https://www.zhihu.com/question/637495890/answer/3408422513
+source: 张敬信的知乎动态
+description: |-
+  <p data-pid="HASoZrDQ">R 语言 <code>tidyverse</code> 优雅数据思维解法，用到正则表达式。</p><p data-pid="5nW8X1QS"><b>编一个小数据</b>（也可直接从Excel读取）：</p><div class="highlight"><pre><code class="language-ada"><span class="n">library</span><span class="p">(</span><span class="n">tidyverse</span><span class="p">)</span>
+  <span class="n">df</span> <span class="o">=</span> <span class="n">tibble</span><span class="p">(</span><span class="n">x</span> <span class="o">=</span> <span class="n">c</span><span class="p">(</span><span class="s">"230702199109052397"</span><span class="p">,</span> <span ...
+disable_comments: true
+---
+<p data-pid="HASoZrDQ">R 语言 <code>tidyverse</code> 优雅数据思维解法，用到正则表达式。</p><p data-pid="5nW8X1QS"><b>编一个小数据</b>（也可直接从Excel读取）：</p><div class="highlight"><pre><code class="language-ada"><span class="n">library</span><span class="p">(</span><span class="n">tidyverse</span><span class="p">)</span>
+<span class="n">df</span> <span class="o">=</span> <span class="n">tibble</span><span class="p">(</span><span class="n">x</span> <span class="o">=</span> <span class="n">c</span><span class="p">(</span><span class="s">"230702199109052397"</span><span class="p">,</span> <span ...

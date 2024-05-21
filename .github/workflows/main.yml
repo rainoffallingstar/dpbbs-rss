@@ -1,0 +1,51 @@
+on:
+  schedule:
+    - cron:  '0 22 * * *'
+  workflow_dispatch:
+name: dailyupdate
+
+jobs:
+  fetch-rss:
+    runs-on: macOS-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+    steps:
+      - uses: actions/checkout@v2
+      - uses: r-lib/actions/setup-r@v2
+      - name: Query dependencies
+        run: |
+          install.packages('remotes')
+          install.packages('fs')
+          saveRDS(remotes::dev_package_deps(dependencies = TRUE), ".github/depends.Rds", version = 2)
+          writeLines(sprintf("R-%i.%i", getRversion()$major, getRversion()$minor), ".github/R-version")
+        shell: Rscript {0}
+      - name: Cache R packages
+        uses: actions/cache@v2
+        with:
+          path: ${{ env.R_LIBS_USER }}
+          key: ${{ runner.os }}-${{ hashFiles('.github/R-version') }}-1-${{ hashFiles('.github/depends.Rds') }}
+          restore-keys: ${{ runner.os }}-${{ hashFiles('.github/R-version') }}-1-
+      - name: Install dependencies
+        run: |
+          remotes::install_deps(dependencies = TRUE)
+          remotes::install_cran("yaml")
+          remotes::install_github("yufree/scifetch")
+        shell: Rscript {0}
+      - name: Fetch RSS
+        run: |
+          Rscript fetch.R
+         
+      - name: Install hugo and blogdowm then compile
+        run: |
+         remotes::install_cran("pak")
+         pak::pak("blogdown")
+         blogdown::install_hugo(version = "0.85.0")
+         blogdown::build_site()
+        shell: Rscript {0}
+        
+      - name: Push results
+        run: |
+          git add --all *
+          git commit -m "Daily Update"
+          git push -q https://${{secrets.GH_TOKEN}}@github.com/${{secrets.GH_REPOSITORY}}.git HEAD:master
+

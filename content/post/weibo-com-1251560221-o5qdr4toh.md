@@ -1,0 +1,9 @@
+---
+title: 今天问一个爱尔兰同事他前天怎么庆祝Saint Patrick's Day的。他说“那是什么东西？我们每天都在庆祝 - 每天喝10杯爱尔兰咖啡。”我给这个朋友推荐了Warrior，他...
+date: '2024-03-20'
+linkTitle: https://weibo.com/1251560221/O5QdR4toH
+source: 子陵在听歌的微博
+description: 今天问一个爱尔兰同事他前天怎么庆祝Saint Patrick's Day的。他说“那是什么东西？我们每天都在庆祝 - 每天喝10杯爱尔兰咖啡。”我给这个朋友推荐了Warrior，他如获珍宝，最喜欢看剧中爱尔兰人被中国人beaten，神似一些日本人喜欢看抗日神剧。  ...
+disable_comments: true
+---
+今天问一个爱尔兰同事他前天怎么庆祝Saint Patrick's Day的。他说“那是什么东西？我们每天都在庆祝 - 每天喝10杯爱尔兰咖啡。”我给这个朋友推荐了Warrior，他如获珍宝，最喜欢看剧中爱尔兰人被中国人beaten，神似一些日本人喜欢看抗日神剧。  ...

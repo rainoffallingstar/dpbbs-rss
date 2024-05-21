@@ -1,0 +1,14 @@
+---
+title: '柯洁#智运会# #赛事报道# [抱一抱] - 转发 @新浪棋牌:&ensp;#第五届全国智力运动会# 围棋团体赛，299围棋工作室之“99对战“[蝙蝠侠]
+  新浪棋牌的微博视频'
+date: '2023-11-03'
+linkTitle: https://weibo.com/7332621109/NqSsR6YnF
+source: 柯洁九段新闻搬运号的微博
+description: '<a href="https://m.weibo.cn/p/index?extparam=%E6%9F%AF%E6%B4%81&amp;containerid=1008082fdac1c6bf5888d83747f0dcd2107227"
+  data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://n.sinaimg.cn/photo/5213b46e/20180926/timeline_card_small_super_default.png"
+  referrerpolicy="no-referrer"></span><span class="surl-text">柯洁</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%99%BA%E8%BF%90%E4%BC%9A%23"
+  data-hide=""><span class="surl-text">#智运会#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%2
+  ...'
+disable_comments: true
+---
+<a href="https://m.weibo.cn/p/index?extparam=%E6%9F%AF%E6%B4%81&amp;containerid=1008082fdac1c6bf5888d83747f0dcd2107227" data-hide=""><span class="url-icon"><img style="width: 1rem;height: 1rem" src="https://n.sinaimg.cn/photo/5213b46e/20180926/timeline_card_small_super_default.png" referrerpolicy="no-referrer"></span><span class="surl-text">柯洁</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%99%BA%E8%BF%90%E4%BC%9A%23" data-hide=""><span class="surl-text">#智运会#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%2 ...
