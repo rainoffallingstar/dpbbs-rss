@@ -3,7 +3,7 @@ title: 如何在firefox downloadshow in folder 里传递文件名给文件管理
 date: ' 2024-03-1'
 linkTitle: https://bbs.deepin.org/en/post/269444
 source: deepin_bbs
-description: NA
+description:  guyuming 
 disable_comments: true
 ---
 firefox浏览器
