@@ -70,8 +70,7 @@ deepin_bbs_fetch <- function(){
     user_nike <- glue::glue("https://bbs.deepin.org/user/{user_id}") %>%
       rvest::read_html_live() %>%
       rvest::html_elements("span.nike") %>%
-      rvest::html_text() %>%
-      stringr::str_trim()
+      rvest::html_text()
     return(user_nike)
   }
   dfs <- list()
@@ -82,7 +81,13 @@ deepin_bbs_fetch <- function(){
   dfs <- data.table::rbindlist(dfs) %>%
     as.data.frame()
   message("handling block users")
-
+  user_ids <- read.csv("R/blockuser.txt")
+  user_ids <- user_ids$id
+  for (i in 1:length(user_ids)){
+    user_ids[i] <- get_user_nike(user_ids[i])
+  }
+  dfs <- dfs %>%
+    dplyr::filter(!(post_user %in% user_ids))
 }
 tryclass <- "try-error"
 trytimes <- 0

@@ -41,7 +41,7 @@ jobs:
         shell: Rscript {0}
       - name: Fetch RSS
         run: |
-          Rscript fetch_deepin_bbs.R
+          Rscript fetch_deepin_bbs_next.R
 
       - name: Install hugo and blogdowm then compile
         run: |
