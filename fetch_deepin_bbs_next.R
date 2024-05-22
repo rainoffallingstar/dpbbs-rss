@@ -128,7 +128,7 @@ if (nrow(df) > 0){
                 glue::glue("date: '{df$post_time[i]}'"),
                 glue::glue("linkTitle: {df$links[i]}"),
                 glue::glue("source: deepin_bbs"),
-                glue::glue("description: NA"),
+                glue::glue("description: {df$post_user[i]}"),
                 "disable_comments: true",
                 "---",
                 glue::glue("{descript}"))
