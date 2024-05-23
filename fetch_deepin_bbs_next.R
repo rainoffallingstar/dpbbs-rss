@@ -113,6 +113,7 @@ if (nrow(df) > 0){
   for (i in 1:nrow(df)){
     print(i)
     df$post_time[i] <- Sys.Date()  %>% as.character()
+    print(df$post_time[i])
     mdtitle <- df$title[i]
     mdtitle <- gsub("[[:punct:]]", "", mdtitle)
     mdtitle <- gsub("\n|\t", "", mdtitle)
