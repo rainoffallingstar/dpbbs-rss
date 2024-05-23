@@ -104,7 +104,8 @@ while (tryclass == "try-error") {
   }
 }
 #write.csv(df,"R/deepin_bbs.csv",quote = FALSE,row.names = FALSE)
-exist_df <- readr::read_csv("R/deepin_bbs.csv")
+exist_df <- readr::read_csv("R/deepin_bbs.csv") %>% 
+        dplyr::filter(!is.na(post_user))
 df_backup <- rbind(exist_df,df) %>%
   dplyr::distinct(title,.keep_all = TRUE)
 df <- df %>%
