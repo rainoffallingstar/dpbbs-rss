@@ -1,6 +1,6 @@
 ---
 title: Deepin Common QA translating
-date: ' 2024-02-2'
+date: '2024-05-23'
 linkTitle: https://bbs.deepin.org/en/post/268573
 source: deepin_bbs
 description:  hanzn-zzx 

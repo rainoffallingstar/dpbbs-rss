@@ -1,6 +1,6 @@
 ---
 title: Two Monitors notebook and external
-date: ' 2024-02-1'
+date: '2024-05-23'
 linkTitle: https://bbs.deepin.org/en/post/268350
 source: deepin_bbs
 description:  Gelin 

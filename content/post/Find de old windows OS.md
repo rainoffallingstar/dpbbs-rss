@@ -1,6 +1,6 @@
 ---
 title: Find de old windows OS
-date: ' 2024-03-0'
+date: '2024-05-23'
 linkTitle: https://bbs.deepin.org/en/post/269020
 source: deepin_bbs
 description:  j***l@gmail.com 

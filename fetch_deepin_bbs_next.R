@@ -112,11 +112,7 @@ df <- df %>%
 if (nrow(df) > 0){
   for (i in 1:nrow(df)){
     print(i)
-    if (grepl("前",df$post_time[i]) | grepl("ago",df$post_time[i])){
-      df$post_time[i] <- Sys.Date()  %>% as.character()
-    } else {
-      df$post_time[i] <- substr(df$post_time[i],1,10)
-    }
+    df$post_time[i] <- Sys.Date()  %>% as.character()
     mdtitle <- df$title[i]
     mdtitle <- gsub("[[:punct:]]", "", mdtitle)
     mdtitle <- gsub("\n|\t", "", mdtitle)
