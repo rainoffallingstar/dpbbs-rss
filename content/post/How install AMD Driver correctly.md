@@ -1,6 +1,6 @@
 ---
 title: How install AMD Driver correctly
-date: '2024-05-23'
+date: '2024-05-24'
 linkTitle: https://bbs.deepin.org/en/post/268779
 source: deepin_bbs
 description:  d***m@gmail.com 
