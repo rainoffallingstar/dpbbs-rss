@@ -1,6 +1,6 @@
 ---
 title: Virtual Box kernel error
-date: '2024-05-24'
+date: '2024-05-25'
 linkTitle: https://bbs.deepin.org/en/post/268602
 source: deepin_bbs
 description:  piotr_bujakowski 

@@ -1,6 +1,6 @@
 ---
 title: Explore deepin products Detailed features your queries invited
-date: '2024-05-24'
+date: '2024-05-25'
 linkTitle: https://bbs.deepin.org/en/post/271921
 source: deepin_bbs
 description:  deepin小助手 

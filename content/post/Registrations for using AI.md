@@ -1,6 +1,6 @@
 ---
 title: Registrations for using AI
-date: '2024-05-24'
+date: '2024-05-25'
 linkTitle: https://bbs.deepin.org/en/post/268662
 source: deepin_bbs
 description:  piotr_bujakowski 
