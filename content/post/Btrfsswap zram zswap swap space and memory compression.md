@@ -1,6 +1,6 @@
 ---
 title: Btrfsswap zram zswap swap space and memory compression
-date: '2024-05-25'
+date: '2024-05-26'
 linkTitle: https://bbs.deepin.org/en/post/271089
 source: deepin_bbs
 description:  yanjuner 
