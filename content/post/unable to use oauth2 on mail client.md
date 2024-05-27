@@ -1,6 +1,6 @@
 ---
 title: unable to use oauth2 on mail client
-date: '2024-05-26'
+date: '2024-05-27'
 linkTitle: https://bbs.deepin.org/en/post/269333
 source: deepin_bbs
 description:  m***m@gmail.com 

@@ -1,6 +1,6 @@
 ---
 title: Warp is now Available on the deepin V23 App Store
-date: '2024-05-26'
+date: '2024-05-27'
 linkTitle: https://bbs.deepin.org/en/post/268930
 source: deepin_bbs
 description:  yanjuner 
