@@ -1,6 +1,6 @@
 ---
 title: swap zram zswap swap space and memory compression scheme
-date: '2024-05-27'
+date: '2024-05-29'
 linkTitle: https://bbs.deepin.org/en/post/271440
 source: deepin_bbs
 description:  yanjuner 

@@ -1,6 +1,6 @@
 ---
 title: deepin V23 release update log May 17 2024
-date: '2024-05-27'
+date: '2024-05-29'
 linkTitle: https://bbs.deepin.org/en/post/272526
 source: deepin_bbs
 description:  deepin小助手 
