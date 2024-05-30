@@ -1,6 +1,6 @@
 ---
 title: low quality audio in bluetooth speakers with pipewire
-date: '2024-05-29'
+date: '2024-05-30'
 linkTitle: https://bbs.deepin.org/en/post/269309
 source: deepin_bbs
 description:  深度之家 
