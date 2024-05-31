@@ -1,7 +1,7 @@
 ---
-title: deepin v23 internal test update on March 1st
+title: deepin V23 release update log May 31 2024
 date: '2024-05-31'
-linkTitle: https://bbs.deepin.org/en/post/268936
+linkTitle: https://bbs.deepin.org/en/post/273270
 source: deepin_bbs
 description:  deepin小助手 
 disable_comments: true

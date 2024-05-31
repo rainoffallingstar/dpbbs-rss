@@ -1,6 +1,6 @@
 ---
 title: UI Hover Effects Click Effects are Missing in a lot of Things
-date: '2024-05-30'
+date: '2024-05-31'
 linkTitle: https://bbs.deepin.org/en/post/272834
 source: deepin_bbs
 description:  r***t@gmail.com 

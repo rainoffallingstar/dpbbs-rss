@@ -1,6 +1,6 @@
 ---
 title: Missing mouse graphic
-date: '2024-05-30'
+date: '2024-05-31'
 linkTitle: https://bbs.deepin.org/en/post/268824
 source: deepin_bbs
 description:  dbarronoss 

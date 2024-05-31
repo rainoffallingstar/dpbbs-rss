@@ -1,6 +1,6 @@
 ---
 title: March 29 2024 deepin V23 Beta3 Update
-date: '2024-05-30'
+date: '2024-05-31'
 linkTitle: https://bbs.deepin.org/en/post/270059
 source: deepin_bbs
 description:  deepin小助手 
