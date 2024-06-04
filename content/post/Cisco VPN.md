@@ -1,6 +1,6 @@
 ---
 title: Cisco VPN
-date: '2024-06-03'
+date: '2024-06-04'
 linkTitle: https://bbs.deepin.org/en/post/269000
 source: deepin_bbs
 description:  malkut 
