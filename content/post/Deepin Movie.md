@@ -1,6 +1,6 @@
 ---
 title: Deepin Movie
-date: '2024-06-04'
+date: '2024-06-05'
 linkTitle: https://bbs.deepin.org/en/post/268655
 source: deepin_bbs
 description:  abdulhalim 
