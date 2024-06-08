@@ -1,6 +1,6 @@
 ---
 title: Heroic Games Launcher
-date: '2024-06-07'
+date: '2024-06-08'
 linkTitle: https://bbs.deepin.org/en/post/268665
 source: deepin_bbs
 description:  深度之家 
