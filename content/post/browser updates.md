@@ -1,6 +1,6 @@
 ---
 title: browser updates
-date: '2024-06-08'
+date: '2024-06-09'
 linkTitle: https://bbs.deepin.org/en/post/268882
 source: deepin_bbs
 description:  trawg 
