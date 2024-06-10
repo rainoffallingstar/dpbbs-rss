@@ -1,6 +1,6 @@
 ---
 title: Mirror for Deepin
-date: '2024-06-09'
+date: '2024-06-10'
 linkTitle: https://bbs.deepin.org/en/post/268663
 source: deepin_bbs
 description:  piotr_bujakowski 

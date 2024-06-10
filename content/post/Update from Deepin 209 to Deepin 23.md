@@ -1,6 +1,6 @@
 ---
 title: Update from Deepin 209 to Deepin 23
-date: '2024-06-09'
+date: '2024-06-10'
 linkTitle: https://bbs.deepin.org/en/post/268701
 source: deepin_bbs
 description:  JoseJacsan 

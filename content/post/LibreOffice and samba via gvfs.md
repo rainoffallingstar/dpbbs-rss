@@ -1,6 +1,6 @@
 ---
 title: LibreOffice and samba via gvfs
-date: '2024-06-09'
+date: '2024-06-10'
 linkTitle: https://bbs.deepin.org/en/post/268868
 source: deepin_bbs
 description:  a***s@artikon.pl 
