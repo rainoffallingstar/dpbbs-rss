@@ -1,6 +1,6 @@
 ---
 title: Nix Package manager Error
-date: '2024-06-10'
+date: '2024-06-11'
 linkTitle: https://bbs.deepin.org/en/post/268777
 source: deepin_bbs
 description:  d***m@gmail.com 
