@@ -1,6 +1,6 @@
 ---
 title:  High Frequency Problems  Solutions of deepin OS
-date: '2024-06-12'
+date: '2024-06-13'
 linkTitle: https://bbs.deepin.org/en/post/268846
 source: deepin_bbs
 description:  deepin小助手 
