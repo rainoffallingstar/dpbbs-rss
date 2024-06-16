@@ -1,6 +1,6 @@
 ---
 title: appstore
-date: '2024-06-14'
+date: '2024-06-16'
 linkTitle: https://bbs.deepin.org/en/post/269034
 source: deepin_bbs
 description:  k***r@gmail.com 
