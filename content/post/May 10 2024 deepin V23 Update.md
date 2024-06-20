@@ -1,6 +1,6 @@
 ---
 title: May 10 2024 deepin V23 Update
-date: '2024-06-19'
+date: '2024-06-20'
 linkTitle: https://bbs.deepin.org/en/post/272125
 source: deepin_bbs
 description:  deepin小助手 
