@@ -1,6 +1,6 @@
 ---
 title: limit for max apps on the dock or scrollable dock
-date: '2024-06-23'
+date: '2024-06-24'
 linkTitle: https://bbs.deepin.org/en/post/272691
 source: deepin_bbs
 description:  深度之家 
