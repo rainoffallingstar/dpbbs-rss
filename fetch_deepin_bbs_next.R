@@ -73,6 +73,21 @@ deepin_bbs_fetch <- function(){
       rvest::html_text()
     return(user_nike)
   }
+  message("handling block users")
+  user_ids <- read.csv("R/blockuser.txt")
+  user_ids <- user_ids$id
+  for (i in 1:length(user_ids)){
+          user_ids[i] <- get_user_nike(user_ids[i])
+  }
+  names_vector <- stringr::str_trim(user_ids) 
+  for (i in 1:length(names_vector)){
+          names_vector[i] <- glue::glue("'{names_vector[i]}'")
+  }
+  js_file <- readLines("R/ADblocker4DeepinBBSv1_temple.js")
+  js_file[16] <- stringr::str_replace(js_file[16],
+                                      "useridandnikenames",
+                                      paste(names_vector,collapse = ","))
+  writeLines(js_file,"R/ADblocker4DeepinBBSv1.js")
   dfs <- list()
   for (i in 1:length(url_pages)) {
     message(glue::glue("fetching page {i}"))
@@ -80,12 +95,6 @@ deepin_bbs_fetch <- function(){
   }
   dfs <- data.table::rbindlist(dfs) %>%
     as.data.frame()
-  message("handling block users")
-  user_ids <- read.csv("R/blockuser.txt")
-  user_ids <- user_ids$id
-  for (i in 1:length(user_ids)){
-    user_ids[i] <- get_user_nike(user_ids[i])
-  }
   dfs <- dfs %>%
     dplyr::filter(!(post_user %in% user_ids))
 }
