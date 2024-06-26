@@ -2,9 +2,9 @@ library(dplyr)
 library(rvest)
 library(chromote)
 deepin_bbs_fetch <- function(){
-  url_pages <- c("https://bbs.deepin.org/zh/?offset=0&limit=500&order=updated_at",
-                 "https://bbs.deepin.org/zh/?offset=1&limit=500&order=updated_at",
-                 "https://bbs.deepin.org/zh/?offset=2&limit=500&order=updated_at",
+  url_pages <- c("https://bbs.deepin.org/?offset=0&limit=500&order=updated_at&where=&languages=zh_CN",
+                 "https://bbs.deepin.org/?offset=1&limit=500&order=updated_at&where=&languages=zh_CN",
+                 "https://bbs.deepin.org/?offset=2&limit=500&order=updated_at&where=&languages=zh_CN",
                  "https://bbs.deepin.org/en/?offset=0&limit=500&order=updated_at",
                  "https://bbs.deepin.org/en/?offset=1&limit=500&order=updated_at",
                  "https://bbs.deepin.org/en/?offset=2&limit=500&order=updated_at")
