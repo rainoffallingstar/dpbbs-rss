@@ -275,156 +275,180 @@ Bluetooth Issue,r***4@gmail.com,2024-06-23 07:32,【problem help】,https://bbs.
 Situations Where Hard Disk Usage and File Size Don't Match,vIann,15 hours ago,【deepin exploration】,https://bbs.deepin.org/en/post/274298,0,19,This post includes content related to both Unix-like systems and Windows. Let's help you find the "missing" hard disk space.
 A Method to Install Wine 8.0 Without Mixed Sources (Applicable to V23),vIann,15 hours ago,【deepin exploration】,https://bbs.deepin.org/en/post/274297,0,21,When using Wine in V23, you might encounter the following issues: installing directly prompts "unable to locate package", and importing the official Wine source prompts missing i386 dependencies (indeed, V23 lacks the i386 runtime environment, preventing Wine installation). It's like this: https://bbs.deepin.org/zh/post/263754
 The Ultimate Solution for Connecting Printers to deepin,yanjuner,15 hours ago,【hardware development】,https://bbs.deepin.org/en/post/274296,0,22,The Pain of Insufficient Printer Compatibility
-deepin论坛数学打卡赛！第五题发布！, deepin小助手 , 7 hours ago , 【Official Events】 ,https://bbs.deepin.org/en/post/274333,13,215,可点击阅读活动原帖，了解更多活动相关规则：deepin论坛数学打卡赛！解题有奖！
-2024年06月21日deepin V23 RC 内测更新公告, deepin小助手 , 2024-06-21 09:47 , 【Version closed beta】 ,https://bbs.deepin.org/en/post/274136,25,2227,
-速来！deepin社区文化衫设计大赛!, deepin小助手 , 2024-06-21 07:38 , 【Official Events】 ,https://bbs.deepin.org/en/post/274129,6,462,● 创意无限：展示你的设计才能，让创意成为现实！
-加入UOS开发者网站，开启你的技术之旅！【内含福利】, YEZII , 2024-06-18 01:53 , 【UOS】 ,https://bbs.deepin.org/en/post/273991,13,1519,（成为UOS认证开发者，获取UOS专用授权激活码）
-统信应用兼容引擎打开的应用不能适应或调整分辨率或缩放, 深度之家 , 32 minutes ago , 【Others】 ,https://bbs.deepin.org/en/post/274351,1,14,NA
-deepin的github仓库被gitcode爬取了, 神末shenmo , an hour ago , 【Industry News】 ,https://bbs.deepin.org/en/post/274350,8,202,https://gitcode.com/linuxdeepin
-23.0beta3 修改密码后无法登陆, peanut , 2 hours ago , 【System Installation】 ,https://bbs.deepin.org/en/post/274348,1,33,安装23.0beta3 修改密码为：\\\\\\后无法登陆, 总提示密码错误
-有没有大神有龙芯3a5000m新世界固件教程？, 137******44 , 2 hours ago , 【Newbies】 ,https://bbs.deepin.org/en/post/274347,0,64,有没有大神有龙芯3a5000m新世界固件和教程？我在网上找了一圈都没找到，现在进主板是昆仑固件，不能直接装deepin-desktop-community-23-preview-loong64，谢谢
-UOS 如何使用命令判断wifi开关是否开启, Stars , 2 hours ago , 【UOS】 ,https://bbs.deepin.org/en/post/274346,5,76,
-wine游戏助手配置问题, ゼロから , 2 hours ago , 【wine zone】 ,https://bbs.deepin.org/en/post/274345,1,40,
-refind引导deepin+win双系统多出两个deepi, 192******10 , 2 hours ago , 【Seek Help】 ,https://bbs.deepin.org/en/post/274344,2,39,各位大神，麻烦帮我这个小白下，谢谢！
-为什么deepin会删除我的壁纸, 随风而去 , 2 hours ago , 【Wallpapers】 ,https://bbs.deepin.org/en/post/274343,1,86,我大概下载了200多张壁纸，放在
-关机重启后，会卸载百度网盘, 深度之家 , 3 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/274342,1,38,NA
-从仓颉编程的生态来看，deepin-IDE必须要跨平台才行, 凡 , 3 hours ago , 【product suggestions】 ,https://bbs.deepin.org/en/post/274341,11,188,
-从华为仓颉编程语言的官方文档来看，目前仅支持Windows系统、Linux系统环境的使用，但是最新内测版本也开始进行了MacOS系统环境的测试。
-微信图标异常, 深度之家 , 4 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/274340,1,52,NA
-企业微信无法拉起会议, mrcsy , 5 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/274338,0,61,企业微信的这个版本，在系统版本【社区版(RC2)(23)】下无法进入会议，各位大佬有解决办法么
-商店的qt-creator 如何安装qt6, 绍贝格尔 , 6 hours ago , 【software development】 ,https://bbs.deepin.org/en/post/274336,6,115,
-OpenAI API 变成Close API，中国区的API访问将被阻止！, 流浪的加菲 , 6 hours ago , 【Topic DIscussion】 ,https://bbs.deepin.org/en/post/274335,11,217,6 月 25 日消息，OpenAI 官方推送的邮件通知中指出，自 7 月 9 日起，OpenAI 将开始阻止来自非支持国家和地区的 API 流量。
-deepinv23rc2安装山石网科scvpn, 没事儿瞎转悠 , 6 hours ago , 【Share Experiences】 ,https://bbs.deepin.org/en/post/274334,2,72,deepinv23rc2的应用商店没有还没有山石网科的vpn，参照论坛帖子，安装并处理遇到的问题。
-更新系统V23 rc2后，应用商店不见了，乍回事，如何补救？, yueyanltd , 7 hours ago , 【deepin exploration】 ,https://bbs.deepin.org/en/post/274332,7,163,更新系统V23 rc2后，应用商店不见了，乍回事，如何补救？
-龙芯3A5000M启动不了deepin系统u盘安装系统怎么弄？, 137******44 , 7 hours ago , 【other】 ,https://bbs.deepin.org/en/post/274331,4,112,请教下，我是清华同方笔记本龙芯3A5000M，装UOS正常引导，但是下载深度系统，刻好盘后一直不能进U盘装DEEPIN，怎么解决？
-deepin v23的UI出师未捷身先死，加油, a1124258836 , 8 hours ago , 【Contribute Advice】 ,https://bbs.deepin.org/en/post/274330,18,565,昨天试用了一下隔壁的openkylin,体验如下：
-番茄小说安装失败，请求大神解决, 阿平 , 9 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/274329,2,95,Package name is uengine-dc-com.dragon.read
-[1;32m从服务器获取配置和镜像列表...[0m
-deepin20 使用了一段时间后的感受, cyx , 9 hours ago , 【deepin exploration】 ,https://bbs.deepin.org/en/post/274328,2,176,前几年一直在win环境下使用　python 开发，尝试了２个月deepin２０　想谈谈感受。
-网页总显示“未连接到互联网”, spox , 16 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/274327,1,61,NA
-（水水滴，而且还湿哒哒滴）脚本写好了，但是没测试, Lwh2008--听话模式 , 18 hours ago , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/274325,2,193,。。。而且过于简单暴力（不到10行）的脚本。。。
-进不了系统，开机提示：fsckd-cancel-msg, zhoucj , 18 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/274324,3,93,进不了系统，开机提示：fsckd-cancel-msg:Press Ctrl+C to cancel all filesystem checks in progress，如下图所示。按Ctrl+C没有用，连续按几次ESC就能进入系统。
-系统邮箱的手动配置信息都是正确的，无法适配成功。, 阿白 , 18 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/274323,5,78,确认了很多次，账号和密码都是正确的，配置信息也都是没有问题，网络也是都可以联网的，点确定不是说账号密码错误就是网络有问题，请问伙伴们有没有遇到过类似问题，是怎么解决的，在论坛搜索没有发现和我遇到类似的问题的。有懂的大佬，麻烦指点一二。
-输入法安装问题, yanxuejin , 18 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/274322,3,109,星火应用商店中的搜狗和百度输入法无法安装，不知如何解决？
-系统监视器添加 GPU 性能监视功能, 小朋友艾沫雨 , 18 hours ago , 【Suggestions for Improvement】 ,https://bbs.deepin.org/en/post/274321,1,148,如题，目前Linux上 CLI 工具已经有很多支持GPU性能跟踪了，希望 Deepin/UOS 系统监视器也添加GPU性能标签卡～
-ADblocker4DeepinBBS v0.02更新, fallingstar-ten , 18 hours ago , 【 Content contribution】 ,https://bbs.deepin.org/en/post/274320,3,189,书接上回
-deepin V23 源里的东西太少了吧, zzboat0422 , 19 hours ago , 【Suggestions for Improvement】 ,https://bbs.deepin.org/en/post/274319,3,307,deepin V23 源里的东西太少了吧
-蚌湖住了!始料未及的彩蛋!, 159******19 , 19 hours ago , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/274318,7,344,蚌湖住了!始料未及的彩蛋!
-使用备份的filesystem.squashfs还原系统, 酷谷的谷子 , 20 hours ago , 【 Content contribution】 ,https://bbs.deepin.org/en/post/274317,0,79,首先使用一个自带LIVE的Linux镜像备份怎个系统，如果有其他分区可以分别备份
-6.10-rc5内核尝鲜, fslong , 21 hours ago , 【Exchange and share】 ,https://bbs.deepin.org/en/post/274316,14,299,
-安装you-get不成功，出现下列提示，怎么处理啊, xuxj , 21 hours ago , 【Tutorials】 ,https://bbs.deepin.org/en/post/274315,11,130,安装you-get不成功，出现下列提示，怎么处理啊？
-Qt 宣布与华为合作开发 OpenHarmony 版本, 流浪的加菲 , 21 hours ago , 【Industry News】 ,https://bbs.deepin.org/en/post/274314,2,341,2024年 6 月 22 日，Qt Group 受邀在华为开发者大会 2024 上发表名为《Qt 跨平台特性帮助开发者实现快速适配》的演讲，分享 Qt 移植到 OpenHarmony 的进展，这将使开发者能够利用 Qt 的跨平台功能，迅速迁移和开发 OpenHarmony 应用程序。
-我的 deepin20.9 今天自动更新了，但不知道更新了什么？, ljq790615 , 21 hours ago , 【Topic DIscussion】 ,https://bbs.deepin.org/en/post/274313,4,236,
-刚新装的20.9版本编辑器不能输入中文, xingjiand , a day ago , 【Seek Help】 ,https://bbs.deepin.org/en/post/274312,2,78,今天刚装的20.9,选的5.18内核，安装完成后。在任何一个文本编辑器中都无法输入中文。包括wps,deepin编辑，pluma,ultraedit,，但在浏览器，vscode,eclipse,idea等开发工具确能正常输入中文。麻烦深度系统或知道这个问题的帮忙解决一下，谢谢！
-没有蓝牙。声音, 176******88 , a day ago , 【Hardware】 ,https://bbs.deepin.org/en/post/274311,0,52,
-docker的汉化, zijinyise , a day ago , 【problem help】 ,https://bbs.deepin.org/en/post/274310,5,150,哪位大佬有docker的汉化包
-求个内核管理的包-包名com.tensor.kernelmanager, coldlook , a day ago , 【software development】 ,https://bbs.deepin.org/en/post/274309,7,127,之前从论坛下载了一个管理内核的软件, 包名是 com.tensor.kernelmanager,  可以用来下载内核
-有了SUYU还要啥自行车, 想用deepin玩游戏 , a day ago , 【Stand-alone Games】 ,https://bbs.deepin.org/en/post/274308,3,211,刚刚试玩了比YUZU好用的SUYU模拟器，支持linux，安卓和macOS。不需要安卓框架，遥遥领先家的系统也能用！单机游戏人的福音
-任务栏怎么不能设置位置, xiaoliu6 , a day ago , 【problem help】 ,https://bbs.deepin.org/en/post/274307,2,74,刚刚发现任务栏不能设置位置
-央视影音用着好好的今天怎么打不开了。商店重新下载让输入配置，, 翱翔@ , a day ago , 【problem help】 ,https://bbs.deepin.org/en/post/274306,2,116,央视影音昨天用着好好的今天就打不开了，商店下载让输入配置，也不知输入什么啊！星火应用商店还下载不了怎么弄啊？
-请问有用过PhyVirt虚拟化平台的吗？请教下问题, 131******66 , 2024-06-25 08:10 , 【UOS】 ,https://bbs.deepin.org/en/post/274305,11,122,我创建虚拟机不知道为什么总是失败，换过好几个Windows版本的镜像了，死活不成功？我的电脑ARM的，有用过的分享下经验吗？
-玲珑邮箱无法启动, 深度之家 , 2024-06-25 08:00 , 【Others】 ,https://bbs.deepin.org/en/post/274304,2,84,NA
-RC2 的dock的位置无法调整，只能在bottom, SHOWTA , 2024-06-25 07:36 , 【Suggestions for Improvement】 ,https://bbs.deepin.org/en/post/274303,1,106,之前版本是可以调整为其他位置的，现在只能在下方了，可以恢复一下调整吗？
-osroot下面的文件不压缩的吗？占用太大了, berners , 2024-06-25 07:21 , 【Seek Help】 ,https://bbs.deepin.org/en/post/274302,2,158,osroot占了20多个GB,假如不需要备份的话，repo和snapshot文件夹可以删掉吧？
-可以实现外接屏时，两个屏分别显示不同的工作区么？, 虫二 , 2024-06-25 07:16 , 【Topic DIscussion】 ,https://bbs.deepin.org/en/post/274299,0,90,如题，比如场景是：有两个工作区，一个工作，一个娱乐。两个屏幕分开显示，各自显示一个工作区
-android avd虚拟机无法打开, 深度之家 , 2024-06-25 07:00 , 【Others】 ,https://bbs.deepin.org/en/post/274295,1,54,NA
-任务栏左边的四个工作区和剪贴板怎么删除，开始菜单不靠左不舒服, liujy126 , 2024-06-25 06:21 , 【problem help】 ,https://bbs.deepin.org/en/post/274294,2,105,如题
-笔记本无法切换刷新率，只有90hz没有60hz, 深度之家 , 2024-06-25 06:01 , 【Others】 ,https://bbs.deepin.org/en/post/274293,1,91,NA
-显卡设置问题求助？, 龙入海 , 2024-06-25 05:03 , 【problem help】 ,https://bbs.deepin.org/en/post/274292,4,117,这个界面看不到N卡，是不是就说明N卡是没装驱动？装系统的时候勾选了那个N卡闭源驱动，没生效？
-20.9大约是什么水平？, 迷鹿 , 2024-06-25 04:36 , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/274291,1,259,前一阵因23RC的不稳定性，我把两个老笔电回退到了20.9，感觉系统稳定性真的不错，少了好多麻烦，而且常见应用都能更新，日常办公休闲也基本够用。就突然想起一问，在硬件相同的条件下（老机子哈），单从性能角度讲，这个20.9系统大约是个什么水平呢？如果用WIN系统做参照的话，能达到或者超过WINXP还是WIN7？
-（鸿蒙PC稳了？）Qt 与华为合作，快速开发开源鸿蒙应用, 江心白 , 2024-06-25 04:28 , 【Industry News】 ,https://bbs.deepin.org/en/post/274290,5,560,https://www.ithome.com/0/777/488.htm
-关于deepin论坛数学打卡赛活动的建议, deepin-superuser , 2024-06-25 03:56 , 【Topic DIscussion】 ,https://bbs.deepin.org/en/post/274289,3,119,对于以后举行类似活动，提供几条建议
-deepin v23默认是否还集成了wine?, edenyin , 2024-06-25 03:53 , 【deepin exploration】 ,https://bbs.deepin.org/en/post/274288,6,291,谁能告诉我一下，deepin v23对wine的集成是默认就包含的，还是以可选安装包的形式来提供的？我能否只选用一个纯净Linux的DeepinV23？
-关于鼠标滑轮的使用建议, 山野村夫 , 2024-06-25 03:24 , 【Suggestions for Improvement】 ,https://bbs.deepin.org/en/post/274287,1,90,目前滑轮的滑动的快慢是手动调节的,希望可以改成按滑动的速度自动调节滑动的距离.
-6月26日UOS直播，解析开发者最新权益以及IDE、DTK和玲珑特点, Crystal , 2024-06-25 02:35 , 【Official Events】 ,https://bbs.deepin.org/en/post/274286,3,224,统信UOS开发者支持网络全新改版上线啦！https://uosdn.uniontech.com/
-求助：清华同方飞腾CPU整机U盘无法启去进去安装系统, ^0^庆^0^ , 2024-06-25 02:15 , 【Tutorials】 ,https://bbs.deepin.org/en/post/274285,3,118,求助：清华同方飞腾CPU整机U盘无法启去进去安装系统，按照安装教程，下载了ARM 架构 的镜像包，按说明在新的U盘上格式化做了启动盘，用U盘启动到选择  Install Deepin  23 desktop 后，只显示一个光标就动不了，有高手能指导一下怎么安装吗
-京东读书只能用一次, 迷在网上 , 2024-06-25 02:06 , 【App Store】 ,https://bbs.deepin.org/en/post/274284,2,118,京东读书，只有安装好后能正常使用一次。退出后再次运行就无法打开了，卸载后重装，又能正常使用一次，然后退出再次又无法打开了。
-[deb] 鸿蒙字体 harmonyos-sans-sc 简体中文版 v1.9, 字甲达宾 , 2024-06-25 01:01 , 【Fonts】 ,https://bbs.deepin.org/en/post/274283,7,415,[deb] 鸿蒙字体 harmonyos-sans-sc 简体中文版 v1.9
-联想笔记本键鼠触摸板问题，UOS认出来，deepin认不出该咋弄呢？, persiancat , 2024-06-25 00:34 , 【other】 ,https://bbs.deepin.org/en/post/274282,1,115,有台联想开天的笔记本 N4620Z P-203的，如果安装UOS 1070版，装好直接就能空格键下方的键鼠触摸板了；但试了装deepin V20.9 、 deepin V23 ，装好后键鼠触摸板是没有响应的。
-deepin v23 RC 安装分区界面，无法完整显示分区名称 /dev/sdaXX, 字甲达宾 , 2024-06-25 00:09 , 【System Installation】 ,https://bbs.deepin.org/en/post/274281,3,107,deepin v23 RC 安装分区界面，无法完整显示分区名称 /dev/sdaXX
-2024.6.25
-Ubuntu 24.10 现在默认在英伟达上使用 Wayland, 江心白 , 2024-06-24 21:15 , 【Industry News】 ,https://bbs.deepin.org/en/post/274280,5,359,Ubuntu 24.10将于10月发布，其中一项明确的计划变更是英伟达默认使用Wayland而非X11作为默认桌面会话。从上周开始，Ubuntu 24.10的日常用户在使用英伟达官方Linux图形驱动程序时将发现Wayland-by-default。
-简传已上架星火商店👏👏及v1.1.3版本更新，欢迎下载使用, 寻雾启示 , 2024-06-24 14:54 , 【App Sharing】 ,https://bbs.deepin.org/en/post/274279,11,463,理论支持全平台架构，欢迎下载体验
-鼠标滚轮先慢后快的原因及解决方法, zzboat0422 , 2024-06-24 13:28 , 【Exchange and share】 ,https://bbs.deepin.org/en/post/274278,5,160,屏幕：4K屏幕，默认的200%缩放
-切换音频框架后重启系统（注销除外），玲珑版的QQ音乐会被删除, 深度之家 , 2024-06-24 13:00 , 【Others】 ,https://bbs.deepin.org/en/post/274277,1,118,NA
-firefox画面显示异常, Kmiot , 2024-06-24 12:41 , 【3rd-Party Apps】 ,https://bbs.deepin.org/en/post/274276,2,152,firefox刚装好画面是正常的缩放，但一重启画面就变了，像开了放大镜似的，从deepin20.9-deepinV23RC2，一直这样。
+deepin论坛数学打卡赛！第五题发布！,deepin小助手,7 hours ago,【Official Events】,https://bbs.deepin.org/en/post/274333,13,215,可点击阅读活动原帖，了解更多活动相关规则：deepin论坛数学打卡赛！解题有奖！
+2024年06月21日deepin V23 RC 内测更新公告,deepin小助手,2024-06-21 09:47,【Version closed beta】,https://bbs.deepin.org/en/post/274136,25,2227,NA
+速来！deepin社区文化衫设计大赛!,deepin小助手,2024-06-21 07:38,【Official Events】,https://bbs.deepin.org/en/post/274129,6,462,● 创意无限：展示你的设计才能，让创意成为现实！
+加入UOS开发者网站，开启你的技术之旅！【内含福利】,YEZII,2024-06-18 01:53,【UOS】,https://bbs.deepin.org/en/post/273991,13,1519,（成为UOS认证开发者，获取UOS专用授权激活码）
+统信应用兼容引擎打开的应用不能适应或调整分辨率或缩放,深度之家,32 minutes ago,【Others】,https://bbs.deepin.org/en/post/274351,1,14,NA
+deepin的github仓库被gitcode爬取了,神末shenmo,an hour ago,【Industry News】,https://bbs.deepin.org/en/post/274350,8,202,https://gitcode.com/linuxdeepin
+23.0beta3 修改密码后无法登陆,peanut,2 hours ago,【System Installation】,https://bbs.deepin.org/en/post/274348,1,33,安装23.0beta3 修改密码为：\\\\\\后无法登陆, 总提示密码错误
+有没有大神有龙芯3a5000m新世界固件教程？,137******44,2 hours ago,【Newbies】,https://bbs.deepin.org/en/post/274347,0,64,有没有大神有龙芯3a5000m新世界固件和教程？我在网上找了一圈都没找到，现在进主板是昆仑固件，不能直接装deepin-desktop-community-23-preview-loong64，谢谢
+UOS 如何使用命令判断wifi开关是否开启,Stars,2 hours ago,【UOS】,https://bbs.deepin.org/en/post/274346,5,76,NA
+wine游戏助手配置问题,ゼロから,2 hours ago,【wine zone】,https://bbs.deepin.org/en/post/274345,1,40,NA
+refind引导deepin+win双系统多出两个deepi,192******10,2 hours ago,【Seek Help】,https://bbs.deepin.org/en/post/274344,2,39,各位大神，麻烦帮我这个小白下，谢谢！
+为什么deepin会删除我的壁纸,随风而去,2 hours ago,【Wallpapers】,https://bbs.deepin.org/en/post/274343,1,86,我大概下载了200多张壁纸，放在
+关机重启后，会卸载百度网盘,深度之家,3 hours ago,【Others】,https://bbs.deepin.org/en/post/274342,1,38,NA
+从仓颉编程的生态来看，deepin-IDE必须要跨平台才行,凡,3 hours ago,【product suggestions】,https://bbs.deepin.org/en/post/274341,11,188,NA
+微信图标异常,深度之家,4 hours ago,【Others】,https://bbs.deepin.org/en/post/274340,1,52,NA
+企业微信无法拉起会议,mrcsy,5 hours ago,【problem help】,https://bbs.deepin.org/en/post/274338,0,61,企业微信的这个版本，在系统版本【社区版(RC2)(23)】下无法进入会议，各位大佬有解决办法么
+商店的qt-creator 如何安装qt6,绍贝格尔,6 hours ago,【software development】,https://bbs.deepin.org/en/post/274336,6,115,NA
+OpenAI API 变成Close API，中国区的API访问将被阻止！,流浪的加菲,6 hours ago,【Topic DIscussion】,https://bbs.deepin.org/en/post/274335,11,217,6 月 25 日消息，OpenAI 官方推送的邮件通知中指出，自 7 月 9 日起，OpenAI 将开始阻止来自非支持国家和地区的 API 流量。
+deepinv23rc2安装山石网科scvpn,没事儿瞎转悠,6 hours ago,【Share Experiences】,https://bbs.deepin.org/en/post/274334,2,72,deepinv23rc2的应用商店没有还没有山石网科的vpn，参照论坛帖子，安装并处理遇到的问题。
+更新系统V23 rc2后，应用商店不见了，乍回事，如何补救？,yueyanltd,7 hours ago,【deepin exploration】,https://bbs.deepin.org/en/post/274332,7,163,更新系统V23 rc2后，应用商店不见了，乍回事，如何补救？
+龙芯3A5000M启动不了deepin系统u盘安装系统怎么弄？,137******44,7 hours ago,【other】,https://bbs.deepin.org/en/post/274331,4,112,请教下，我是清华同方笔记本龙芯3A5000M，装UOS正常引导，但是下载深度系统，刻好盘后一直不能进U盘装DEEPIN，怎么解决？
+deepin v23的UI出师未捷身先死，加油,a1124258836,8 hours ago,【Contribute Advice】,https://bbs.deepin.org/en/post/274330,18,565,昨天试用了一下隔壁的openkylin,体验如下：
+番茄小说安装失败，请求大神解决,阿平,9 hours ago,【problem help】,https://bbs.deepin.org/en/post/274329,2,95,Package name is uengine-dc-com.dragon.read
+deepin20 使用了一段时间后的感受,cyx,9 hours ago,【deepin exploration】,https://bbs.deepin.org/en/post/274328,2,176,前几年一直在win环境下使用　python 开发，尝试了２个月deepin２０　想谈谈感受。
+网页总显示“未连接到互联网”,spox,16 hours ago,【problem help】,https://bbs.deepin.org/en/post/274327,1,61,NA
+（水水滴，而且还湿哒哒滴）脚本写好了，但是没测试,Lwh2008--听话模式,18 hours ago,【Feelings & Sharing】,https://bbs.deepin.org/en/post/274325,2,193,。。。而且过于简单暴力（不到10行）的脚本。。。
+进不了系统，开机提示：fsckd-cancel-msg,zhoucj,18 hours ago,【problem help】,https://bbs.deepin.org/en/post/274324,3,93,进不了系统，开机提示：fsckd-cancel-msg:Press Ctrl+C to cancel all filesystem checks in progress，如下图所示。按Ctrl+C没有用，连续按几次ESC就能进入系统。
+系统邮箱的手动配置信息都是正确的，无法适配成功。,阿白,18 hours ago,【problem help】,https://bbs.deepin.org/en/post/274323,5,78,确认了很多次，账号和密码都是正确的，配置信息也都是没有问题，网络也是都可以联网的，点确定不是说账号密码错误就是网络有问题，请问伙伴们有没有遇到过类似问题，是怎么解决的，在论坛搜索没有发现和我遇到类似的问题的。有懂的大佬，麻烦指点一二。
+输入法安装问题,yanxuejin,18 hours ago,【problem help】,https://bbs.deepin.org/en/post/274322,3,109,星火应用商店中的搜狗和百度输入法无法安装，不知如何解决？
+系统监视器添加 GPU 性能监视功能,小朋友艾沫雨,18 hours ago,【Suggestions for Improvement】,https://bbs.deepin.org/en/post/274321,1,148,如题，目前Linux上 CLI 工具已经有很多支持GPU性能跟踪了，希望 Deepin/UOS 系统监视器也添加GPU性能标签卡～
+ADblocker4DeepinBBS v0.02更新,fallingstar-ten,18 hours ago,【 Content contribution】,https://bbs.deepin.org/en/post/274320,3,189,书接上回
+deepin V23 源里的东西太少了吧,zzboat0422,19 hours ago,【Suggestions for Improvement】,https://bbs.deepin.org/en/post/274319,3,307,deepin V23 源里的东西太少了吧
+蚌湖住了!始料未及的彩蛋!,159******19,19 hours ago,【Feelings & Sharing】,https://bbs.deepin.org/en/post/274318,7,344,蚌湖住了!始料未及的彩蛋!
+使用备份的filesystem.squashfs还原系统,酷谷的谷子,20 hours ago,【 Content contribution】,https://bbs.deepin.org/en/post/274317,0,79,首先使用一个自带LIVE的Linux镜像备份怎个系统，如果有其他分区可以分别备份
+6.10-rc5内核尝鲜,fslong,21 hours ago,【Exchange and share】,https://bbs.deepin.org/en/post/274316,14,299,NA
+安装you-get不成功，出现下列提示，怎么处理啊,xuxj,21 hours ago,【Tutorials】,https://bbs.deepin.org/en/post/274315,11,130,安装you-get不成功，出现下列提示，怎么处理啊？
+Qt 宣布与华为合作开发 OpenHarmony 版本,流浪的加菲,21 hours ago,【Industry News】,https://bbs.deepin.org/en/post/274314,2,341,2024年 6 月 22 日，Qt Group 受邀在华为开发者大会 2024 上发表名为《Qt 跨平台特性帮助开发者实现快速适配》的演讲，分享 Qt 移植到 OpenHarmony 的进展，这将使开发者能够利用 Qt 的跨平台功能，迅速迁移和开发 OpenHarmony 应用程序。
+我的 deepin20.9 今天自动更新了，但不知道更新了什么？,ljq790615,21 hours ago,【Topic DIscussion】,https://bbs.deepin.org/en/post/274313,4,236,NA
+刚新装的20.9版本编辑器不能输入中文,xingjiand,a day ago,【Seek Help】,https://bbs.deepin.org/en/post/274312,2,78,今天刚装的20.9,选的5.18内核，安装完成后。在任何一个文本编辑器中都无法输入中文。包括wps,deepin编辑，pluma,ultraedit,，但在浏览器，vscode,eclipse,idea等开发工具确能正常输入中文。麻烦深度系统或知道这个问题的帮忙解决一下，谢谢！
+没有蓝牙。声音,176******88,a day ago,【Hardware】,https://bbs.deepin.org/en/post/274311,0,52,NA
+docker的汉化,zijinyise,a day ago,【problem help】,https://bbs.deepin.org/en/post/274310,5,150,哪位大佬有docker的汉化包
+求个内核管理的包-包名com.tensor.kernelmanager,coldlook,a day ago,【software development】,https://bbs.deepin.org/en/post/274309,7,127,之前从论坛下载了一个管理内核的软件, 包名是 com.tensor.kernelmanager,  可以用来下载内核
+有了SUYU还要啥自行车,想用deepin玩游戏,a day ago,【Stand-alone Games】,https://bbs.deepin.org/en/post/274308,3,211,刚刚试玩了比YUZU好用的SUYU模拟器，支持linux，安卓和macOS。不需要安卓框架，遥遥领先家的系统也能用！单机游戏人的福音
+任务栏怎么不能设置位置,xiaoliu6,a day ago,【problem help】,https://bbs.deepin.org/en/post/274307,2,74,刚刚发现任务栏不能设置位置
+央视影音用着好好的今天怎么打不开了。商店重新下载让输入配置，,翱翔@,a day ago,【problem help】,https://bbs.deepin.org/en/post/274306,2,116,央视影音昨天用着好好的今天就打不开了，商店下载让输入配置，也不知输入什么啊！星火应用商店还下载不了怎么弄啊？
+请问有用过PhyVirt虚拟化平台的吗？请教下问题,131******66,2024-06-25 08:10,【UOS】,https://bbs.deepin.org/en/post/274305,11,122,我创建虚拟机不知道为什么总是失败，换过好几个Windows版本的镜像了，死活不成功？我的电脑ARM的，有用过的分享下经验吗？
+玲珑邮箱无法启动,深度之家,2024-06-25 08:00,【Others】,https://bbs.deepin.org/en/post/274304,2,84,NA
+RC2 的dock的位置无法调整，只能在bottom,SHOWTA,2024-06-25 07:36,【Suggestions for Improvement】,https://bbs.deepin.org/en/post/274303,1,106,之前版本是可以调整为其他位置的，现在只能在下方了，可以恢复一下调整吗？
+osroot下面的文件不压缩的吗？占用太大了,berners,2024-06-25 07:21,【Seek Help】,https://bbs.deepin.org/en/post/274302,2,158,osroot占了20多个GB,假如不需要备份的话，repo和snapshot文件夹可以删掉吧？
+可以实现外接屏时，两个屏分别显示不同的工作区么？,虫二,2024-06-25 07:16,【Topic DIscussion】,https://bbs.deepin.org/en/post/274299,0,90,如题，比如场景是：有两个工作区，一个工作，一个娱乐。两个屏幕分开显示，各自显示一个工作区
+android avd虚拟机无法打开,深度之家,2024-06-25 07:00,【Others】,https://bbs.deepin.org/en/post/274295,1,54,NA
+任务栏左边的四个工作区和剪贴板怎么删除，开始菜单不靠左不舒服,liujy126,2024-06-25 06:21,【problem help】,https://bbs.deepin.org/en/post/274294,2,105,如题
+笔记本无法切换刷新率，只有90hz没有60hz,深度之家,2024-06-25 06:01,【Others】,https://bbs.deepin.org/en/post/274293,1,91,NA
+显卡设置问题求助？,龙入海,2024-06-25 05:03,【problem help】,https://bbs.deepin.org/en/post/274292,4,117,这个界面看不到N卡，是不是就说明N卡是没装驱动？装系统的时候勾选了那个N卡闭源驱动，没生效？
+20.9大约是什么水平？,迷鹿,2024-06-25 04:36,【Feelings & Sharing】,https://bbs.deepin.org/en/post/274291,1,259,前一阵因23RC的不稳定性，我把两个老笔电回退到了20.9，感觉系统稳定性真的不错，少了好多麻烦，而且常见应用都能更新，日常办公休闲也基本够用。就突然想起一问，在硬件相同的条件下（老机子哈），单从性能角度讲，这个20.9系统大约是个什么水平呢？如果用WIN系统做参照的话，能达到或者超过WINXP还是WIN7？
+（鸿蒙PC稳了？）Qt 与华为合作，快速开发开源鸿蒙应用,江心白,2024-06-25 04:28,【Industry News】,https://bbs.deepin.org/en/post/274290,5,560,https://www.ithome.com/0/777/488.htm
+关于deepin论坛数学打卡赛活动的建议,deepin-superuser,2024-06-25 03:56,【Topic DIscussion】,https://bbs.deepin.org/en/post/274289,3,119,对于以后举行类似活动，提供几条建议
+deepin v23默认是否还集成了wine?,edenyin,2024-06-25 03:53,【deepin exploration】,https://bbs.deepin.org/en/post/274288,6,291,谁能告诉我一下，deepin v23对wine的集成是默认就包含的，还是以可选安装包的形式来提供的？我能否只选用一个纯净Linux的DeepinV23？
+关于鼠标滑轮的使用建议,山野村夫,2024-06-25 03:24,【Suggestions for Improvement】,https://bbs.deepin.org/en/post/274287,1,90,目前滑轮的滑动的快慢是手动调节的,希望可以改成按滑动的速度自动调节滑动的距离.
+6月26日UOS直播，解析开发者最新权益以及IDE、DTK和玲珑特点,Crystal,2024-06-25 02:35,【Official Events】,https://bbs.deepin.org/en/post/274286,3,224,统信UOS开发者支持网络全新改版上线啦！https://uosdn.uniontech.com/
+求助：清华同方飞腾CPU整机U盘无法启去进去安装系统,^0^庆^0^,2024-06-25 02:15,【Tutorials】,https://bbs.deepin.org/en/post/274285,3,118,求助：清华同方飞腾CPU整机U盘无法启去进去安装系统，按照安装教程，下载了ARM 架构 的镜像包，按说明在新的U盘上格式化做了启动盘，用U盘启动到选择  Install Deepin  23 desktop 后，只显示一个光标就动不了，有高手能指导一下怎么安装吗
+京东读书只能用一次,迷在网上,2024-06-25 02:06,【App Store】,https://bbs.deepin.org/en/post/274284,2,118,京东读书，只有安装好后能正常使用一次。退出后再次运行就无法打开了，卸载后重装，又能正常使用一次，然后退出再次又无法打开了。
+[deb] 鸿蒙字体 harmonyos-sans-sc 简体中文版 v1.9,字甲达宾,2024-06-25 01:01,【Fonts】,https://bbs.deepin.org/en/post/274283,7,415,[deb] 鸿蒙字体 harmonyos-sans-sc 简体中文版 v1.9
+联想笔记本键鼠触摸板问题，UOS认出来，deepin认不出该咋弄呢？,persiancat,2024-06-25 00:34,【other】,https://bbs.deepin.org/en/post/274282,1,115,有台联想开天的笔记本 N4620Z P-203的，如果安装UOS 1070版，装好直接就能空格键下方的键鼠触摸板了；但试了装deepin V20.9 、 deepin V23 ，装好后键鼠触摸板是没有响应的。
+deepin v23 RC 安装分区界面，无法完整显示分区名称 /dev/sdaXX,字甲达宾,2024-06-25 00:09,【System Installation】,https://bbs.deepin.org/en/post/274281,3,107,deepin v23 RC 安装分区界面，无法完整显示分区名称 /dev/sdaXX
+Ubuntu 24.10 现在默认在英伟达上使用 Wayland,江心白,2024-06-24 21:15,【Industry News】,https://bbs.deepin.org/en/post/274280,5,359,Ubuntu 24.10将于10月发布，其中一项明确的计划变更是英伟达默认使用Wayland而非X11作为默认桌面会话。从上周开始，Ubuntu 24.10的日常用户在使用英伟达官方Linux图形驱动程序时将发现Wayland-by-default。
+简传已上架星火商店👏👏及v1.1.3版本更新，欢迎下载使用,寻雾启示,2024-06-24 14:54,【App Sharing】,https://bbs.deepin.org/en/post/274279,11,463,理论支持全平台架构，欢迎下载体验
+鼠标滚轮先慢后快的原因及解决方法,zzboat0422,2024-06-24 13:28,【Exchange and share】,https://bbs.deepin.org/en/post/274278,5,160,屏幕：4K屏幕，默认的200%缩放
+切换音频框架后重启系统（注销除外），玲珑版的QQ音乐会被删除,深度之家,2024-06-24 13:00,【Others】,https://bbs.deepin.org/en/post/274277,1,118,NA
+firefox画面显示异常,Kmiot,2024-06-24 12:41,【3rd-Party Apps】,https://bbs.deepin.org/en/post/274276,2,152,firefox刚装好画面是正常的缩放，但一重启画面就变了，像开了放大镜似的，从deepin20.9-deepinV23RC2，一直这样。
+还关不掉,OneZ_,2024-06-24 12:20,【Seek Help】,https://bbs.deepin.org/en/post/274275,2,104,大佬们 求助！！  中间输密码的窗口关不上（授权或者切换猫猫内核时触发的），只能重启解决，还有那两个猫猫内核进程无响应  重启后又复现了一遍这个问题  怎么解决呀
+刚刚又死机了,xiaoliu6,2024-06-24 12:10,【problem help】,https://bbs.deepin.org/en/post/274274,3,183,刚刚看b站又死机了，htop 就是这个样子，搞不懂这是什么情况
+出现卡死能不能看,xiaoliu6,2024-06-24 10:12,【Exchange and share】,https://bbs.deepin.org/en/post/274270,2,113,NA
+论坛有人申请了仓颉SDK吗,要讲武德,2024-06-24 10:00,【software development】,https://bbs.deepin.org/en/post/274269,2,329,https://mp.weixin.qq.com/s/u5EhcX7kWhkD53QFc0NoKQ
+系统的安装，你的魔法操作是什么,魔法师,2024-06-24 09:34,【Topic DIscussion】,https://bbs.deepin.org/en/post/274267,18,366,「RT」本喵一般的操作是 EFI 就整个 fat32 + / 收工，普通就 /boot + / 收工
+求一张壁纸，怎么也找不到，谢谢！,atooat,2024-06-24 08:56,【Wallpapers】,https://bbs.deepin.org/en/post/274266,2,254,求一张壁纸，怎么也找不到，谢谢！
+红米14pro utral5,装完系统没声音，有没大内高手指导指导？,潼潼爸,2024-06-24 08:43,【Seek Help】,https://bbs.deepin.org/en/post/274265,4,147,
+【文化衫设计大赛】我设计的文化衫,阿尼樱奈奈,2024-06-24 07:02,【Feelings & Sharing】,https://bbs.deepin.org/en/post/274264,11,249,psd源文件已在这里公开：psd源文件.zip
+小浣熊吉祥物的waifu版本,神末shenmo,2024-06-24 07:02,【Feelings & Sharing】,https://bbs.deepin.org/en/post/274263,13,266,我们就叫他星吧
+双显示器情况下，启动器菜单弹出位置不正确,MR.王,2024-06-24 06:49,【problem help】,https://bbs.deepin.org/en/post/274262,1,130,NA
+关于鸿蒙内核的靠谱分析,sshnuke,2024-06-24 06:41,【Industry News】,https://bbs.deepin.org/en/post/274261,19,924,NA
+可以自己选择更新时是否备份,深度之家,2024-06-24 06:15,【Others】,https://bbs.deepin.org/en/post/274259,1,97,NA
+建议更新时，是否备份由用户自己决定，可以默认选中,深度之家,2024-06-24 06:00,【Others】,https://bbs.deepin.org/en/post/274258,1,114,NA
+给一个不要合并任务栏的设置,深度之家,2024-06-24 05:52,【Others】,https://bbs.deepin.org/en/post/274257,3,106,NA
+在应用菜单中搜索应用时，应该默认选中第一个选项，增强可用性,深度之家,2024-06-24 05:41,【Others】,https://bbs.deepin.org/en/post/274256,1,49,NA
+收集一下deepin生态缺少的软件需求,lq,2024-06-24 05:00,【software development】,https://bbs.deepin.org/en/post/274255,37,541,本人是一枚二把刀程序员，计划学习开发一款linux软件，适配deepin和uos系统
+如何使用快捷键打开浏览器？大神 看看哈,c***8@126.com,2024-06-24 04:42,【problem help】,https://bbs.deepin.org/en/post/274254,2,98,其实 最常用的工具就是 浏览器，v23 带的 默认浏览器 也 足够用，如何 能使用快捷键直接打开浏览器，就像打开 终端那样，我记得以前 用 谷歌的时候，好像创建 快捷键，然后 输入命令就行。但是默认的浏览器  不知道 命令是啥，哪位大神指导下，如果 创建 直接打开浏览器的快捷键
+Deepin20.9新增源安装最新Docker的方法记录,daniel_shao,2024-06-24 03:25,【 Content contribution】,https://bbs.deepin.org/en/post/274253,3,195,Deepin源里的Docker版本比较老，有些软件需要最新的API才能运行。因此按照官方教程摸索出了安装新版本Docker的方法，记录分享给大家。
+一个论坛评论区屏蔽名单的油猴脚本,fallingstar-ten,2024-06-24 03:16,【 Content contribution】,https://bbs.deepin.org/en/post/274252,18,462,书接上回，我们在屏蔽/黑名单功能上的争执没有得到解决，然后我当时使用了爬虫+blog作为解决方案，这样解决了在首页里面进行用户过滤，但是没有在帖子本身内及评论区做工作。
+打印机不能打印，提示：打印中 【no profiles specified in PPD】,我只是来看看,2024-06-24 03:10,【problem help】,https://bbs.deepin.org/en/post/274251,6,141,重装了一下系统就不能打印了，大家帮帮忙
+使用rEFInd进入windows会自动新建一个windows启动项,176******17,2024-06-24 02:05,【Seek Help】,https://bbs.deepin.org/en/post/274250,3,107,每次通过rEFind进入Windows，Windows都会新建一个Windows启动项放在第一位。有没有什么解决办法
+生产力都有了,sshnuke,2024-06-24 02:00,【Industry News】,https://bbs.deepin.org/en/post/274249,24,705,NA
+【新题】deepin论坛数学打卡赛！第四题发布！,deepin小助手,2024-06-24 01:48,【Official Events】,https://bbs.deepin.org/en/post/274248,49,977,可点击阅读活动原帖，了解更多活动相关规则：deepin论坛数学打卡赛！解题有奖！
+刚刚安装v23rc2一些bug,horran3,2024-06-24 01:27,【Suggestions for Improvement】,https://bbs.deepin.org/en/post/274247,5,313,笔记本版本：thinkpad x1 carbon gen6
+今日份骚操作,fslong,2024-06-24 01:24,【Exchange and share】,https://bbs.deepin.org/en/post/274246,11,347,NA
+Deepin官方第一群现提供少量优质坑位，欢迎加入谈天论地聊技术！,刚刚好,2024-06-23 22:26,【Topic DIscussion】,https://bbs.deepin.org/en/post/274245,13,388,坑位有限，先到先得
+深度浏览器不能设置为默认浏览器,lipan567,2024-06-23 22:00,【Explorer】,https://bbs.deepin.org/en/post/274244,4,137,设了默认，再打开又会提示是否设为默认浏览器，不知什么情况？
+水贴: harmonyOS Next版，让平板电脑有更多PC操作体验,凡,2024-06-23 17:27,【Industry News】,https://bbs.deepin.org/en/post/274243,21,830,转载视频链接：
+反馈一个系统问题,xiaoliu6,2024-06-23 16:44,【problem help】,https://bbs.deepin.org/en/post/274242,9,180,就是电脑开机使用太久  有时候会卡死，刚刚用谷歌浏览器刷B站 刷着刷着就卡死了  桌面图标和任务栏也消失了，卡死了 2  3次  ，不知道你们有没有遇到这个问题。
+星火应用商店软件安装问题,yanxuejin,2024-06-23 15:56,【Topic DIscussion】,https://bbs.deepin.org/en/post/274241,6,182,星火应用商店中的WPS缺失字体、还有其它应用为何不能安装，显示为安装错误，如何解决？
+升级电脑内存,xueyibingfei,2024-06-23 15:27,【Exchange and share】,https://bbs.deepin.org/en/post/274240,16,257,我目前的内存是8G, 但是在打开多个网页后有点卡，而且风扇也转得比较厉害，想咨询一下各位大神，如果我升级内存的话，会不会有改善
+RC2,浏览器与以管理员身份打开文件夹,光明,2024-06-23 15:26,【Suggestions for Improvement】,https://bbs.deepin.org/en/post/274239,5,122,1、开机后第一次打开浏览器，不能加载收藏夹。关闭后再次打开才会正常。
+建议提升系统资源管理能力,137******41,2024-06-23 15:16,【Suggestions for Improvement】,https://bbs.deepin.org/en/post/274238,4,132,我在单位的开发机，配置了约47GB内存，两块SSD，用于同时打开webStorm、rider、idea等多个大型IDE。
+央视影音客户端下载的视频文件在哪个位置？,星辰大海的种花家,2024-06-23 15:15,【Seek Help】,https://bbs.deepin.org/en/post/274237,0,86,应用商店安装的央视影音，下载的视频文件保存在哪里？新手学习，请老鸟指教，谢谢！
+磁盘管理器功能建议加强,137******41,2024-06-23 14:55,【Suggestions for Improvement】,https://bbs.deepin.org/en/post/274236,1,99,不知道磁盘管理器定位是什么？
+【文化衫设计大赛】deepin文化衫设计,梦夏,2024-06-23 14:03,【deepin exploration】,https://bbs.deepin.org/en/post/274234,4,164,正面：
+仓颉语言的IDE会像C#那样,有公共的可拖拽组件库,181******56,2024-06-23 13:00,【software development】,https://bbs.deepin.org/en/post/274233,4,308,仓颉语言的IDE会像C#那样, 有公共的可拖拽组件库, 同时支持共享组件库和付费的分享组件库, UI能够节省很大一部分开发时间, 同时支持一端开发全设备兼容.
+哪位坛友帮忙传个23RC2的/etc/sudoers文件,conlin,2024-06-23 12:20,【Seek Help】,https://bbs.deepin.org/en/post/274232,4,184,前天20.9玩崩了无法启动，直接装了23RC2,习惯性地打了个以前的装机脚本，里面有一句sudo sed -i '/%sudo/a'"$USER"' ALL=(ALL:ALL) NOPASSWD:ALL' /etc/sudoers，结果20.9和23的sudoers文件不一样，在多个匹配行后面都进行了替换，我说怎么用起来有点问题，所以哪位坛友帮传个sudoers文件上来，系统版本如下：
+联想V460安装deepin后无线网络找不到,180******22,2024-06-23 12:18,【Tutorials】,https://bbs.deepin.org/en/post/274231,1,95,联想V460安装deepin后无线网络找不到，是不是没有驱动啊？哪里可以下载驱动？
+dppve内核6.6.35更新,fslong,2024-06-23 11:18,【Exchange and share】,https://bbs.deepin.org/en/post/274230,7,296,我知道有同学们喜欢lts内核，那就更新一下吧。
+深度浏览器关闭最后页面直接退出程序不合理,lipan567,2024-06-23 11:07,【Explorer】,https://bbs.deepin.org/en/post/274229,10,213,深度浏览器关闭最后一页后，它居然直接退出了程序，这个逻辑肯定有问题。
+崩溃了，弄来弄去，ssudo 权限找回这么难.........,130******88,2024-06-23 10:06,【Kernel/Drive】,https://bbs.deepin.org/en/post/274228,18,236,只因 sudo的命令在/usr/bin下面，这个文件一定不要解锁，如果不小心把这个文件解锁了，之后执行的每一个指令，都会报一个错误：/usr/bin/sudo 必须属于用户 ID 0(的用户)并且设置 setuid 位
+Android无障碍结合opencv实现支付宝能量自动化收集,流浪的加菲,2024-06-23 09:22,【Forward Content】,https://bbs.deepin.org/en/post/274226,3,104,Android无障碍服务可以操作元素，手势模拟，实现基本的控制。opencv可以进行图像识别。两者结合在一起即可实现支付宝能量自动收集。opencv用于识别能量，无障碍服务用于模拟手势，即点击能量。
+如何安装wine软件,蒙大拿,2024-06-23 08:51,【software development】,https://bbs.deepin.org/en/post/274225,4,210,请教各位大神，V23如何安装wine软件，有没有详细教程？
+启动器里空空如也,春之灵,2024-06-23 08:37,【problem help】,https://bbs.deepin.org/en/post/274224,4,130,升级后启动器里空空如也，啥也找不到了，如何解决？
+pictures upload failed,130******88,2024-06-23 08:34,【Others】,https://bbs.deepin.org/en/post/274223,12,113,Now I am under UOS Live User ,when I was take part in deepin forum,talking about question ,need upload picture in this system.
+建议防止磁盘100%,West Chen,2024-06-23 07:40,【Suggestions for Improvement】,https://bbs.deepin.org/en/post/274222,3,226,刚遇到的一个问题，以为系统崩溃了，逐步定位最终发现是磁盘被异常打满后系统进不去的原因，见本贴：
+打印机无法彩打,海湾上的北辰,2024-06-23 07:26,【problem help】,https://bbs.deepin.org/en/post/274220,1,77,如题，我的打印机不知为什么不能彩打。已经设置成彩打了
+deepin-movie增加从网址播放和投屏,173******47,2024-06-23 07:07,【software development】,https://bbs.deepin.org/en/post/274219,1,142,如题，有没有大佬做过
+突然发现一个问题,吴标,2024-06-23 06:45,【Contribute Advice】,https://bbs.deepin.org/en/post/274218,7,167,突然发现微信语音不能在电话上听，可转文字，一听直接退出，20.9的系统
+When the window size is reduced,the details move out.,深度之家,2 hours ago,【Others】,https://bbs.deepin.org/en/post/274349,1,9,NA
+Language doesn"t work properly,深度之家,5 hours ago,【Others】,https://bbs.deepin.org/en/post/274339,1,19,NA
+Kdenlive showing boxes instead of text menu heads,深度之家,6 hours ago,【Others】,https://bbs.deepin.org/en/post/274337,1,18,NA
+我的deepin20.9近期有点疯，天天都更新……, ljq790615 , 14 minutes ago , 【Topic DIscussion】 ,https://bbs.deepin.org/en/post/274375,1,15,
+[文化衫设计大赛]deepin文化衫设计, z***6@gmail.com , 6 hours ago , 【deepin exploration】 ,https://bbs.deepin.org/en/post/274374,2,40,a套餐:
+国外也存在杠精麻烦，可以参考，看下讨论。, 159******19 , 6 hours ago , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/274373,0,95,国外也存在杠精麻烦，可以参考，看下讨论。
+求助：Realtek RTL8822BE网卡开机不能联网, 136******36 , 7 hours ago , 【hardware development】 ,https://bbs.deepin.org/en/post/274372,0,29,求助：Realtek RTL8822BE网卡开机不能联网 如何解决？
+为啥不沿袭原成熟风格——任务栏图标不要都并在文件管理器里啊！, spox , 8 hours ago , 【Suggestions for Improvement】 ,https://bbs.deepin.org/en/post/274371,3,164,NA
+求助筒子们！！！！！！！！！！, 199******91 , 8 hours ago , 【other】 ,https://bbs.deepin.org/en/post/274370,0,82,用系统自带的软件打PDF和WPS打印都会卡，福昕打印就不卡，但是福昕默认不是双面的每次都需要手动设置很烦，别人也不会用，求筒子们怎么能一劳永逸的办法？
+新手请教如何安装NextChat客户端呀？, 136******79 , 8 hours ago , 【Seek Help】 ,https://bbs.deepin.org/en/post/274369,3,72,之前一直都是windows用户，今天刚装上了deep 20.9(内核5.18.7)版本，还在体验中。
+有什么方案可以把微信放在文档里的文件夹挪走, 沈拙言 , 8 hours ago , 【deepin exploration】 ,https://bbs.deepin.org/en/post/274368,4,71,
+希望官方上架Navicat Premium Lite！免费！, 199******64 , 8 hours ago , 【App Sharing】 ,https://bbs.deepin.org/en/post/274367,5,127,
+文件管理器打开多个窗口后，无法 通过鼠标点击打开, 欢乐马 , 8 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/274366,3,40,文件管理器打开多个窗口后，无法 通过鼠标点击打开，
+微信提示账户已登陆，但实际后台没有登陆微信, 欢乐马 , 9 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/274365,2,46,之前是微信发不出去消息，就把微信关闭了，然后重新启动 扫码 ，就提提示这个了
+文件管理器多个文件夹右键查询属性，弹出N多属性窗口，逆天！, 龙入海 , 9 hours ago , 【File Manager】 ,https://bbs.deepin.org/en/post/274364,17,144,文件管理器多个文件夹右键查询属性，弹出N多属性窗口，逆天！
+有些人就知道采用极端手段, 青稚° , 9 hours ago , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/274363,32,783,声明，不是针对全部坛友，是部分行为过激的，盗号和邮箱辱骂无辜的人不可取。
+显示分辨率只有1024x768, yubiao , 9 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/274362,0,75,华为matebook 16 D 2024高能版，1920x1200的分辨率，安装系统后显示分辨率只有1024x768，
+没声音，不能扩展显示器，设备华为metabook D 15, 洗衣带娃 , 10 hours ago , 【Newbies】 ,https://bbs.deepin.org/en/post/274361,1,65,NA
+关于深度操作系统与windows分区共存的问题, 老金牛 , 10 hours ago , 【Tutorials】 ,https://bbs.deepin.org/en/post/274360,4,139,我现在使用的是华为matebook14笔记本电脑原装微软操作系统，关心的一个问题就是：
+星火应用商店，目前的游戏清单。2024年06月26日, 159******19 , 10 hours ago , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/274359,5,175,星火应用商店，目前的游戏清单。2024年06月26日
+龙芯3A6000启动Linux版Unity Hub, 東雲なの , 12 hours ago , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/274357,1,157,龙芯3A6000 Deepin V23 Unity Hub vulkan渲染
+nvm 只在当前的终端窗口中生效, 深度之家 , 12 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/274356,1,47,NA
+关于deepin23CR2的远程桌面连接, lipan567 , 13 hours ago , 【Suggestions for Improvement】 ,https://bbs.deepin.org/en/post/274355,3,129,深度官方主要精力应该要放在解决痛点上面。比如远程桌面登录，目前深度体验很糟糕，需要装这装那，非常麻烦！体验了一下乌班图24.04，内核是6.8的，只要到设置里面开通远程桌面登录，再添加一个新用户，设置一下账户和密码，windows就可以通过mstsc远程桌面完美登录，不需要装任何额外软件。
+美图秀秀官网有一个原生linux版（uos）下载但deepin无法使用, 深度之家 , 13 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/274353,6,218,NA
+使用deepin V23 RC2 在本地搭建Stable Diffusion, 流浪的加菲 , 14 hours ago , 【Share Experiences】 ,https://bbs.deepin.org/en/post/274352,9,169,最近尝试了下在deepin V23 RC2本地部署Stable Diffusion（SD官方提供的在线版能力比较弱鸡，而且很多参数不能调节，使用次数还有限制），经历了一波三折总算是成功了，趁热把经验分享出来，以后可以愉快的玩耍了。
 求助！！进程无响应
-还关不掉, OneZ_ , 2024-06-24 12:20 , 【Seek Help】 ,https://bbs.deepin.org/en/post/274275,2,104,大佬们 求助！！  中间输密码的窗口关不上（授权或者切换猫猫内核时触发的），只能重启解决，还有那两个猫猫内核进程无响应  重启后又复现了一遍这个问题  怎么解决呀
-刚刚又死机了, xiaoliu6 , 2024-06-24 12:10 , 【problem help】 ,https://bbs.deepin.org/en/post/274274,3,183,刚刚看b站又死机了，htop 就是这个样子，搞不懂这是什么情况
+还关不掉, OneZ_ , 2024-06-24 12:20 , 【Seek Help】 ,https://bbs.deepin.org/en/post/274275,2,110,大佬们 求助！！  中间输密码的窗口关不上（授权或者切换猫猫内核时触发的），只能重启解决，还有那两个猫猫内核进程无响应  重启后又复现了一遍这个问题  怎么解决呀
 用开发板连接电脑ssh 监控一下性能看看
-出现卡死能不能看, xiaoliu6 , 2024-06-24 10:12 , 【Exchange and share】 ,https://bbs.deepin.org/en/post/274270,2,113,
-论坛有人申请了仓颉SDK吗, 要讲武德 , 2024-06-24 10:00 , 【software development】 ,https://bbs.deepin.org/en/post/274269,2,329,https://mp.weixin.qq.com/s/u5EhcX7kWhkD53QFc0NoKQ
-系统的安装，你的魔法操作是什么, 魔法师 , 2024-06-24 09:34 , 【Topic DIscussion】 ,https://bbs.deepin.org/en/post/274267,18,366,「RT」本喵一般的操作是 EFI 就整个 fat32 + / 收工，普通就 /boot + / 收工
-求一张壁纸，怎么也找不到，谢谢！, atooat , 2024-06-24 08:56 , 【Wallpapers】 ,https://bbs.deepin.org/en/post/274266,2,254,求一张壁纸，怎么也找不到，谢谢！
-红米14pro utral5, 装完系统没声音，有没大内高手指导指导？, 潼潼爸 , 2024-06-24 08:43 , 【Seek Help】 ,https://bbs.deepin.org/en/post/274265,4,147,
-【文化衫设计大赛】我设计的文化衫, 阿尼樱奈奈 , 2024-06-24 07:02 , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/274264,11,249,psd源文件已在这里公开：psd源文件.zip
-小浣熊吉祥物的waifu版本, 神末shenmo , 2024-06-24 07:02 , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/274263,13,266,我们就叫他星吧
-双显示器情况下，启动器菜单弹出位置不正确, MR.王 , 2024-06-24 06:49 , 【problem help】 ,https://bbs.deepin.org/en/post/274262,1,130,
-关于鸿蒙内核的靠谱分析, sshnuke , 2024-06-24 06:41 , 【Industry News】 ,https://bbs.deepin.org/en/post/274261,19,924,
-可以自己选择更新时是否备份, 深度之家 , 2024-06-24 06:15 , 【Others】 ,https://bbs.deepin.org/en/post/274259,1,97,NA
-建议更新时，是否备份由用户自己决定，可以默认选中, 深度之家 , 2024-06-24 06:00 , 【Others】 ,https://bbs.deepin.org/en/post/274258,1,114,NA
-给一个不要合并任务栏的设置, 深度之家 , 2024-06-24 05:52 , 【Others】 ,https://bbs.deepin.org/en/post/274257,3,106,NA
-在应用菜单中搜索应用时，应该默认选中第一个选项，增强可用性, 深度之家 , 2024-06-24 05:41 , 【Others】 ,https://bbs.deepin.org/en/post/274256,1,49,NA
-收集一下deepin生态缺少的软件需求, lq , 2024-06-24 05:00 , 【software development】 ,https://bbs.deepin.org/en/post/274255,37,541,本人是一枚二把刀程序员，计划学习开发一款linux软件，适配deepin和uos系统
-如何使用快捷键打开浏览器？大神 看看哈, c***8@126.com , 2024-06-24 04:42 , 【problem help】 ,https://bbs.deepin.org/en/post/274254,2,98,其实 最常用的工具就是 浏览器，v23 带的 默认浏览器 也 足够用，如何 能使用快捷键直接打开浏览器，就像打开 终端那样，我记得以前 用 谷歌的时候，好像创建 快捷键，然后 输入命令就行。但是默认的浏览器  不知道 命令是啥，哪位大神指导下，如果 创建 直接打开浏览器的快捷键
-Deepin20.9新增源安装最新Docker的方法记录, daniel_shao , 2024-06-24 03:25 , 【 Content contribution】 ,https://bbs.deepin.org/en/post/274253,3,195,Deepin源里的Docker版本比较老，有些软件需要最新的API才能运行。因此按照官方教程摸索出了安装新版本Docker的方法，记录分享给大家。
-一个论坛评论区屏蔽名单的油猴脚本, fallingstar-ten , 2024-06-24 03:16 , 【 Content contribution】 ,https://bbs.deepin.org/en/post/274252,18,462,书接上回，我们在屏蔽/黑名单功能上的争执没有得到解决，然后我当时使用了爬虫+blog作为解决方案，这样解决了在首页里面进行用户过滤，但是没有在帖子本身内及评论区做工作。
-打印机不能打印，提示：打印中 【no profiles specified in PPD】, 我只是来看看 , 2024-06-24 03:10 , 【problem help】 ,https://bbs.deepin.org/en/post/274251,6,141,重装了一下系统就不能打印了，大家帮帮忙
-使用rEFInd进入windows会自动新建一个windows启动项, 176******17 , 2024-06-24 02:05 , 【Seek Help】 ,https://bbs.deepin.org/en/post/274250,3,107,每次通过rEFind进入Windows，Windows都会新建一个Windows启动项放在第一位。有没有什么解决办法
-生产力都有了, sshnuke , 2024-06-24 02:00 , 【Industry News】 ,https://bbs.deepin.org/en/post/274249,24,705,
-【新题】deepin论坛数学打卡赛！第四题发布！, deepin小助手 , 2024-06-24 01:48 , 【Official Events】 ,https://bbs.deepin.org/en/post/274248,49,977,可点击阅读活动原帖，了解更多活动相关规则：deepin论坛数学打卡赛！解题有奖！
-刚刚安装v23rc2一些bug, horran3 , 2024-06-24 01:27 , 【Suggestions for Improvement】 ,https://bbs.deepin.org/en/post/274247,5,313,笔记本版本：thinkpad x1 carbon gen6
-今日份骚操作, fslong , 2024-06-24 01:24 , 【Exchange and share】 ,https://bbs.deepin.org/en/post/274246,11,347,
-Deepin官方第一群现提供少量优质坑位，欢迎加入谈天论地聊技术！, 刚刚好 , 2024-06-23 22:26 , 【Topic DIscussion】 ,https://bbs.deepin.org/en/post/274245,13,388,坑位有限，先到先得
-深度浏览器不能设置为默认浏览器, lipan567 , 2024-06-23 22:00 , 【Explorer】 ,https://bbs.deepin.org/en/post/274244,4,137,设了默认，再打开又会提示是否设为默认浏览器，不知什么情况？
-水贴: harmonyOS Next版，让平板电脑有更多PC操作体验, 凡 , 2024-06-23 17:27 , 【Industry News】 ,https://bbs.deepin.org/en/post/274243,21,830,转载视频链接：
-反馈一个系统问题, xiaoliu6 , 2024-06-23 16:44 , 【problem help】 ,https://bbs.deepin.org/en/post/274242,9,180,就是电脑开机使用太久  有时候会卡死，刚刚用谷歌浏览器刷B站 刷着刷着就卡死了  桌面图标和任务栏也消失了，卡死了 2  3次  ，不知道你们有没有遇到这个问题。
-星火应用商店软件安装问题, yanxuejin , 2024-06-23 15:56 , 【Topic DIscussion】 ,https://bbs.deepin.org/en/post/274241,6,182,星火应用商店中的WPS缺失字体、还有其它应用为何不能安装，显示为安装错误，如何解决？
-升级电脑内存, xueyibingfei , 2024-06-23 15:27 , 【Exchange and share】 ,https://bbs.deepin.org/en/post/274240,16,257,我目前的内存是8G, 但是在打开多个网页后有点卡，而且风扇也转得比较厉害，想咨询一下各位大神，如果我升级内存的话，会不会有改善
-RC2,浏览器与以管理员身份打开文件夹, 光明 , 2024-06-23 15:26 , 【Suggestions for Improvement】 ,https://bbs.deepin.org/en/post/274239,5,122,1、开机后第一次打开浏览器，不能加载收藏夹。关闭后再次打开才会正常。
-建议提升系统资源管理能力, 137******41 , 2024-06-23 15:16 , 【Suggestions for Improvement】 ,https://bbs.deepin.org/en/post/274238,4,132,我在单位的开发机，配置了约47GB内存，两块SSD，用于同时打开webStorm、rider、idea等多个大型IDE。
-央视影音客户端下载的视频文件在哪个位置？, 星辰大海的种花家 , 2024-06-23 15:15 , 【Seek Help】 ,https://bbs.deepin.org/en/post/274237,0,86,应用商店安装的央视影音，下载的视频文件保存在哪里？新手学习，请老鸟指教，谢谢！
-磁盘管理器功能建议加强, 137******41 , 2024-06-23 14:55 , 【Suggestions for Improvement】 ,https://bbs.deepin.org/en/post/274236,1,99,不知道磁盘管理器定位是什么？
-【文化衫设计大赛】deepin文化衫设计, 梦夏 , 2024-06-23 14:03 , 【deepin exploration】 ,https://bbs.deepin.org/en/post/274234,4,164,正面：
-仓颉语言的IDE会像C#那样, 有公共的可拖拽组件库, 181******56 , 2024-06-23 13:00 , 【software development】 ,https://bbs.deepin.org/en/post/274233,4,308,仓颉语言的IDE会像C#那样, 有公共的可拖拽组件库, 同时支持共享组件库和付费的分享组件库, UI能够节省很大一部分开发时间, 同时支持一端开发全设备兼容.
-哪位坛友帮忙传个23RC2的/etc/sudoers文件, conlin , 2024-06-23 12:20 , 【Seek Help】 ,https://bbs.deepin.org/en/post/274232,4,184,前天20.9玩崩了无法启动，直接装了23RC2,习惯性地打了个以前的装机脚本，里面有一句sudo sed -i '/%sudo/a'"$USER"' ALL=(ALL:ALL) NOPASSWD:ALL' /etc/sudoers，结果20.9和23的sudoers文件不一样，在多个匹配行后面都进行了替换，我说怎么用起来有点问题，所以哪位坛友帮传个sudoers文件上来，系统版本如下：
-联想V460安装deepin后无线网络找不到, 180******22 , 2024-06-23 12:18 , 【Tutorials】 ,https://bbs.deepin.org/en/post/274231,1,95,联想V460安装deepin后无线网络找不到，是不是没有驱动啊？哪里可以下载驱动？
-dppve内核6.6.35更新, fslong , 2024-06-23 11:18 , 【Exchange and share】 ,https://bbs.deepin.org/en/post/274230,7,296,我知道有同学们喜欢lts内核，那就更新一下吧。
-深度浏览器关闭最后页面直接退出程序不合理, lipan567 , 2024-06-23 11:07 , 【Explorer】 ,https://bbs.deepin.org/en/post/274229,10,213,深度浏览器关闭最后一页后，它居然直接退出了程序，这个逻辑肯定有问题。
-崩溃了，弄来弄去，ssudo 权限找回这么难........., 130******88 , 2024-06-23 10:06 , 【Kernel/Drive】 ,https://bbs.deepin.org/en/post/274228,18,236,只因 sudo的命令在/usr/bin下面，这个文件一定不要解锁，如果不小心把这个文件解锁了，之后执行的每一个指令，都会报一个错误：/usr/bin/sudo 必须属于用户 ID 0(的用户)并且设置 setuid 位
-Android无障碍结合opencv实现支付宝能量自动化收集, 流浪的加菲 , 2024-06-23 09:22 , 【Forward Content】 ,https://bbs.deepin.org/en/post/274226,3,104,Android无障碍服务可以操作元素，手势模拟，实现基本的控制。opencv可以进行图像识别。两者结合在一起即可实现支付宝能量自动收集。opencv用于识别能量，无障碍服务用于模拟手势，即点击能量。
-如何安装wine软件, 蒙大拿 , 2024-06-23 08:51 , 【software development】 ,https://bbs.deepin.org/en/post/274225,4,210,请教各位大神，V23如何安装wine软件，有没有详细教程？
-启动器里空空如也, 春之灵 , 2024-06-23 08:37 , 【problem help】 ,https://bbs.deepin.org/en/post/274224,4,130,升级后启动器里空空如也，啥也找不到了，如何解决？
-pictures upload failed, 130******88 , 2024-06-23 08:34 , 【Others】 ,https://bbs.deepin.org/en/post/274223,12,113,Now I am under UOS Live User ,when I was take part in deepin forum,talking about question ,need upload picture in this system.
-建议防止磁盘100%, West Chen , 2024-06-23 07:40 , 【Suggestions for Improvement】 ,https://bbs.deepin.org/en/post/274222,3,226,刚遇到的一个问题，以为系统崩溃了，逐步定位最终发现是磁盘被异常打满后系统进不去的原因，见本贴：
-打印机无法彩打, 海湾上的北辰 , 2024-06-23 07:26 , 【problem help】 ,https://bbs.deepin.org/en/post/274220,1,77,如题，我的打印机不知为什么不能彩打。已经设置成彩打了
-deepin-movie增加从网址播放和投屏, 173******47 , 2024-06-23 07:07 , 【software development】 ,https://bbs.deepin.org/en/post/274219,1,142, 如题，有没有大佬做过
-突然发现一个问题, 吴标 , 2024-06-23 06:45 , 【Contribute Advice】 ,https://bbs.deepin.org/en/post/274218,7,167,突然发现微信语音不能在电话上听，可转文字，一听直接退出，20.9的系统
+出现卡死能不能看, xiaoliu6 , 2024-06-24 10:12 , 【Exchange and share】 ,https://bbs.deepin.org/en/post/274270,2,118,
+红米14pro utral5, 装完系统没声音，有没大内高手指导指导？, 潼潼爸 , 2024-06-24 08:43 , 【Seek Help】 ,https://bbs.deepin.org/en/post/274265,4,156,
 deepin Forum moderator
-recruitment, deepin小助手 , 2024-06-19 08:32 , 【Official Events】 ,https://bbs.deepin.org/en/post/274055,0,368,Are you passionate about technology, community engagement, and good at leading discussions? We are looking for enthusiastic individuals to join our team as deepin English forum moderators.
-deepin V23 RC Update Changelog on Jun 21, 2024, deepin小助手 , 2024-06-21 09:50 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/274138,0,199,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
-When the window size is reduced,the details move out., 深度之家 , 2 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/274349,1,9,NA
-Language doesn"t work properly, 深度之家 , 5 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/274339,1,19,NA
-Kdenlive showing boxes instead of text menu heads, 深度之家 , 6 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/274337,1,18,NA
+recruitment, deepin小助手 , 2024-06-19 08:32 , 【Official Events】 ,https://bbs.deepin.org/en/post/274055,0,397,Are you passionate about technology, community engagement, and good at leading discussions? We are looking for enthusiastic individuals to join our team as deepin English forum moderators.
+deepin V23 RC Update Changelog on Jun 21, 2024, deepin小助手 , 2024-06-21 09:50 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/274138,0,215,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+deepin Platform Power Strategy, longlong , 13 hours ago , 【Exchange and share】 ,https://bbs.deepin.org/en/post/274354,1,25,Background
+When the window size is reduced,the details move out., 深度之家 , 15 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/274349,1,23,NA
 wine
-issue, giuseppe00 , 2024-06-17 08:19 , 【problem help】 ,https://bbs.deepin.org/en/post/273966,7,433,Yesterday I downloaded the version DEEPIN  RC2 when i do "sudo apt install wine" it says wine command not found, how can I install wine on this version of deepin
-Announcement on UOS AI related updates in deepin V23 RC2 on June 14, 2024, deepin小助手 , 2024-06-14 10:02 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/273831,4,234,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
-deepin V23 RC Update Changelog on Jun 07, 2024, deepin小助手 , 2024-06-07 09:53 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/273583,0,565,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
-deepin V23 release update log May 31, 2024, deepin小助手 , 2024-05-31 08:24 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/273270,0,510,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
-magic lamp effect, the animation moves to the second screen, 深度之家 , 2024-05-29 06:00 , 【Others】 ,https://bbs.deepin.org/en/post/273165,3,287,NA
-deepin V23 release update log May 24, 2024, deepin小助手 , 2024-05-24 08:05 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/272981,0,628,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
-UI Hover Effects, Click Effects, are Missing in a lot of Things., r***t@gmail.com , 2024-05-21 15:47 , 【Contribute Advice】 ,https://bbs.deepin.org/en/post/272834,1,366,UI Hover Effects, Click Effects, are Missing in a lot of Things. Animations are also boring and have only linear easing (no speed changes as the animation progesses) in a lot of things. It is very simple, I think this is done intentionally because it is not that hard to fix this. here is a list of the parts of the OS that are affected by this:
-limit for max apps on the dock, or scrollable dock, 深度之家 , 2024-05-20 01:35 , 【Others】 ,https://bbs.deepin.org/en/post/272691,1,325,NA
-deepin V23 release update log May 17, 2024, deepin小助手 , 2024-05-17 07:45 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/272526,1,711,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
-May 10, 2024 deepin V23 Update, deepin小助手 , 2024-05-10 12:09 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/272125,0,419,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
-Explore deepin products! Detailed features, your queries invited!, deepin小助手 , 2024-05-06 06:19 , 【Community News】 ,https://bbs.deepin.org/en/post/271921,0,513,Hi friends from the deepin community!
+issue, giuseppe00 , 2024-06-17 08:19 , 【problem help】 ,https://bbs.deepin.org/en/post/273966,7,435,Yesterday I downloaded the version DEEPIN  RC2 when i do "sudo apt install wine" it says wine command not found, how can I install wine on this version of deepin
+Announcement on UOS AI related updates in deepin V23 RC2 on June 14, 2024, deepin小助手 , 2024-06-14 10:02 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/273831,4,235,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+deepin V23 RC Update Changelog on Jun 07, 2024, deepin小助手 , 2024-06-07 09:53 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/273583,0,566,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+deepin V23 release update log May 31, 2024, deepin小助手 , 2024-05-31 08:24 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/273270,0,512,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+magic lamp effect, the animation moves to the second screen, 深度之家 , 2024-05-29 06:00 , 【Others】 ,https://bbs.deepin.org/en/post/273165,3,289,NA
+deepin V23 release update log May 24, 2024, deepin小助手 , 2024-05-24 08:05 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/272981,0,629,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+UI Hover Effects, Click Effects, are Missing in a lot of Things., r***t@gmail.com , 2024-05-21 15:47 , 【Contribute Advice】 ,https://bbs.deepin.org/en/post/272834,1,369,UI Hover Effects, Click Effects, are Missing in a lot of Things. Animations are also boring and have only linear easing (no speed changes as the animation progesses) in a lot of things. It is very simple, I think this is done intentionally because it is not that hard to fix this. here is a list of the parts of the OS that are affected by this:
+limit for max apps on the dock, or scrollable dock, 深度之家 , 2024-05-20 01:35 , 【Others】 ,https://bbs.deepin.org/en/post/272691,1,327,NA
+deepin V23 release update log May 17, 2024, deepin小助手 , 2024-05-17 07:45 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/272526,1,715,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+May 10, 2024 deepin V23 Update, deepin小助手 , 2024-05-10 12:09 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/272125,0,420,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+Explore deepin products! Detailed features, your queries invited!, deepin小助手 , 2024-05-06 06:19 , 【Community News】 ,https://bbs.deepin.org/en/post/271921,0,514,Hi friends from the deepin community!
 April 30, 2024 deepin V23
-Update, deepin小助手 , 2024-04-30 01:56 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/271656,6,1529,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
-swap, zram, zswap, swap space and memory compression scheme, yanjuner , 2024-04-26 03:00 , 【deepin exploration】 ,https://bbs.deepin.org/en/post/271440,1,624,zram : It is just memory compression technology. Data cannot be saved when shutting down. If you do not want to use the hibernation function, you do not need to set up any swap partition. Set zram directly. Judging from the compression ratio of zstd 1:4, you set a memory ZRAM (16G) with twice the space (8G) actually takes up 50% of the physical memory (that is, 4G) when it is full, so you can think that you have 4+16=20G of memory to use.Swap : This thing is called swap space. It generally has two forms, swap partition and swap file. If you only use it to open large files, it may be written to the hard disk swap space. It can also be used to hibernate and save work progress when power is turned off.zswap : zswap is a kernel function that provides a compressed memory cache for swap pages. Pages that would otherwise be swapped to disk are compressed and stored in an in-memory storage pool. The difference compared with zram is that zswap works together with the swap device, while zram is an in-memory swap device and does not require a backup swap device. If you want to hibernate, you need swap. You can do this by adjusting the exchange rate. Don't always write data to swap. Memory compression solves the need for normal boot use. The data only needs to be saved to the hard disk during hibernation. It is simply a problem. Perfect solution.
+Update, deepin小助手 , 2024-04-30 01:56 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/271656,6,1533,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+swap, zram, zswap, swap space and memory compression scheme, yanjuner , 2024-04-26 03:00 , 【deepin exploration】 ,https://bbs.deepin.org/en/post/271440,1,629,zram : It is just memory compression technology. Data cannot be saved when shutting down. If you do not want to use the hibernation function, you do not need to set up any swap partition. Set zram directly. Judging from the compression ratio of zstd 1:4, you set a memory ZRAM (16G) with twice the space (8G) actually takes up 50% of the physical memory (that is, 4G) when it is full, so you can think that you have 4+16=20G of memory to use.Swap : This thing is called swap space. It generally has two forms, swap partition and swap file. If you only use it to open large files, it may be written to the hard disk swap space. It can also be used to hibernate and save work progress when power is turned off.zswap : zswap is a kernel function that provides a compressed memory cache for swap pages. Pages that would otherwise be swapped to disk are compressed and stored in an in-memory storage pool. The difference compared with zram is that zswap works together with the swap device, while zram is an in-memory swap device and does not require a backup swap device. If you want to hibernate, you need swap. You can do this by adjusting the exchange rate. Don't always write data to swap. Memory compression solves the need for normal boot use. The data only needs to be saved to the hard disk during hibernation. It is simply a problem. Perfect solution.
 [Btrfs]
-swap, zram, zswap, swap space and memory compression, yanjuner , 2024-04-19 05:40 , 【deepin exploration】 ,https://bbs.deepin.org/en/post/271089,0,501,zram : It is just memory compression technology. Data cannot be saved when shutting down. If you do not want to use the hibernation function, you do not need to set up any swap partition. Set zram directly. Judging from the compression ratio of zstd 1:4, you set a memory ZRAM (16G) with twice the space (8G) actually takes up 50% of the physical memory (that is, 4G) when it is full, so you can think that you have 4+16=20G of memory to use.Swap : This thing is called swap space. It generally has two forms, swap partition and swap file. If you only use it to open large files, it may be written to the hard disk swap space. It can also be used to hibernate and save work progress when power is turned off.zswap : zswap is a kernel function that provides a compressed memory cache for swap pages. Pages that would otherwise be swapped to disk are compressed and stored in an in-memory storage pool. The difference compared with zram is that zswap works together with the swap device, while zram is an in-memory swap device and does not require a backup swap device. If you want to hibernate, you need swap. You can do this by adjusting the exchange rate. Don't always write data to swap. Memory compression solves the need for normal boot use. The data only needs to be saved to the hard disk during hibernation. It is simply a problem. Perfect solution.
+swap, zram, zswap, swap space and memory compression, yanjuner , 2024-04-19 05:40 , 【deepin exploration】 ,https://bbs.deepin.org/en/post/271089,0,503,zram : It is just memory compression technology. Data cannot be saved when shutting down. If you do not want to use the hibernation function, you do not need to set up any swap partition. Set zram directly. Judging from the compression ratio of zstd 1:4, you set a memory ZRAM (16G) with twice the space (8G) actually takes up 50% of the physical memory (that is, 4G) when it is full, so you can think that you have 4+16=20G of memory to use.Swap : This thing is called swap space. It generally has two forms, swap partition and swap file. If you only use it to open large files, it may be written to the hard disk swap space. It can also be used to hibernate and save work progress when power is turned off.zswap : zswap is a kernel function that provides a compressed memory cache for swap pages. Pages that would otherwise be swapped to disk are compressed and stored in an in-memory storage pool. The difference compared with zram is that zswap works together with the swap device, while zram is an in-memory swap device and does not require a backup swap device. If you want to hibernate, you need swap. You can do this by adjusting the exchange rate. Don't always write data to swap. Memory compression solves the need for normal boot use. The data only needs to be saved to the hard disk during hibernation. It is simply a problem. Perfect solution.
 April 12, 2024
-deepin V23 Beta3 Update, deepin小助手 , 2024-04-12 09:58 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/270728,0,996,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
-March 29, 2024 deepin V23 Beta3 Update, deepin小助手 , 2024-03-29 08:38 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/270059,5,1247,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
-March 22, 2024 deepin V23 Beta3 Update, deepin小助手 , 2024-03-22 08:38 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/269767,1,876,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
-"Does Deepin V20 already support dual monitors?, gamergaskin , 2024-03-17 22:04 , 【Topic DIscussion】 ,https://bbs.deepin.org/en/post/269558,3,447,Does Deepin 20 now support dual monitors? If so, I will install Deepin 20 instead of the beta.
+deepin V23 Beta3 Update, deepin小助手 , 2024-04-12 09:58 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/270728,0,998,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+March 29, 2024 deepin V23 Beta3 Update, deepin小助手 , 2024-03-29 08:38 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/270059,5,1248,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+March 22, 2024 deepin V23 Beta3 Update, deepin小助手 , 2024-03-22 08:38 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/269767,1,878,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+"Does Deepin V20 already support dual monitors?, gamergaskin , 2024-03-17 22:04 , 【Topic DIscussion】 ,https://bbs.deepin.org/en/post/269558,3,448,Does Deepin 20 now support dual monitors? If so, I will install Deepin 20 instead of the beta.
