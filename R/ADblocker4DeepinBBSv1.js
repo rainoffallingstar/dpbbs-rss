@@ -13,17 +13,33 @@
     'use strict';
 
     // 要屏蔽的用户ID列表
-    const blockedUserIds = ['Hannah','绿绒蒿','凡','baisha','江心白','JianDan','江心白','坐井观天下','不惧岁月不惧风']; // 根据需要添加用户ID
+    const blockedUserIds = ['Hannah','','','','','','','','']; // 根据需要添加用户ID
 
-    // 定位到每个回帖的容器
+     // 定位到每个回帖的容器
     const postContainerSelector = 'div.post_pc';
 
     // 定位到用户ID的span
     const userNameSelector = 'span.post_name';
+    // 定位到每个发帖的容器
+    const postContainerSelector_inflow = 'div.post';
 
     // 检查并隐藏帖子内容
     function hidePosts() {
         const postContainers = document.querySelectorAll(postContainerSelector);
+        postContainers.forEach(postContainer => {
+            // 找到用户ID的span元素
+            const userNameSpan = postContainer.querySelector(userNameSelector);
+            if (userNameSpan) {
+                const userId = userNameSpan.textContent.trim();
+                if (blockedUserIds.includes(userId)) {
+                    // 隐藏整个回帖容器
+                    postContainer.style.display = 'none';
+                }
+            }
+        });
+    }
+    function hidePosts_inflow() {
+        const postContainers = document.querySelectorAll(postContainerSelector_inflow);
         postContainers.forEach(postContainer => {
             // 找到用户ID的span元素
             const userNameSpan = postContainer.querySelector(userNameSelector);
@@ -42,6 +58,7 @@
         mutations.forEach((mutation) => {
             if (mutation.type === 'childList') {
                 hidePosts();
+                hidePosts_inflow();
             }
         });
     });
@@ -53,5 +70,8 @@
     });
 
     // 页面加载完成后执行一次
-    document.addEventListener('DOMContentLoaded', hidePosts);
+    document.addEventListener('DOMContentLoaded', ()=>{
+        hidePosts();
+        hidePosts_inflow();
+    });
 })();
