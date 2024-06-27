@@ -3,75 +3,237 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/march-22-2024-deepin-v23-beta3-update/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/march-29-2024-deepin-v23-beta3-update/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/april-12-2024deepin-v23-beta3-update/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/btrfsswap-zram-zswap-swap-space-and-memory-compression/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/swap-zram-zswap-swap-space-and-memory-compression-scheme/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/april-30-2024-deepin-v23update/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/explore-deepin-products-detailed-features-your-queries-invited/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/may-10-2024-deepin-v23-update/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/deepin-v23-release-update-log-may-17-2024/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/limit-for-max-apps-on-the-dock-or-scrollable-dock/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/ui-hover-effects-click-effects-are-missing-in-a-lot-of-things/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/deepin-v23-release-update-log-may-24-2024/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/magic-lamp-effect-the-animation-moves-to-the-second-screen/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/deepin-v23-release-update-log-may-31-2024/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/deepin-v23-rc-update-changelog-on-jun-07-2024/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/announcement-on-uos-ai-related-updates-in-deepin-v23-rc2-on-june-14-2024/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/wineissue/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/deepin-forum-moderatorrecruitment/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/deepin-v23-rc-update-changelog-on-jun-21-2024/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/when-the-window-size-is-reducedthe-details-move-out/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/deepinv23rc2%E7%89%88%E6%9C%AC%E6%80%8E%E4%B9%88%E7%A6%BB%E7%BA%BF%E5%AE%89%E8%A3%85qt5129/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E5%BE%88%E5%A4%9A%E5%BA%94%E7%94%A8%E6%97%A0%E6%B3%95%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E6%97%A9%E4%B8%8A%E5%8F%91%E7%8E%B0-%E8%87%AA%E5%B8%A6%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8-%E4%B8%8D%E8%A7%81%E4%BA%86%E8%B0%81%E7%A2%B0%E5%88%B0%E8%BF%87%E8%BF%99%E7%A7%8D%E6%83%85%E5%86%B5/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E6%96%87%E4%BB%B6%E5%A4%B9%E5%B1%9E%E6%80%A7%E5%A4%A7%E5%B0%8F%E8%AF%BB%E5%8F%96%E9%80%9F%E5%BA%A6%E6%B5%8B%E8%AF%95%E9%9C%80%E8%A6%81%E5%8A%A0%E6%B2%B9%E5%93%A6/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E9%86%89%E4%BA%86%E9%87%8D%E8%A3%85%E7%9A%84rc2%E8%BF%98%E6%98%AF%E4%B8%80%E4%B8%AA%E6%AF%9B%E7%97%85/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E6%96%87%E5%8C%96%E8%A1%AB%E8%AE%BE%E8%AE%A1%E5%A4%A7%E8%B5%9B%E5%92%8C-%E6%95%B0%E5%AD%A6%E6%89%93%E5%8D%A1%E8%B5%9B%E8%AE%A9%E6%88%91%E6%83%B3%E8%B5%B7%E4%BA%86%E4%B8%80%E4%BD%8D%E5%A5%B3%E5%AD%90/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/26%E6%97%A5%E6%99%9Arc2%E4%BD%93%E9%AA%8C%E7%95%A5%E7%B3%9F%E5%BF%83/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/deepin%E6%96%87%E5%8C%96%E8%A1%AB%E8%AE%BE%E8%AE%A1%E6%8A%95%E7%A5%A8%E5%90%AF%E5%8A%A8/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/desktop%E6%96%87%E4%BB%B6%E6%89%93%E4%B8%8D%E5%BC%80%E7%A8%8B%E5%BA%8F/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E5%85%B3%E4%BA%8E6%E6%9C%8821%E6%97%A5%E5%86%85%E6%B5%8B%E6%9B%B4%E6%96%B0%E5%B8%A6%E5%85%A5%E5%A4%A7%E9%87%8Fnode%E5%8C%85%E7%9A%84%E9%97%AE%E9%A2%98/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E6%9B%B4%E6%96%B0v23-rc2%E5%90%8Esudo%E5%91%BD%E4%BB%A4%E5%8D%A1%E4%BD%8F/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E6%83%B3%E6%8A%8A%E7%8E%B0%E5%9C%A8%E7%9A%84deepin%E7%B3%BB%E7%BB%9F%E5%B0%81%E8%A3%85%E6%88%90%E4%B8%80%E4%B8%AAiso%E9%95%9C%E5%83%8F/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E9%B8%BF%E8%92%99%E6%9D%A5%E4%BA%86-deepin%E6%98%AF%E4%B8%8D%E6%98%AF%E5%87%86%E5%A4%87%E5%B0%B1%E6%AD%A4%E6%94%BE%E5%BC%83%E5%91%A2/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97%E5%AE%89%E8%A3%85%E5%A4%AE%E8%A7%86%E5%BD%B1%E9%9F%B3%E5%9C%A8%E6%92%AD%E6%94%BE%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E5%9B%9E%E6%94%B6%E7%AB%99/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E8%87%AA%E4%BB%8E%E9%B8%BF%E8%92%99next%E5%8F%91%E5%B8%83%E5%90%8E%E8%A7%81%E5%88%B0%E5%BE%88%E5%A4%9A%E4%BA%BA%E8%AF%B4%E5%85%B3%E4%BA%8Edeepin%E8%A6%81%E6%8D%A2%E5%9C%B0%E5%9F%BA%E6%8D%A2%E8%B5%9B%E9%81%93/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E7%B3%BB%E7%BB%9F%E5%90%AF%E5%8A%A8%E6%97%B6%E4%B8%80%E7%9B%B4%E6%9C%89%E6%8A%A5%E9%94%99%E4%B8%8D%E7%9F%A5%E9%81%93%E5%A6%82%E4%BD%95%E5%89%8A%E9%99%A4/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E5%AE%89%E8%A3%85nvidia%E5%AE%98%E6%96%B9%E9%A9%B1%E5%8A%A8%E5%90%8E%E6%96%87%E5%AD%97%E4%B9%B1%E7%A0%81/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E5%9C%A8deepin23beta2formoores80amd64iso%E4%B8%8A%E8%BF%90%E8%A1%8Cue5%E7%9A%84%E9%97%AE%E9%A2%98/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/uos-ai%E8%87%AA%E5%AE%9A%E4%B9%89%E6%A8%A1%E5%9E%8B%E7%9A%84api%E7%BB%93%E6%9E%84%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E5%AD%90%E7%9A%84/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E6%B5%8F%E8%A7%88%E5%99%A8%E8%87%AA%E5%B7%B1%E5%88%A0%E9%99%A4%E4%BA%86/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E5%8F%B3%E4%B8%8B%E8%A7%92%E7%8A%B6%E6%80%81%E6%A0%8F%E5%9B%BE%E6%A0%87%E5%AE%9E%E9%99%85%E6%9C%89%E6%95%88%E7%82%B9%E5%87%BB%E5%8C%BA%E5%9F%9F%E5%B0%8F%E4%BA%8E%E5%8A%A8%E7%94%BB%E5%93%8D%E5%BA%94%E5%8C%BA%E5%9F%9F/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E5%90%91%E6%97%A5%E8%91%B5%E8%BD%AF%E4%BB%B6%E5%9C%A8%E5%A4%9A%E5%B1%8F%E6%98%BE%E7%A4%BA%E7%9A%84%E6%83%85%E5%86%B5%E4%B8%8B%E6%9C%80%E5%A4%A7%E5%8C%96%E4%BC%9A%E5%8D%A0%E6%8D%AE%E4%B8%BB%E5%B1%8F%E5%B9%95%E4%B8%8D%E5%88%A9%E4%BA%8E%E4%BD%BF%E7%94%A8/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E5%B8%8C%E6%9C%9B%E4%B8%AA%E6%80%A7%E5%8C%96%E8%AE%BE%E7%BD%AE%E4%BF%9D%E6%8C%81%E5%A4%9A%E4%BB%BB%E5%8A%A1%E8%A7%86%E5%9B%BE%E9%80%89%E9%A1%B9%E7%9A%84%E5%AD%98%E5%9C%A8/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E6%B7%BB%E5%8A%A0%E5%B9%B6%E5%AE%8C%E5%96%84%E5%8A%9F%E8%83%BD/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E7%94%B5%E8%84%91%E9%87%8D%E5%90%AF%E5%90%8E%E6%98%AF%E8%BF%99%E4%B8%AA%E7%95%8C%E9%9D%A2/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/shortcut-%E8%A7%86%E9%A2%91%E5%89%AA%E8%BE%91%E8%BD%AF%E4%BB%B6%E6%80%8E%E4%B9%88%E5%AE%9E%E7%8E%B0%E5%A4%9A%E8%BD%A8%E9%81%93%E8%A7%86%E9%A2%91%E8%BE%93%E5%87%BA/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E5%B7%A5%E4%BD%9C%E5%8C%BA1234%E5%BA%94%E8%AF%A5%E5%8F%AF%E4%BB%A5%E8%AE%BE%E7%BD%AE%E6%88%90%E9%9A%90%E8%97%8F%E4%BB%BB%E5%8A%A1%E6%A0%8F%E4%B8%8D%E8%A6%81%E6%BB%A1%E5%B1%8F%E4%BB%BB%E5%8A%A1%E6%A0%8F%E5%8F%B3%E4%B8%8B%E7%9A%84%E5%9B%BE%E6%A0%87%E5%A4%AA%E5%B0%8F%E4%BA%86/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E9%BE%99%E6%9E%B6%E6%9E%84%E7%89%88deepin/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E9%80%9A%E7%9F%A5%E7%AA%97%E5%8F%A3%E7%9A%84%E4%BD%8D%E7%BD%AE%E8%B0%83%E6%95%B4%E5%88%B0%E4%B8%8B%E6%96%B9/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E5%8D%8E%E4%B8%BA%E5%8F%B0%E5%BC%8F%E6%9C%BA%E8%8A%AF%E7%89%87%E9%BA%92%E9%BA%9F990%E7%BB%9F%E4%BF%A1%E7%B3%BB%E7%BB%9F1050%E7%89%88%E6%9C%ACh3c%E7%9A%84%E4%B8%8A%E7%BD%91%E8%AE%A4%E8%AF%81inode%E5%AE%A2%E6%88%B7%E7%AB%AF/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/customization-of-deepin/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/notifications/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E6%B0%B4%E6%96%87/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E8%AF%9D%E8%AF%B4%E5%8D%8E%E4%B8%BA%E5%92%8Cuos%E8%81%94%E5%90%88%E5%BC%80%E5%8F%91exagear%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%8C%87%E4%BB%A4%E7%BF%BB%E8%AF%91%E6%96%B9%E6%A1%88/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E5%BB%BA%E8%AE%AE%E6%97%A5%E5%8E%86%E5%BA%94%E7%94%A8%E4%B8%AD%E6%8A%8A%E4%BB%8A%E5%A4%A9%E6%97%A5%E6%9C%9F%E7%9A%84%E6%A0%BC%E5%AD%90%E9%AB%98%E4%BA%AE%E6%98%BE%E7%A4%BA/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E5%9C%A8m2%E8%8A%AF%E7%89%87%E7%9A%84macbook-pro-%E4%B8%8A%E5%8E%9F%E7%94%9F%E5%AE%89%E8%A3%85-ubuntu-2404-arm-%E7%89%88/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E6%97%B6%E9%9A%94%E5%B0%86%E8%BF%91%E4%B8%80%E5%B9%B4%E6%88%91%E5%9B%9E%E6%9D%A5%E4%BA%86/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E6%95%99%E7%A8%8Bsurface-laptop3-%E5%AE%89%E8%A3%85deepin%E5%90%8E%E4%BD%BF%E7%94%A8%E8%A7%A6%E6%91%B8%E5%B1%8F/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E4%BB%BB%E5%8A%A1%E6%A0%8F%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8%E7%BC%A9%E7%95%A5%E5%9B%BE%E6%B2%A1%E6%9C%89%E5%86%85%E5%AE%B9/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E5%88%86%E8%BE%A8%E7%8E%87%E4%B8%8D%E8%83%BD%E8%B0%83/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/deepinv23-%E9%BE%99%E8%8A%AF%E6%B5%8B%E8%AF%95%E7%89%88dde%E7%95%8C%E9%9D%A2%E5%81%87%E6%AD%BB%E9%97%AE%E9%A2%98/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97%E4%B8%AD%E6%B2%A1%E6%9C%89nautilus%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E5%8F%8C%E7%B3%BB%E7%BB%9F%E8%93%9D%E7%89%99%E6%97%A0%E7%BC%9D%E8%BF%9E%E6%8E%A5/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E5%AF%B9%E4%BA%8E%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E4%BD%A0%E4%BB%AC%E5%96%9C%E6%AC%A2%E5%93%AA%E7%A7%8D/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E5%A4%A7%E4%BD%AC%E4%BB%AC%E6%89%93%E5%BC%80%E8%BD%AF%E4%BB%B6%E9%97%AA%E9%80%80/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E4%B8%A4%E4%B8%AA%E5%AD%AA%E7%94%9F%E5%85%84%E5%BC%9F%E4%B8%80%E4%B8%AA%E6%98%AFx86%E4%B8%80%E4%B8%AA%E6%98%AF%E9%BE%99%E8%8A%AF%E5%88%86%E4%B8%8D%E6%B8%85%E5%93%AA%E4%B8%AA%E6%98%AF%E9%BE%99/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/uos%E5%B9%B3%E5%8F%B0%E9%92%88%E5%AF%B9%E7%B3%BB%E7%BB%9F%E7%BA%A7%E8%BF%9B%E7%A8%8B%E6%9C%89%E6%B2%A1%E6%9C%89%E8%8E%B7%E5%8F%96%E4%B8%BB%E6%9C%BA%E9%94%81%E5%B1%8F%E7%8A%B6%E6%80%81%E7%9A%84%E6%96%B9%E6%B3%95/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87%E8%99%9A%E6%8B%9F%E6%9C%BA%E4%B8%AD%E7%9A%84windows%E4%BD%BF%E7%94%A8%E6%8A%95%E5%B1%8F%E5%AE%9D%E6%8A%95%E5%B1%8F%E5%90%97/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E7%B3%BB%E7%BB%9F%E6%9B%B4%E6%96%B0%E5%90%8Ewps%E9%87%8C%E9%9D%A2%E6%9F%A5%E7%9C%8B%E5%8A%A0%E7%B2%97%E5%AD%97%E4%BD%93%E6%98%AF%E9%BB%91%E4%B9%8E%E4%B9%8E%E7%9A%84/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/%E4%BC%91%E6%81%AF%E4%B8%80%E6%AE%B5%E6%97%B6%E9%97%B4%E5%90%A7/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/cannot-even-try-deepin-because-of-strange-error/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2024-06-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/does-deepin-v20-already-support-dual-monitors/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/march-22-2024-deepin-v23-beta3-update/</loc>
-    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/march-29-2024-deepin-v23-beta3-update/</loc>
-    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/april-12-2024deepin-v23-beta3-update/</loc>
-    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/btrfsswap-zram-zswap-swap-space-and-memory-compression/</loc>
-    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/swap-zram-zswap-swap-space-and-memory-compression-scheme/</loc>
-    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/april-30-2024-deepin-v23update/</loc>
-    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/explore-deepin-products-detailed-features-your-queries-invited/</loc>
-    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/may-10-2024-deepin-v23-update/</loc>
-    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/deepin-v23-release-update-log-may-17-2024/</loc>
-    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/limit-for-max-apps-on-the-dock-or-scrollable-dock/</loc>
-    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/ui-hover-effects-click-effects-are-missing-in-a-lot-of-things/</loc>
-    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/deepin-v23-release-update-log-may-24-2024/</loc>
-    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/magic-lamp-effect-the-animation-moves-to-the-second-screen/</loc>
-    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/deepin-v23-release-update-log-may-31-2024/</loc>
-    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/deepin-v23-rc-update-changelog-on-jun-07-2024/</loc>
-    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/announcement-on-uos-ai-related-updates-in-deepin-v23-rc2-on-june-14-2024/</loc>
-    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/wineissue/</loc>
-    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/post/%E5%8A%A0%E5%85%A5uos%E5%BC%80%E5%8F%91%E8%80%85%E7%BD%91%E7%AB%99%E5%BC%80%E5%90%AF%E4%BD%A0%E7%9A%84%E6%8A%80%E6%9C%AF%E4%B9%8B%E6%97%85%E5%86%85%E5%90%AB%E7%A6%8F%E5%88%A9/</loc>
-    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/deepin-forum-moderatorrecruitment/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/%E9%80%9F%E6%9D%A5deepin%E7%A4%BE%E5%8C%BA%E6%96%87%E5%8C%96%E8%A1%AB%E8%AE%BE%E8%AE%A1%E5%A4%A7%E8%B5%9B/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/2024%E5%B9%B406%E6%9C%8821%E6%97%A5deepin-v23-rc-%E5%86%85%E6%B5%8B%E6%9B%B4%E6%96%B0%E5%85%AC%E5%91%8A/</loc>
-    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/deepin-v23-rc-update-changelog-on-jun-21-2024/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/%E7%AA%81%E7%84%B6%E5%8F%91%E7%8E%B0%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98/</loc>
@@ -422,9 +584,6 @@
     <loc>/post/230beta3-%E4%BF%AE%E6%94%B9%E5%AF%86%E7%A0%81%E5%90%8E%E6%97%A0%E6%B3%95%E7%99%BB%E9%99%86/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/when-the-window-size-is-reducedthe-details-move-out/</loc>
-    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/post/deepin%E7%9A%84github%E4%BB%93%E5%BA%93%E8%A2%ABgitcode%E7%88%AC%E5%8F%96%E4%BA%86/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -498,9 +657,6 @@
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/%E6%88%91%E7%9A%84deepin209%E8%BF%91%E6%9C%9F%E6%9C%89%E7%82%B9%E7%96%AF%E5%A4%A9%E5%A4%A9%E9%83%BD%E6%9B%B4%E6%96%B0/</loc>
-    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/march-15-2024-deepin-v23-beta3-update/</loc>
