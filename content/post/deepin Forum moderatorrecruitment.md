@@ -1,6 +1,6 @@
 ---
 title: deepin Forum moderatorrecruitment
-date: '2024-06-30'
+date: '2024-07-01'
 linkTitle: https://bbs.deepin.org/en/post/274055
 source: deepin_bbs
 description:  deepin小助手 
