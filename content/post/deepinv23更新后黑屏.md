@@ -1,6 +1,6 @@
 ---
 title: deepinv23更新后黑屏
-date: '2024-07-01'
+date: '2024-07-02'
 linkTitle: https://bbs.deepin.org/en/post/274570
 source: deepin_bbs
 description:  lyylll 
