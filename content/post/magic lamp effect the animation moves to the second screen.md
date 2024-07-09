@@ -1,6 +1,6 @@
 ---
 title: magic lamp effect the animation moves to the second screen
-date: '2024-07-08'
+date: '2024-07-09'
 linkTitle: https://bbs.deepin.org/en/post/273165
 source: deepin_bbs
 description:  深度之家 
