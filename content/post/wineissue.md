@@ -1,6 +1,6 @@
 ---
 title: wineissue
-date: '2024-07-11'
+date: '2024-07-12'
 linkTitle: https://bbs.deepin.org/en/post/273966
 source: deepin_bbs
 description:  giuseppe00 
