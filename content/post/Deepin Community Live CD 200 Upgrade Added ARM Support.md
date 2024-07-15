@@ -1,6 +1,6 @@
 ---
 title: Deepin Community Live CD 200 Upgrade Added ARM Support
-date: '2024-07-14'
+date: '2024-07-15'
 linkTitle: https://bbs.deepin.org/en/post/274710
 source: deepin_bbs
 description:  yanjuner 
