@@ -1,6 +1,6 @@
 ---
 title: deepin V23 RC Update Changelog on July 5 2024
-date: '2024-07-22'
+date: '2024-07-23'
 linkTitle: https://bbs.deepin.org/en/post/274753
 source: deepin_bbs
 description:  deepin小助手 

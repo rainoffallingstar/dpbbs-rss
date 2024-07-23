@@ -13,7 +13,7 @@
     'use strict';
 
     // 要屏蔽的用户ID列表
-    const blockedUserIds = ['Hannah','........','凡','','卢凌风','JianDan','卢凌风','坐井观天下','不惧岁月不惧风']; // 根据需要添加用户ID
+    const blockedUserIds = ['','','','','','','','','']; // 根据需要添加用户ID
 
      // 定位到每个回帖的容器
     const postContainerSelector = 'div.post_pc';
