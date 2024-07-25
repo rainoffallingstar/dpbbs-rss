@@ -1,6 +1,6 @@
 ---
 title: dtk开发关于移植ddedockddecontrolcenter
-date: '2024-07-24'
+date: '2024-07-25'
 linkTitle: https://bbs.deepin.org/en/post/275432
 source: deepin_bbs
 description:  wangnd 
