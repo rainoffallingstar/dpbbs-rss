@@ -1,6 +1,6 @@
 ---
 title: deepin v2326日 release 更新啦快冲
-date: '2024-07-26'
+date: '2024-07-27'
 linkTitle: https://bbs.deepin.org/en/post/275590
 source: deepin_bbs
 description:  userqian 
