@@ -1698,75 +1698,147 @@ Linux Mint 22 LTS版 “Wilma” 正式发布,流浪的加菲,19 hours ago,【In
 【持续更新】优化版Debian (基于testing分支) v3.1.1,jargal,2024-07-28 06:01,【Industry News】,https://bbs.deepin.org/en/post/275657,16,489,--By wiwyil2tr@gmail.com
 12345678,mustafatoprak25,4 hours ago,【problem help】,https://bbs.deepin.org/en/post/275740,0,19,When will the stable version come? We have been waiting for 2 years. ?
 Calendar preview - Error displaying days dock,深度之家,18 hours ago,【Others】,https://bbs.deepin.org/en/post/275698,1,27,NA
-【内测活动】深度探索 共创卓越 — deepin V23 Release 内测启动！, deepin小助手 , 17 hours ago , 【Version closed beta】 ,https://bbs.deepin.org/en/post/275762,30,3376,
-企业微信 Wine 非deepin 平台测试征集, 神末shenmo , 5 hours ago , 【wine zone】 ,https://bbs.deepin.org/en/post/275792,0,55,https://pan.shenmo.tech/index.php?share/file&user=1&sid=RKqS5uHZ
-deepin-IDE是改名了吗？还是说这个bug？, 枫原万叶 , 5 hours ago , 【 feedback】 ,https://bbs.deepin.org/en/post/275791,0,32,更新前好像显示Deepin-UnionCode，更新后显示成了Text Editor了？deepin-IDE这个名字也不再显示了吗？
-有没有什么地方可以方便地下载内核，最好是deb的, zmqsybzc , 6 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/275789,0,35,如题。GXDE感觉太慢了，显示要8个小时。
-论：如何在重装deepin的时候快速恢复到之前系统的配置, 什么是快乐星球 , 6 hours ago , 【Share Experiences】 ,https://bbs.deepin.org/en/post/275788,0,45,各位大佬有没有拿的建议或者方案，每次重装系统 ，都要重新去配置系统。
-我不是引诱你尝试freebsd, 159******19 , 7 hours ago , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/275787,1,110,
-我不是引诱你尝试freebsd
-有没有看出来两个系统跨区壁纸问题在哪里, linux-admin , 7 hours ago , 【Contribute Advice】 ,https://bbs.deepin.org/en/post/275785,0,54,
-系统莫名重启, frand , 10 hours ago , 【Newbies】 ,https://bbs.deepin.org/en/post/275783,3,75,NA
-拓展屏幕模式下点击开始菜单，在拓展屏幕上会残余开始菜单或者主屏幕任务栏丢失, 深度之家 , 10 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/275782,1,20,NA
-台式机换个显卡要注意什么？, 186******97 , 11 hours ago , 【Seek Help】 ,https://bbs.deepin.org/en/post/275781,7,116,我准备给我这个台式机换个显卡（以前是nvidia 1030要换成nvidia 2060），我的台式机没有集显，只有这个独显，请问下Deepin的大神，我要注意什么？直接把显卡换了就可以吗？怎么更新驱动？是会自动更新吗？
-企业微信, LyloVelOvElY , 11 hours ago , 【3rd-Party Apps】 ,https://bbs.deepin.org/en/post/275780,5,73,最小化都右下角后 有消息同志点击图片会产生黑色斑点  如下图
-扩展屏幕模式下主屏幕图标变成横向, 深度之家 , 11 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/275779,1,32,NA
-纪念一大堆失联的国产操作系统!, 159******19 , 12 hours ago , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/275778,19,481,NA
-1.25倍数缩放下时间区域显示异常, 深度之家 , 12 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/275777,2,51,NA
-[今日惊喜] 没想到现在V23装Epson打印机如此容易！, 晚秋（lateautumn） , 12 hours ago , 【Share Experiences】 ,https://bbs.deepin.org/en/post/275776,10,128,不知不觉使用深度操作系统已2年有余，想当年装打印机老费劲了。而如今我的施乐s2110、268z还有hp打印机都很轻松安装了。单位还有一台epsonl1300彩色喷墨打印机。以前一直不敢挑战，总是切换到瘟疫系统下打印。
-V23版本自带浏览器和系统时区不一致, Ronnier , 13 hours ago , 【Explorer】 ,https://bbs.deepin.org/en/post/275775,4,104,如图，在浏览器中*:Intl.DateTimeFormat().resolvedOptions().timeZone 获取的时区是西五区，系统设置是东八区
-谁给打包个360壁纸？, 冰河 , 13 hours ago , 【Wallpapers】 ,https://bbs.deepin.org/en/post/275773,6,148,LINUX上好用的壁纸软件太少了，谁给打包个360壁纸？
-求助，攀升笔记本windows正常，linux黑屏, jiezaidada , 14 hours ago , 【other】 ,https://bbs.deepin.org/en/post/275772,5,144,买了了一台配置不算太好的本子，引导linux就黑屏有声音外接显示器正常就是笔记本自带屏幕黑屏，禁用显卡驱动屏幕能正常识别，打上驱动就黑屏了，因特尔核显
-所有应用无法全屏, 深度之家 , 14 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/275771,1,77,NA
-Motorola linux mobile, xiaotb , 14 hours ago , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/275770,3,147,很久之前，摩托罗拉的智能手机是linux平台的，如果摩托罗拉能够只做系统提供商，那现在手机端或许就是安卓，苹果，linux三足鼎立了。
-有没有大佬出现过这种问题，安装失败, 。。。。 , 15 hours ago , 【UOS】 ,https://bbs.deepin.org/en/post/275769,5,165,
-不知不觉，使用Deepin 20.9和UOS家庭版一年了, 宁静致远 , 15 hours ago , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/275768,16,272,在不知不觉中，使用Deepin 20.9和UOS家庭版一年了，希望Deepin和UOS越来越好用，越来越多人用。
-浏览器问题, chenyun , 15 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/275767,3,61,浏览器每次打开，都提示不是系统默认浏览器，即使设置为系统默认浏览器也提示，怎么破？
-任务栏的fcitx5输入法图标问题, chenyun , 15 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/275766,4,80,把任务栏fcitx5输入法图标拖动到常显区域后，每次重启，它都会回到应用图标区隐藏起来。我觉得输入法图标应该比音量控制更需要处于常显区域。
-将浏览器默认为火狐浏览器，通过第三方软件打开网站链接，任务栏上火狐浏览器的图标是齿轮。, 深度之家 , 15 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/275765,1,60,NA
-WPS Office 2019 For Linux有个小小小版本更新, 商店运营-小七 , 16 hours ago , 【App Sharing】 ,https://bbs.deepin.org/en/post/275764,11,345,叮~wps有个小小小更新，优化了些小功能，小编悄悄和各位同步一下，欢迎到商店更新！
-搜狗输入法架构不支持, 深度之家 , 16 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/275763,2,151,NA
-请问下，搜狗输入法工具栏的位置为什么总是在变？, 流浪的加菲 , 17 hours ago , 【Seek Help】 ,https://bbs.deepin.org/en/post/275761,2,91,如题，每次开机搜狗输入法总是出现在这个位置：
-系统安装卡在24％, 136******86 , 17 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/275760,9,132,萌新求助~
-更新了V23 RC2, 对比别人的，为啥会出现内版本不同的情况？, yueyanltd , 17 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/275759,4,214,更新了V23 RC2, 对比别人的，为啥会出现内核版本不同的情况，内核版本不同，对使用有影响么？如何操作可以到最新内核？有的是6.6.40.  ，我是的6.6.25.....
-系统更新出错，无法更新, 满目星何 , 17 hours ago , 【System Installation】 ,https://bbs.deepin.org/en/post/275758,3,93,检查更新的时候，报错，有网，设备正常，不知道什么原因，求大佬帮忙解答一下
-【求助】pipenv 创建 虚拟环境报错, kxmc , 18 hours ago , 【software development】 ,https://bbs.deepin.org/en/post/275757,12,82,
-[求助] debian11误删 LVM 卷组 LVM2_member 签名导致硬盘分区表失效, 字甲达宾 , 18 hours ago , 【software development】 ,https://bbs.deepin.org/en/post/275756,1,62,[求助] debian11误删 LVM 卷组 LVM2_member 签名文件导致硬盘分区表失效
-不知道现在这个样子的显卡是在用什么显卡, s36376149 , 18 hours ago , 【Topic DIscussion】 ,https://bbs.deepin.org/en/post/275755,2,128,
-系统插件部分图标不显示, 蓝鲸 , 19 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/275754,4,73,
-程序折叠窗口经常消失, 州客 , 19 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/275753,5,61,状态栏又下角的程序折叠窗口经常消失，这个怎么处理，昨天和今天已经连续出现，微信、钉钉和QQ窗口都不见了，需要重新点击桌面图标才能打开窗口，又下角没有这个小箭头，注销电脑后才能出现，很是苦恼
-建议日历小窗口加入点击日期显示“几天后”, noka , 19 hours ago , 【Suggestions for Improvement】 ,https://bbs.deepin.org/en/post/275752,2,63,
-PDF转Markdown开源软件方案推荐, 流浪的加菲 , 20 hours ago , 【App Sharing】 ,https://bbs.deepin.org/en/post/275751,3,118,见过很多PDF转Word或者PPT的需求，还是第一次见PDF转Markdown的，开源方案如下：
-早安deepin，新闻速览-2024年7月30日, deepin小助手 , 20 hours ago , 【Community News】 ,https://bbs.deepin.org/en/post/275750,3,221,Linux Kernel 6.11-rc1（候选版本）为全球最受欢迎的开源操作系统带来了不少更新。最有可能引起用户兴趣的功能是高通芯片（尤其是骁龙 X 平台）中包含的无线芯片的新驱动子系统。这应该会让高通骁龙 X Elite笔记本电脑（如华硕 Vivobook S 15，目前在亚马逊上售价 1299.99 美元）在未来更具可行性。
-惠普打印机用不了，急求助。, pyjy , 20 hours ago , 【Kernel/Drive】 ,https://bbs.deepin.org/en/post/275749,6,138,惠普HP Laserjet Pro M202dw打印机，无法安装驱动，不知怎么办？请
-大师指点一下！
-开源云原生观测分析工具-夜莺 v7 LTS 版本正式发布, 流浪的加菲 , 20 hours ago , 【App Sharing】 ,https://bbs.deepin.org/en/post/275748,1,113,在第二届 CCF・夜莺开发者创新论坛，夜莺 v7 LTS 版本正式发布，现场来自字节、小米、作业帮、知乎、滴滴、Zenlayer等各个公司的老师分享了自己公司的可观测性实践经验，有的讲数据埋点，有的讲传输，有的讲治理和标准化等等······
-Gmail客户端, d***m@gmail.com , 20 hours ago , 【other】 ,https://bbs.deepin.org/en/post/275747,4,108,Hi,
-官网23-RC2镜像下载速度只有150KB每秒左右, fax928 , 20 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/275746,6,145,如题，是只有我这边是这情况吗？
-每日卡死死机, 深度之家 , 20 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/275745,7,104,NA
-360浏览器UOS版在深度23版本不可上网，firefox上网正常, 我眼里有星星 , 21 hours ago , 【UOS】 ,https://bbs.deepin.org/en/post/275744,11,197,网络环境相同，360浏览器无法上网，有大佬遇到过吗？如何解决？
-我更喜欢原来的通知栏设计, 世界和平 , 21 hours ago , 【Suggestions for Improvement】 ,https://bbs.deepin.org/en/post/275743,8,205,这周更新的内测版，多了一下隐藏的箭头按钮，但相较而言，我更喜欢原来的设计，最起码通知栏不会多出一个向右的箭头按钮，不知大家的意见如何？
-央视影音无法打开, 深度之家 , 21 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/275742,1,71,NA
-任务栏点右键关机, 重启...两个长方形按钮, 不协调和按钮问题, 181******56 , 2024-07-28 21:52 , 【Dock】 ,https://bbs.deepin.org/en/post/275679,7,324,
-i cant use Avro Keybord leyout., 深度之家 , 13 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/275774,1,23,NA
-Window Minimize Effect, 深度之家 , a day ago , 【Others】 ,https://bbs.deepin.org/en/post/275741,1,30,NA
-Good Morning deepin, News Overview - July 26, 2024, Yoloy_Lan , 2024-07-26 09:27 , 【News】 ,https://bbs.deepin.org/en/post/275580,0,88,
-deepin V23 RC Update Changelog on July 12, 2024, deepin小助手 , 2024-07-12 09:47 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/274990,4,601,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
-deepin V23 RC Update Changelog on July 5, 2024, deepin小助手 , 2024-07-05 06:19 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/274753,2,473,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
-Science Popularization: What are make, makefile, cmake, and nmake?, yanjuner , 2024-07-04 07:15 , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/274714,0,159,Original article:  https://bbs.deepin.org/post/260957                                                Original author：sammy-621
-Deepin Community Live CD 2.0.0 Upgrade, Added ARM Support, yanjuner , 2024-07-04 06:37 , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/274710,1,188,Original link：https://bbs.deepin.org/post/260096        Original author：gfdgd_xi
-deepin V23 RC Update Changelog on Jun 28, 2024, deepin小助手 , 2024-06-28 08:54 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/274477,0,343,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
-When the window size is reduced,the details move out., 深度之家 , 2024-06-26 07:00 , 【Others】 ,https://bbs.deepin.org/en/post/274349,1,222,NA
-deepin V23 RC Update Changelog on Jun 21, 2024, deepin小助手 , 2024-06-21 09:50 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/274138,0,355,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+【内测活动】深度探索 共创卓越 — deepin V23 Release 内测启动！,deepin小助手,17 hours ago,【Version closed beta】,https://bbs.deepin.org/en/post/275762,30,3376,NA
+企业微信 Wine 非deepin 平台测试征集,神末shenmo,5 hours ago,【wine zone】,https://bbs.deepin.org/en/post/275792,0,55,https://pan.shenmo.tech/index.php?share/file&user=1&sid=RKqS5uHZ
+deepin-IDE是改名了吗？还是说这个bug？,枫原万叶,5 hours ago,【 feedback】,https://bbs.deepin.org/en/post/275791,0,32,更新前好像显示Deepin-UnionCode，更新后显示成了Text Editor了？deepin-IDE这个名字也不再显示了吗？
+有没有什么地方可以方便地下载内核，最好是deb的,zmqsybzc,6 hours ago,【problem help】,https://bbs.deepin.org/en/post/275789,0,35,如题。GXDE感觉太慢了，显示要8个小时。
+论：如何在重装deepin的时候快速恢复到之前系统的配置,什么是快乐星球,6 hours ago,【Share Experiences】,https://bbs.deepin.org/en/post/275788,0,45,各位大佬有没有拿的建议或者方案，每次重装系统 ，都要重新去配置系统。
+我不是引诱你尝试freebsd,159******19,7 hours ago,【Feelings & Sharing】,https://bbs.deepin.org/en/post/275787,1,110,NA
+有没有看出来两个系统跨区壁纸问题在哪里,linux-admin,7 hours ago,【Contribute Advice】,https://bbs.deepin.org/en/post/275785,0,54,NA
+系统莫名重启,frand,10 hours ago,【Newbies】,https://bbs.deepin.org/en/post/275783,3,75,NA
+拓展屏幕模式下点击开始菜单，在拓展屏幕上会残余开始菜单或者主屏幕任务栏丢失,深度之家,10 hours ago,【Others】,https://bbs.deepin.org/en/post/275782,1,20,NA
+台式机换个显卡要注意什么？,186******97,11 hours ago,【Seek Help】,https://bbs.deepin.org/en/post/275781,7,116,我准备给我这个台式机换个显卡（以前是nvidia 1030要换成nvidia 2060），我的台式机没有集显，只有这个独显，请问下Deepin的大神，我要注意什么？直接把显卡换了就可以吗？怎么更新驱动？是会自动更新吗？
+企业微信,LyloVelOvElY,11 hours ago,【3rd-Party Apps】,https://bbs.deepin.org/en/post/275780,5,73,最小化都右下角后 有消息同志点击图片会产生黑色斑点  如下图
+扩展屏幕模式下主屏幕图标变成横向,深度之家,11 hours ago,【Others】,https://bbs.deepin.org/en/post/275779,1,32,NA
+纪念一大堆失联的国产操作系统!,159******19,12 hours ago,【Feelings & Sharing】,https://bbs.deepin.org/en/post/275778,19,481,NA
+1.25倍数缩放下时间区域显示异常,深度之家,12 hours ago,【Others】,https://bbs.deepin.org/en/post/275777,2,51,NA
+[今日惊喜] 没想到现在V23装Epson打印机如此容易！,晚秋（lateautumn）,12 hours ago,【Share Experiences】,https://bbs.deepin.org/en/post/275776,10,128,不知不觉使用深度操作系统已2年有余，想当年装打印机老费劲了。而如今我的施乐s2110、268z还有hp打印机都很轻松安装了。单位还有一台epsonl1300彩色喷墨打印机。以前一直不敢挑战，总是切换到瘟疫系统下打印。
+V23版本自带浏览器和系统时区不一致,Ronnier,13 hours ago,【Explorer】,https://bbs.deepin.org/en/post/275775,4,104,如图，在浏览器中*:Intl.DateTimeFormat().resolvedOptions().timeZone 获取的时区是西五区，系统设置是东八区
+谁给打包个360壁纸？,冰河,13 hours ago,【Wallpapers】,https://bbs.deepin.org/en/post/275773,6,148,LINUX上好用的壁纸软件太少了，谁给打包个360壁纸？
+求助，攀升笔记本windows正常，linux黑屏,jiezaidada,14 hours ago,【other】,https://bbs.deepin.org/en/post/275772,5,144,买了了一台配置不算太好的本子，引导linux就黑屏有声音外接显示器正常就是笔记本自带屏幕黑屏，禁用显卡驱动屏幕能正常识别，打上驱动就黑屏了，因特尔核显
+所有应用无法全屏,深度之家,14 hours ago,【Others】,https://bbs.deepin.org/en/post/275771,1,77,NA
+Motorola linux mobile,xiaotb,14 hours ago,【Feelings & Sharing】,https://bbs.deepin.org/en/post/275770,3,147,很久之前，摩托罗拉的智能手机是linux平台的，如果摩托罗拉能够只做系统提供商，那现在手机端或许就是安卓，苹果，linux三足鼎立了。
+有没有大佬出现过这种问题，安装失败,。。。。,15 hours ago,【UOS】,https://bbs.deepin.org/en/post/275769,5,165,NA
+不知不觉，使用Deepin 20.9和UOS家庭版一年了,宁静致远,15 hours ago,【Feelings & Sharing】,https://bbs.deepin.org/en/post/275768,16,272,在不知不觉中，使用Deepin 20.9和UOS家庭版一年了，希望Deepin和UOS越来越好用，越来越多人用。
+浏览器问题,chenyun,15 hours ago,【problem help】,https://bbs.deepin.org/en/post/275767,3,61,浏览器每次打开，都提示不是系统默认浏览器，即使设置为系统默认浏览器也提示，怎么破？
+任务栏的fcitx5输入法图标问题,chenyun,15 hours ago,【problem help】,https://bbs.deepin.org/en/post/275766,4,80,把任务栏fcitx5输入法图标拖动到常显区域后，每次重启，它都会回到应用图标区隐藏起来。我觉得输入法图标应该比音量控制更需要处于常显区域。
+将浏览器默认为火狐浏览器，通过第三方软件打开网站链接，任务栏上火狐浏览器的图标是齿轮。,深度之家,15 hours ago,【Others】,https://bbs.deepin.org/en/post/275765,1,60,NA
+WPS Office 2019 For Linux有个小小小版本更新,商店运营-小七,16 hours ago,【App Sharing】,https://bbs.deepin.org/en/post/275764,11,345,叮~wps有个小小小更新，优化了些小功能，小编悄悄和各位同步一下，欢迎到商店更新！
+搜狗输入法架构不支持,深度之家,16 hours ago,【Others】,https://bbs.deepin.org/en/post/275763,2,151,NA
+请问下，搜狗输入法工具栏的位置为什么总是在变？,流浪的加菲,17 hours ago,【Seek Help】,https://bbs.deepin.org/en/post/275761,2,91,如题，每次开机搜狗输入法总是出现在这个位置：
+系统安装卡在24％,136******86,17 hours ago,【problem help】,https://bbs.deepin.org/en/post/275760,9,132,萌新求助~
+更新了V23 RC2,对比别人的，为啥会出现内版本不同的情况？,yueyanltd,17 hours ago,【problem help】,https://bbs.deepin.org/en/post/275759,4,214,更新了V23 RC2, 对比别人的，为啥会出现内核版本不同的情况，内核版本不同，对使用有影响么？如何操作可以到最新内核？有的是6.6.40.  ，我是的6.6.25.....
+系统更新出错，无法更新,满目星何,17 hours ago,【System Installation】,https://bbs.deepin.org/en/post/275758,3,93,检查更新的时候，报错，有网，设备正常，不知道什么原因，求大佬帮忙解答一下
+【求助】pipenv 创建 虚拟环境报错,kxmc,18 hours ago,【software development】,https://bbs.deepin.org/en/post/275757,12,82,NA
+[求助] debian11误删 LVM 卷组 LVM2_member 签名导致硬盘分区表失效,字甲达宾,18 hours ago,【software development】,https://bbs.deepin.org/en/post/275756,1,62,[求助] debian11误删 LVM 卷组 LVM2_member 签名文件导致硬盘分区表失效
+不知道现在这个样子的显卡是在用什么显卡,s36376149,18 hours ago,【Topic DIscussion】,https://bbs.deepin.org/en/post/275755,2,128,NA
+系统插件部分图标不显示,蓝鲸,19 hours ago,【problem help】,https://bbs.deepin.org/en/post/275754,4,73,NA
+程序折叠窗口经常消失,州客,19 hours ago,【problem help】,https://bbs.deepin.org/en/post/275753,5,61,状态栏又下角的程序折叠窗口经常消失，这个怎么处理，昨天和今天已经连续出现，微信、钉钉和QQ窗口都不见了，需要重新点击桌面图标才能打开窗口，又下角没有这个小箭头，注销电脑后才能出现，很是苦恼
+建议日历小窗口加入点击日期显示“几天后”,noka,19 hours ago,【Suggestions for Improvement】,https://bbs.deepin.org/en/post/275752,2,63,NA
+PDF转Markdown开源软件方案推荐,流浪的加菲,20 hours ago,【App Sharing】,https://bbs.deepin.org/en/post/275751,3,118,见过很多PDF转Word或者PPT的需求，还是第一次见PDF转Markdown的，开源方案如下：
+早安deepin，新闻速览-2024年7月30日,deepin小助手,20 hours ago,【Community News】,https://bbs.deepin.org/en/post/275750,3,221,Linux Kernel 6.11-rc1（候选版本）为全球最受欢迎的开源操作系统带来了不少更新。最有可能引起用户兴趣的功能是高通芯片（尤其是骁龙 X 平台）中包含的无线芯片的新驱动子系统。这应该会让高通骁龙 X Elite笔记本电脑（如华硕 Vivobook S 15，目前在亚马逊上售价 1299.99 美元）在未来更具可行性。
+惠普打印机用不了，急求助。,pyjy,20 hours ago,【Kernel/Drive】,https://bbs.deepin.org/en/post/275749,6,138,惠普HP Laserjet Pro M202dw打印机，无法安装驱动，不知怎么办？请
+开源云原生观测分析工具-夜莺 v7 LTS 版本正式发布,流浪的加菲,20 hours ago,【App Sharing】,https://bbs.deepin.org/en/post/275748,1,113,在第二届 CCF・夜莺开发者创新论坛，夜莺 v7 LTS 版本正式发布，现场来自字节、小米、作业帮、知乎、滴滴、Zenlayer等各个公司的老师分享了自己公司的可观测性实践经验，有的讲数据埋点，有的讲传输，有的讲治理和标准化等等······
+Gmail客户端,d***m@gmail.com,20 hours ago,【other】,https://bbs.deepin.org/en/post/275747,4,108,Hi,
+官网23-RC2镜像下载速度只有150KB每秒左右,fax928,20 hours ago,【problem help】,https://bbs.deepin.org/en/post/275746,6,145,如题，是只有我这边是这情况吗？
+每日卡死死机,深度之家,20 hours ago,【Others】,https://bbs.deepin.org/en/post/275745,7,104,NA
+360浏览器UOS版在深度23版本不可上网，firefox上网正常,我眼里有星星,21 hours ago,【UOS】,https://bbs.deepin.org/en/post/275744,11,197,网络环境相同，360浏览器无法上网，有大佬遇到过吗？如何解决？
+我更喜欢原来的通知栏设计,世界和平,21 hours ago,【Suggestions for Improvement】,https://bbs.deepin.org/en/post/275743,8,205,这周更新的内测版，多了一下隐藏的箭头按钮，但相较而言，我更喜欢原来的设计，最起码通知栏不会多出一个向右的箭头按钮，不知大家的意见如何？
+央视影音无法打开,深度之家,21 hours ago,【Others】,https://bbs.deepin.org/en/post/275742,1,71,NA
+i cant use Avro Keybord leyout.,深度之家,13 hours ago,【Others】,https://bbs.deepin.org/en/post/275774,1,23,NA
+Window Minimize Effect,深度之家,a day ago,【Others】,https://bbs.deepin.org/en/post/275741,1,30,NA
+最新内测版，拖入折叠区后的图标无法再拖出去。, 185******76 , 4 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/275854,0,24,如图，时间和亮度这两个图标无法再拖到右边去，另外，时间的字体是不是太大了？
+RC Release内测 锁屏界面鼠标不是自定义的图标, 光明 , 6 hours ago , 【Suggestions for Improvement】 ,https://bbs.deepin.org/en/post/275851,1,44,RC Release内测 锁屏界面鼠标不是自定义的图标，图标选择的是系统自带的其他图标类型，但是显示的是原始默认的图标。
+UI边界好像溢出1px？还是设计成这样的？, listen-deepin , 7 hours ago , 【Suggestions for Improvement】 ,https://bbs.deepin.org/en/post/275850,3,98,
+不得不说这内测版本整体设计比之前进步了不少，焕然一新，一体感好很多
+ROC-RK3588S-PC 运行 deepin v23, 空木蓮華 , 7 hours ago , 【deepin exploration】 ,https://bbs.deepin.org/en/post/275849,1,79,近日（上周五），社区内核研发说之前采购了个 ROC-RK3588S-PC 的板子，闲置着但一直没有适配系统，deepin v23 上了 arm 架构支持，那我们也可以在 arm 设备上运行 deepin 系统了。本着板板不能浪费的原则，开始了适配工作。
+v23卡顿, 173******47 , 7 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/275848,3,63,建议安装时，提供全deb应用安装模式选择，玲珑还是卡顿！
+托盘图标拉出来后，注销或重启又隐藏, 173******47 , 7 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/275847,0,28,如题，v23发布前内测
+自带浏览器无法设置为默认, 173******47 , 7 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/275846,0,22,自带浏览器无法设置为默认，v23发布前内测
+显卡驱动切换插件无法显示，脚本能用v23发布前内测, 173******47 , 7 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/275845,1,25,显卡驱动切换插件无法显示，脚本能用v23发布前内测
+qq音乐（玲珑）可以安装但启动器找不到可执行程度, 深度之家 , 7 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/275844,1,32,NA
+wps出现问题：exls 出现大bug, 175******61 , 7 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/275843,1,70,新建exls，左侧序列出现问题，估计和字体有关系。请教怎么解决？
+我想在桌面右键菜单里面加刷新选项 ，要怎么做呢？, 有情有义 , 8 hours ago , 【Tutorials】 ,https://bbs.deepin.org/en/post/275841,2,71,我习惯鼠标点右键-刷新，没啥作用，但怎么加上刷新选项呢
+无法升级, 155******27 , 8 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/275840,1,56,总是显示依赖错误 无法更新升级
+无法运行docker, 深度之家 , 8 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/275839,1,39,NA
+建议凌晨0点~1点内的时间不要表示表示为上午12：**, WangZhongyun , 9 hours ago , 【Suggestions for Improvement】 ,https://bbs.deepin.org/en/post/275838,5,160,目前有所谓的说法：钟表中没有0的表示，12小时制中0点显示12：00是国际通用显示标准。进而出现凌晨0点~1点内的时间表示为上午12：**的现象。
+这个现象是不合理的。因为12小时内是连续的，凌晨0点应该就是下午（晚上）11点的自然延续表示为下午12点，或进位表示为次日上午0点。同理上午（早上）11点后的12点应该就是上午12点，或进位表示下午0点。
+如果下午（晚上）11点的延续却表示为上午12点，无疑是唐突不合理的。虽然在无时间连续的要求下，没人关注这合不合理的问题。但在日程安装上的上午11点后突然冒出下午12点，都会感到不自在。
+音乐黑屏, 星缘 , 9 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/275837,1,50,如图 打开音乐就是这个 样子 无法强制退出 无法关闭所有。
+windows10远程deepin 23页面卡顿厉害, 深度之家 , 9 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/275836,2,61,NA
+Deepin V23 商店中 wireshark 无法直接打开 pcap 文件的解决办法, 178******17 , 10 hours ago , 【Share Experiences】 ,https://bbs.deepin.org/en/post/275835,2,245,在 Deepin V23 的应用商店下载了 wireshark, 版本非常新已经到 4.2.0, 但使用的时候发现一些不符合个人习惯的点.
+我希望Ｖ23正式版不那么快出来, 世界和平 , 10 hours ago , 【Suggestions for Improvement】 ,https://bbs.deepin.org/en/post/275834,8,275,建议先把通知栏设计优化好再说，现在每次开机，都要把隐藏的键盘、微信等等图标手动拉出来，而且，下次开机或重启，这些图标又会自动隐藏了，又要手动拉出来，对于强迫症的我来说，如果此时就上正式版，太难受了。
+蓝牙老莫名奇妙的丢失, yilimaizi , 10 hours ago , 【Suggestions for Improvement】 ,https://bbs.deepin.org/en/post/275833,0,21,最新版  蓝牙莫名奇妙的丢失
+【深度文件管理器】文件夹名称和路径不匹配, 深度之家 , 10 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/275832,1,54,NA
+我认为win11设计最好的几个点如图, 星海 , 11 hours ago , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/275831,6,210,也不知道谁设计违禁词 上传图也提醒哪个词出现问题 一点一点排除   win11为啥这么版本回收站就是不能放在任务栏上
+微信universal版emoji表情显示不全, 深度之家 , 11 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/275830,2,81,NA
+20.9版本显示HDMI不可用，无法发现外接显示屏，求解，驱动最新, 康利 , 12 hours ago , 【Kernel/Drive】 ,https://bbs.deepin.org/en/post/275829,4,68,
+下载官网的邮箱大师无法运行, JohnConnor1982 , 12 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/275828,3,85,从官网上下载的邮箱大师安装后无法运行，提示“很抱歉，您的系统版本低于Ubuntu 22.04，暂不支持运行网易邮箱大师，请等待后续兼容版本。”，商店总下载的邮箱大师可以运行，但是总是弹出窗口提示我升级，点击升级按钮提示升级失败。
+dde-shell内存占用300，M,, 173******47 , 12 hours ago , 【Suggestions for Improvement】 ,https://bbs.deepin.org/en/post/275827,2,124,如题，23 re,dde-shell占用内存300M,运行不，流畅，感觉卡顿，不知道哪儿的问题
+华为matebook 13s 笔记本无声音输出, 深度之家 , 12 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/275826,1,49,NA
+有btrfs分区的升级正式版内侧加载不了, liuyanming , 12 hours ago , 【Exchange and share】 ,https://bbs.deepin.org/en/post/275825,2,80,如果在/etc/fstab中包含加载btrfs分区的命令，会造成升级后启动不了
+deepin以后会在武汉、上海等地，办网吧店吗？, 凡 , 13 hours ago , 【Topic DIscussion】 ,https://bbs.deepin.org/en/post/275824,43,392,如题，我曾去过武汉、杭州等城市，尤其是武汉不管是一环内还是三环外，都有不少电竞网吧，这说明武汉等地的电脑玩家不少，且这些网吧的系统大部分都是windows10版本，其系统内置了不少云服务平台的应用。
+为什么是ll-cli? 不可以是llcli,或者linglong,或者其它?, 初七 , 13 hours ago , 【Topic DIscussion】 ,https://bbs.deepin.org/en/post/275822,9,163,就想问问当初为什么要决定中间加个-
+操作任务栏向上折叠中的图标导致时间展示错位, 深度之家 , 13 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/275821,1,43,NA
+怎么感觉更新成内测版本后变卡了呢, 155******53 , 13 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/275820,2,162,更新成内测版本后，动画感觉卡卡的
+升级卡住, liuyanming , 14 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/275819,6,82,命令行和控制中心里升级都会卡住，重启也试过
+长时间运行，多个应用内存持续增加, 鲜衣怒马 , 14 hours ago , 【Desktop】 ,https://bbs.deepin.org/en/post/275817,7,130,设置了自动更换壁纸，桌面应用内存持续增加，运行36小时，内存从不到100M，增加到600M+
+系统安装后只有1024x768分辨率 格兰菲显卡Glenfly Tech Arise1020, 星辰 , 15 hours ago , 【Tutorials】 ,https://bbs.deepin.org/en/post/275816,4,87,系统版本 deepin 20.9 社区版
+如何安装libgfortran.so.3, Xsx. , 15 hours ago , 【Newbies】 ,https://bbs.deepin.org/en/post/275815,3,75,继承了师兄的工位，第一次用deepin
+如何更新microcode, T , 15 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/275814,1,81,└──╼ #dmesg | grep microcode
+[    0.059102] [Firmware Bug]: TSC_DEADLINE disabled due to Errata; please update microcode to version: 0x22 (or later)
+[    0.181591] MDS: Vulnerable: Clear CPU buffers attempted, no microcode
+[    0.181593] SRBDS: Vulnerable: No microcode
+[    1.795758] microcode: Microcode Update Driver: v2.2.
+┌─[root@deepin-PC]─[]
+└──╼ #grep microcode /proc/cpuinfo
+microcode       : 0x19
+microcode       : 0x19
+microcode       : 0x19
+microcode       : 0x19
+┌─[root@deepin-PC]─[]
+└──╼ #uname -a
+Linux deepin-PC 6.6.36-amd64-desktop-hwe #23.01.00.29 SMP PREEMPT_DYNAMIC Tue Jul  2 13:48:43 CST 2024 x86_64 GNU/Linux
+Linux系统人机交互中的显示管理和桌面管理, 流浪的加菲 , 15 hours ago , 【Share Experiences】 ,https://bbs.deepin.org/en/post/275812,7,160,在Linux系统中，人机交互都会涉及到：显示管理、窗口管理、桌面环境、显示服务器等等。窗口管理器负责窗口的显示、移动、调整大小等操作。桌面环境则是提供完整桌面体验的软件套件，包含窗口管理器、桌面面板、文件管理器、启动器等等多个应用和组件。窗口管理器和桌面环境可以分开安装和使用。
+国泰君安的易富创信板不能注册，电话难验证，, 心静则安 , 16 hours ago , 【App Store】 ,https://bbs.deepin.org/en/post/275811,3,77,国泰君安的易富创信板不能注册，电话难验证，
+安装python第三方库, 邓正康:) , 16 hours ago , 【Seek Help】 ,https://bbs.deepin.org/en/post/275810,2,64,如何安装python第三方库
+apt upgrade 的警告信息好贴心呀, 卢凌风 , 16 hours ago , 【other】 ,https://bbs.deepin.org/en/post/275809,7,191,
+deepin ID登录状态失效, 132******94 , 16 hours ago , 【forum suggestion】 ,https://bbs.deepin.org/en/post/275808,1,43,如题，家里电脑使用频率不高，打开深度之家总是提示未登录，控制中心查看也是未登录状态
+NVIDIA Linux开源GPU驱动性能实测与专有驱动相当！, 流浪的加菲 , 16 hours ago , 【Industry News】 ,https://bbs.deepin.org/en/post/275807,4,208,NVIDIA前不久宣布全面转向开源GPU内核模块，并将逐步弃用闭源驱动程序。
+鼠标中键一滚动就黑屏，如何处理？, 180******91 , 17 hours ago , 【Freezing/Lagging】 ,https://bbs.deepin.org/en/post/275806,1,42,鼠标中键一滚动就黑屏，如何处理？在终端使用sudo apt install inxi -y && inxi -F && cat /etc/apt/sources.list /etc/apt/sources.list.d/*.list |grep -v ^#也没有用
+系统监视器缩放显示bug, 深度之家 , 17 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/275805,0,39,NA
+通过 快捷面板 点击 截图，快捷面板未自动隐藏，影响截图, 深度之家 , 18 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/275804,5,113,NA
+现在UOS家庭版, Chinese AI , 19 hours ago , 【Seek Help】 ,https://bbs.deepin.org/en/post/275803,10,359,还在维护吧，不过感觉不到动静。是不是遇到什么黑天鹅了？
+有些执行命令在终端不起作用, 182******20 , 19 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/275802,5,135,有些执行命令在终端不起作用
+评语, 龍丨逍雄琥 , 20 hours ago , 【Application sharing】 ,https://bbs.deepin.org/en/post/275801,8,184,八面玲珑，面面俱到。一次构建，多个兼容。
+SSH连接慢，配置了密码连接的时候还是要手动输入密码, fuzongyao , 20 hours ago , 【Terminal】 ,https://bbs.deepin.org/en/post/275800,1,51,通过终端-远程管理，已经配置了服务器的账号密码，连接时还是要输入密码，而且从连接到需要输入密码要等5-10秒。
+为什么我按着WIKI增加了几个主题但在设置-个性化里却看不到, 186******97 , 20 hours ago , 【deepin exploration】 ,https://bbs.deepin.org/en/post/275799,6,94,我按着下面这个WIKI增加了几个主题，但在设置-个性化里却看不到（重启后也没有）。
+早安deepin，新闻速览-2024年7月31日, deepin小助手 , 20 hours ago , 【Community News】 ,https://bbs.deepin.org/en/post/275798,4,177,Vanilla OS 2 "Orchid" 已正式发布，该发行版最初是基于 Ubuntu 的 “不可变” 原子版本。在 2.0 中，Vanilla OS 决定将底层从 Ubuntu 迁移到 Debian Sid，并且名字也更改为 "Orchid"，因为 "Vanilla" 正是源自 "Orchid"。
+扩展显示器拔掉HDMI后，很多应用变半屏，并且不能手动拉伸恢复, 鲜衣怒马 , 20 hours ago , 【Desktop】 ,https://bbs.deepin.org/en/post/275797,4,86,扩展显示器拔掉HDMI后，很多应用变半屏，并且不能手动拉伸恢复
+UOS ai始终提示更新失败, siw , 20 hours ago , 【UOS】 ,https://bbs.deepin.org/en/post/275796,9,113,如题所示，提示有UOS ai更新内容，但是进行更新的时候，总是提示失败，不是下载失败，就是下载成功后更新失败，一次又一次。。。
+快速传文件, Langers , 21 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/275795,4,129,deepinV23里面能不能在终端里面直接开启传文件的窗口啊，就跟MobaXterm的文件传输窗口一样，直接拖入即可。
+请问系统报错这些是怎么回事？如何解决？, 兆兆嘟嘟嘟 , a day ago , 【Control Center】 ,https://bbs.deepin.org/en/post/275794,3,112,今天刚更新完后出现的报错。
+任务栏大小问题, chenyun , a day ago , 【Exchange and share】 ,https://bbs.deepin.org/en/post/275793,5,137,在任务栏设置将任务栏调到最小，实际上不是最窄的任务栏，还可以用拖动任务栏上边缘的方法继续压缩任务栏，不知道这是特性还是bug。
+更新了V23 RC2, 对比别人的，为啥会出现内版本不同的情况？, yueyanltd , 2024-07-30 05:13 , 【problem help】 ,https://bbs.deepin.org/en/post/275759,4,263,更新了V23 RC2, 对比别人的，为啥会出现内核版本不同的情况，内核版本不同，对使用有影响么？如何操作可以到最新内核？有的是6.6.40.  ，我是的6.6.25.....
+Solving the Issue of Beyond Compare Not Finding KDE Themes on v23, SuperDavid , 13 hours ago , 【Share Experiences】 ,https://bbs.deepin.org/en/post/275823,0,20,Due to work requirements, I occasionally need to use a content comparison software. After comparing multiple software options, I find Beyond Compare the most convenient to use. However, after installing it on Deepin v20, it looked like this:
+Can't open the Calendar from new button, 深度之家 , 14 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/275818,1,29,NA
+Cannot open deepin linglong based calendar, 深度之家 , 15 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/275813,1,26,NA
+Good Morning deepin, News Overview - July 26, 2024, Yoloy_Lan , 2024-07-26 09:27 , 【News】 ,https://bbs.deepin.org/en/post/275580,0,96,
+deepin V23 RC Update Changelog on July 12, 2024, deepin小助手 , 2024-07-12 09:47 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/274990,4,603,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+deepin V23 RC Update Changelog on July 5, 2024, deepin小助手 , 2024-07-05 06:19 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/274753,2,475,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+Science Popularization: What are make, makefile, cmake, and nmake?, yanjuner , 2024-07-04 07:15 , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/274714,0,162,Original article:  https://bbs.deepin.org/post/260957                                                Original author：sammy-621
+Deepin Community Live CD 2.0.0 Upgrade, Added ARM Support, yanjuner , 2024-07-04 06:37 , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/274710,1,191,Original link：https://bbs.deepin.org/post/260096        Original author：gfdgd_xi
+deepin V23 RC Update Changelog on Jun 28, 2024, deepin小助手 , 2024-06-28 08:54 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/274477,0,347,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+When the window size is reduced,the details move out., 深度之家 , 2024-06-26 07:00 , 【Others】 ,https://bbs.deepin.org/en/post/274349,1,225,NA
+deepin V23 RC Update Changelog on Jun 21, 2024, deepin小助手 , 2024-06-21 09:50 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/274138,0,358,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
 deepin Forum moderator
-recruitment, deepin小助手 , 2024-06-19 08:32 , 【Official Events】 ,https://bbs.deepin.org/en/post/274055,0,1197,Are you passionate about technology, community engagement, and good at leading discussions? We are looking for enthusiastic individuals to join our team as deepin English forum moderators.
+recruitment, deepin小助手 , 2024-06-19 08:32 , 【Official Events】 ,https://bbs.deepin.org/en/post/274055,0,1210,Are you passionate about technology, community engagement, and good at leading discussions? We are looking for enthusiastic individuals to join our team as deepin English forum moderators.
 wine
-issue, giuseppe00 , 2024-06-17 08:19 , 【problem help】 ,https://bbs.deepin.org/en/post/273966,5,568,Yesterday I downloaded the version DEEPIN  RC2 when i do "sudo apt install wine" it says wine command not found, how can I install wine on this version of deepin
-Announcement on UOS AI related updates in deepin V23 RC2 on June 14, 2024, deepin小助手 , 2024-06-14 10:02 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/273831,4,349,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
-deepin V23 RC Update Changelog on Jun 07, 2024, deepin小助手 , 2024-06-07 09:53 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/273583,0,684,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
-deepin V23 release update log May 31, 2024, deepin小助手 , 2024-05-31 08:24 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/273270,0,660,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
-magic lamp effect, the animation moves to the second screen, 深度之家 , 2024-05-29 06:00 , 【Others】 ,https://bbs.deepin.org/en/post/273165,2,373,NA
-deepin V23 release update log May 24, 2024, deepin小助手 , 2024-05-24 08:05 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/272981,0,737,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
-UI Hover Effects, Click Effects, are Missing in a lot of Things., r***t@gmail.com , 2024-05-21 15:47 , 【Contribute Advice】 ,https://bbs.deepin.org/en/post/272834,1,475,UI Hover Effects, Click Effects, are Missing in a lot of Things. Animations are also boring and have only linear easing (no speed changes as the animation progesses) in a lot of things. It is very simple, I think this is done intentionally because it is not that hard to fix this. here is a list of the parts of the OS that are affected by this:
-limit for max apps on the dock, or scrollable dock, 深度之家 , 2024-05-20 01:35 , 【Others】 ,https://bbs.deepin.org/en/post/272691,1,402,NA
-deepin V23 release update log May 17, 2024, deepin小助手 , 2024-05-17 07:45 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/272526,1,810,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+issue, giuseppe00 , 2024-06-17 08:19 , 【problem help】 ,https://bbs.deepin.org/en/post/273966,5,573,Yesterday I downloaded the version DEEPIN  RC2 when i do "sudo apt install wine" it says wine command not found, how can I install wine on this version of deepin
+Announcement on UOS AI related updates in deepin V23 RC2 on June 14, 2024, deepin小助手 , 2024-06-14 10:02 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/273831,4,350,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+deepin V23 RC Update Changelog on Jun 07, 2024, deepin小助手 , 2024-06-07 09:53 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/273583,0,686,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+deepin V23 release update log May 31, 2024, deepin小助手 , 2024-05-31 08:24 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/273270,0,662,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+magic lamp effect, the animation moves to the second screen, 深度之家 , 2024-05-29 06:00 , 【Others】 ,https://bbs.deepin.org/en/post/273165,2,376,NA
+deepin V23 release update log May 24, 2024, deepin小助手 , 2024-05-24 08:05 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/272981,0,740,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+UI Hover Effects, Click Effects, are Missing in a lot of Things., r***t@gmail.com , 2024-05-21 15:47 , 【Contribute Advice】 ,https://bbs.deepin.org/en/post/272834,1,477,UI Hover Effects, Click Effects, are Missing in a lot of Things. Animations are also boring and have only linear easing (no speed changes as the animation progesses) in a lot of things. It is very simple, I think this is done intentionally because it is not that hard to fix this. here is a list of the parts of the OS that are affected by this:
+limit for max apps on the dock, or scrollable dock, 深度之家 , 2024-05-20 01:35 , 【Others】 ,https://bbs.deepin.org/en/post/272691,1,405,NA
