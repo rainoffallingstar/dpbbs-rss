@@ -1,6 +1,6 @@
 ---
 title: ddeshell内存占用300M
-date: '2024-07-31'
+date: '2024-08-01'
 linkTitle: https://bbs.deepin.org/en/post/275827
 source: deepin_bbs
 description:  173******47 
