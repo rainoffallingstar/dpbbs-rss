@@ -1,6 +1,6 @@
 ---
 title: Science Popularization What are make makefile cmake and nmake
-date: '2024-08-02'
+date: '2024-08-03'
 linkTitle: https://bbs.deepin.org/en/post/274714
 source: deepin_bbs
 description:  yanjuner 
