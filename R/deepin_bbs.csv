@@ -1929,74 +1929,131 @@ V23 ufficial is ready !!,gfracasso_ITALY,6 hours ago,【Exchange and share】,ht
 mount命令会自动添加根目录共享,深度之家,7 hours ago,【Others】,https://bbs.deepin.org/en/post/275974,1,17,NA
 sudo apt upgrade error not enough space /boot,深度之家,9 hours ago,【Others】,https://bbs.deepin.org/en/post/275962,1,42,NA
 deepin V23 RC2 Update Changelog on Aug 2,2024,Yoloy_Lan,12 hours ago,【Community Announcements】,https://bbs.deepin.org/en/post/275951,0,32,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
-所有软件打不开, tomcat_888 , 4 hours ago , 【Seek Help】 ,https://bbs.deepin.org/en/post/276021,0,28,开始菜单，桌面，任务栏，所有软件都打不开。没有反应。
-deepinv23 正式版什么时候发布呢？现在都是24年过半了, 小图巴巴 , 6 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/276020,3,77,deepinv23 正式版什么时候发布呢？现在都是24年过半了
-【第三方应用】搜狗输入法Next也违法了！, TXOS-C.User , 8 hours ago , 【Suggestions for Improvement】 ,https://bbs.deepin.org/en/post/276019,12,355,
-virtualbox-7.0卸载失败, zmqsybzc , 8 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/276018,2,68,正在设定 virtualbox-7.0
-Running VMs found
-VirtualBox is currently running. Please close it and try again. Please note that it can take up to ten seconds for
-VirtualBox (in particular the VBoxSVC daemon) to finish running.
-终端内更新报错了，求助大佬, 澎湃小青年白羊 , 9 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/276017,3,105,NA
-安装PANTUM驱动一直显示失败, L&C , 9 hours ago , 【Kernel/Drive】 ,https://bbs.deepin.org/en/post/276016,4,77,NA
-弃坑一段时间了，准备回来把我的主力机装成Deepin, DingAi , 10 hours ago , 【Seek Help】 ,https://bbs.deepin.org/en/post/276015,7,240,我在Ubuntu 24.04和  Deepin中选了Deepin，想问一下现在稳定性怎么样了;
-之前是被装机之后开机报错恶心透了
-【水 | 20240803】WingHexExplorer2 开发日志, 寂静的羽夏 , 10 hours ago , 【software development】 ,https://bbs.deepin.org/en/post/276014,0,74,本来上周应该发个开发日志的，但是，我的笔记本电脑坏掉了，系统盘的寿命到了。多亏我的数据盘还苟延残喘，不过也命不久矣了，陪伴我5年多的笔记本电脑正式退休了。
-关于deepin启动的问题求助！, gqfeifei , 10 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/276013,1,65,我在Win11下安装的deepin v23可以正常切换，在一块硬盘上面Win11C，deepin在D盘。我从新安装系统后不能正常启动deepin了，请问如何恢复启动菜单。感谢
-系统不能更新，提示缺少依赖, 郑发财 , 11 hours ago , 【System Installation】 ,https://bbs.deepin.org/en/post/276012,8,162,
-为什么1080p分辨率下 ，win11的字体要比deep字体, 173******47 , 11 hours ago , 【other】 ,https://bbs.deepin.org/en/post/276011,3,195,唉，买不起4k屏的笔记本，为什么win11字体要比deein字体清晰，17年的小米笔记本
-deepinV23使用节能模式时，希望把自动降低亮度最小值改成0%, widon1104 , 11 hours ago , 【Suggestions for Improvement】 ,https://bbs.deepin.org/en/post/276010,5,103,
-任务栏的系统监视器有bug, SUKUD , 11 hours ago , 【Dock】 ,https://bbs.deepin.org/en/post/276009,6,94,打开系统监视器，下面的状态栏没有显示对应的图标，那一块正好是空白的。其他的应用都有图标
-安装故障, lzq980321 , 12 hours ago , 【other】 ,https://bbs.deepin.org/en/post/276008,1,63,安装后卡在 logo 界面怎么处理嘞
-V23 RC2的问题, 用户不存在 , 12 hours ago , 【Seek Help】 ,https://bbs.deepin.org/en/post/276007,3,130,安装了V23 RC2, 升级到了最新内测版，安装了适配的搜狗输入法、Mac主题和常用软件、配置了UOS-AI本地模型，发现了几个问题：
-华为笔记本，声卡驱动不了，无声音输出设备！, 财迷大猫 , 13 hours ago , 【deepin exploration】 ,https://bbs.deepin.org/en/post/276006,6,95,华为笔记本，声卡驱动不了，哪位大拿能帮忙呢？
-remmina无法同步剪切板, 深度之家 , 13 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/276005,1,42,NA
-启动器虽小但是真的很实用以下是我的想法, 星海 , 13 hours ago , 【Share Experiences】 ,https://bbs.deepin.org/en/post/276004,1,209,这个是收藏应用中的   软件拖拽是可以合并成文件的  方便整理   灰色方块经常使用的软件会放在里头   第二个灰色的是最近安装的应用都会在这里显示  另一个就是自己随便命名的 当然这个灰色区域可以滑动第二页面 你还可以创建自己需要的快捷分类
-更新系统后无线网络断网并且无法打开无线网开关（灰色的）, 薛定猫的鱼 , 14 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/276003,2,60,操作步骤：
-UOS AI需要手动配置，怎么办？, 196******67 , 14 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/276002,3,93,
-任务栏电源提示问题, 谢克辉 , 14 hours ago , 【Topic DIscussion】 ,https://bbs.deepin.org/en/post/276001,0,43,
-飞书 取消“通知时提示声音”，但是收到通知还是有声音, 深度之家 , 14 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/276000,1,48,NA
-小黑方块, 味道 , 15 hours ago , 【forum suggestion】 ,https://bbs.deepin.org/en/post/275999,4,123,今天更新最新的的8.2号的，还是有小黑放块啊！！！！！！！优化优化看看是哪的毛病
-系统音量不能调节大小, spox , 15 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/275998,2,52,系统音量是0%,播放视频之类还是有微弱声音，但是不能调节大小。另外通知中心也总是点不开
-通知区域的建议, 阿顺呀 , 15 hours ago , 【Suggestions for Improvement】 ,https://bbs.deepin.org/en/post/275997,1,77,目前最新内测，通知区域增加了三方图标和系统图标的区分
-屏幕刷新率显示不完整, 深度之家 , 15 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/275996,1,68,NA
-关于我遇到的deepinv23无法切为深色主题问题描述, 枫原万叶 , 16 hours ago , 【Exchange and share】 ,https://bbs.deepin.org/en/post/275995,0,90,【前置条件】某台电脑，原来装的UOS。重装deepinv23内测版系统后，由于两个硬盘，一个硬盘1装着windows系统用用的MBR。另一个固态硬盘2装着linux用的gpt。分区的时候，提示无法将/home指定到硬盘1的原/home分区。因此装好系统后，手动将/home指定到了硬盘1。（并提前备份了安装deepinv23自带的/home分区为/home2）
-打开程序数量增多后，任务栏图标越变越小, 深度之家 , 16 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/275994,1,100,NA
-deepin系统无线网络信号强度问题, 134******40 , 17 hours ago , 【Seek Help】 ,https://bbs.deepin.org/en/post/275993,2,104,同样的距离，同一电脑，windows系统wifi信号满满的，打开网页也很快速流畅，但deepinV23最新内测版wifi信号却较弱，甚至有时断网，到底是网卡驱动问题还是系统对网络优化方面还不够呢？
-关于Neovim的小问题, doing , 17 hours ago , 【other】 ,https://bbs.deepin.org/en/post/275992,2,114,neovim版本：V0.9.5
-系统：deepin20社区版64位
-终端：深度终端
-这个问题如何解决呢？, mardou , 17 hours ago , 【Seek Help】 ,https://bbs.deepin.org/en/post/275991,6,101,今天新装了RC2版本，在终端升级中发现有以下提示，不知道如何解决，哪位高手给我一点指点，或提供几条命令，帮我把这个问题解决掉。提前谢谢！
-启动器自己想法算是完成了, 星海 , 17 hours ago , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/275989,15,361,
-深度之家反馈的问题会同步到论坛吗？, 枫原万叶 , 17 hours ago , 【Topic DIscussion】 ,https://bbs.deepin.org/en/post/275988,2,94,在深度之家反馈只能发送一次，没有找到删除。也好像不能二次回复？
-关于安装双系统的问题, 蒹葭九羽 , 18 hours ago , 【System Installation】 ,https://bbs.deepin.org/en/post/275987,5,89,以前安装双系统，deepin是安装在另一块硬盘上，安装时需要指定一个esp分区，可以在那块硬盘上新建一个分区，就能完成安装还不影响windows系统，现在我想把deepin和windows装在同一块硬盘中，需要单独创建一个esp分区吗？可不可以共用windows的esp分区？
-7.3116：40左右电脑win+L 关屏后，等十几分中解锁，自动重启，且出现多个应用无法打开的问题, 深度之家 , 18 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/275986,4,72,NA
-个性化设置里面的桌面设置，显示桌面项勾选和不勾选没有反应, 深度之家 , 19 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/275985,2,75,NA
-显示设置分辨率被锁定, frand , 20 hours ago , 【Desktop】 ,https://bbs.deepin.org/en/post/275984,4,72,NA
-全屏启动器开机只能移动一次, 深度之家 , 20 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/275983,0,42,NA
-“钉钉”下载文件“闪退”, 漂泊的旅客 , 21 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/275982,2,75,背景：
-严重bug：任务栏插件图标拖入横向折叠托盘后再拖出来点击无反应, 深度之家 , 21 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/275981,1,88,NA
-dde-shell内存占用偏大，还不断增加, 深度之家 , a day ago , 【Others】 ,https://bbs.deepin.org/en/post/275980,1,202,NA
-v23 RC2死活装不上usb网卡驱动, zengkp , a day ago , 【problem help】 ,https://bbs.deepin.org/en/post/275979,6,177,折腾一晚，无奈求助各位大神，温10和V23双系统，Ax1800 wifi6的usb无线网卡在deepin死活装不上驱动。已在github中下载了8852au芯片驱动。论坛里有大神出了教程，但那是在网络已连接的前提下，可我是没有网线也没有其他能免驱的无线。实在搞不定，求助各位大神了！linux太难了，小白一个，请大神们步骤详细点
-自己设计的新版小型启动器请大家观看, 星海 , a day ago , 【Contribute Advice】 ,https://bbs.deepin.org/en/post/275978,21,452,
-多任务工作区设计想法
-看图, 星海 , 2024-08-01 17:03 , 【Contribute Advice】 ,https://bbs.deepin.org/en/post/275908,6,267,这个区域直接滚轮滑动 直接切换工作区    点击后就是切换里面的 也可以在黑色区域切换  也可以点击工作区域
-提示输入sudo密码的时候，直接回车不会提示密码错误，再输入密码会变成明文, 深度之家 , 17 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/275990,1,24,NA
-deepin V23 RC2 Update Changelog on Aug 2, 2024, Yoloy_Lan , 2024-08-02 10:22 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/275951,0,46,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+所有软件打不开,tomcat_888,4 hours ago,【Seek Help】,https://bbs.deepin.org/en/post/276021,0,28,开始菜单，桌面，任务栏，所有软件都打不开。没有反应。
+deepinv23 正式版什么时候发布呢？现在都是24年过半了,小图巴巴,6 hours ago,【problem help】,https://bbs.deepin.org/en/post/276020,3,77,deepinv23 正式版什么时候发布呢？现在都是24年过半了
+【第三方应用】搜狗输入法Next也违法了！,TXOS-C.User,8 hours ago,【Suggestions for Improvement】,https://bbs.deepin.org/en/post/276019,12,355,NA
+virtualbox-7.0卸载失败,zmqsybzc,8 hours ago,【problem help】,https://bbs.deepin.org/en/post/276018,2,68,正在设定 virtualbox-7.0
+终端内更新报错了，求助大佬,澎湃小青年白羊,9 hours ago,【problem help】,https://bbs.deepin.org/en/post/276017,3,105,NA
+安装PANTUM驱动一直显示失败,L&C,9 hours ago,【Kernel/Drive】,https://bbs.deepin.org/en/post/276016,4,77,NA
+弃坑一段时间了，准备回来把我的主力机装成Deepin,DingAi,10 hours ago,【Seek Help】,https://bbs.deepin.org/en/post/276015,7,240,我在Ubuntu 24.04和  Deepin中选了Deepin，想问一下现在稳定性怎么样了;
+【水 | 20240803】WingHexExplorer2 开发日志,寂静的羽夏,10 hours ago,【software development】,https://bbs.deepin.org/en/post/276014,0,74,本来上周应该发个开发日志的，但是，我的笔记本电脑坏掉了，系统盘的寿命到了。多亏我的数据盘还苟延残喘，不过也命不久矣了，陪伴我5年多的笔记本电脑正式退休了。
+关于deepin启动的问题求助！,gqfeifei,10 hours ago,【problem help】,https://bbs.deepin.org/en/post/276013,1,65,我在Win11下安装的deepin v23可以正常切换，在一块硬盘上面Win11C，deepin在D盘。我从新安装系统后不能正常启动deepin了，请问如何恢复启动菜单。感谢
+系统不能更新，提示缺少依赖,郑发财,11 hours ago,【System Installation】,https://bbs.deepin.org/en/post/276012,8,162,NA
+为什么1080p分辨率下 ，win11的字体要比deep字体,173******47,11 hours ago,【other】,https://bbs.deepin.org/en/post/276011,3,195,唉，买不起4k屏的笔记本，为什么win11字体要比deein字体清晰，17年的小米笔记本
+deepinV23使用节能模式时，希望把自动降低亮度最小值改成0%,widon1104,11 hours ago,【Suggestions for Improvement】,https://bbs.deepin.org/en/post/276010,5,103,NA
+任务栏的系统监视器有bug,SUKUD,11 hours ago,【Dock】,https://bbs.deepin.org/en/post/276009,6,94,打开系统监视器，下面的状态栏没有显示对应的图标，那一块正好是空白的。其他的应用都有图标
+安装故障,lzq980321,12 hours ago,【other】,https://bbs.deepin.org/en/post/276008,1,63,安装后卡在 logo 界面怎么处理嘞
+V23 RC2的问题,用户不存在,12 hours ago,【Seek Help】,https://bbs.deepin.org/en/post/276007,3,130,安装了V23 RC2, 升级到了最新内测版，安装了适配的搜狗输入法、Mac主题和常用软件、配置了UOS-AI本地模型，发现了几个问题：
+华为笔记本，声卡驱动不了，无声音输出设备！,财迷大猫,13 hours ago,【deepin exploration】,https://bbs.deepin.org/en/post/276006,6,95,华为笔记本，声卡驱动不了，哪位大拿能帮忙呢？
+remmina无法同步剪切板,深度之家,13 hours ago,【Others】,https://bbs.deepin.org/en/post/276005,1,42,NA
+启动器虽小但是真的很实用以下是我的想法,星海,13 hours ago,【Share Experiences】,https://bbs.deepin.org/en/post/276004,1,209,这个是收藏应用中的   软件拖拽是可以合并成文件的  方便整理   灰色方块经常使用的软件会放在里头   第二个灰色的是最近安装的应用都会在这里显示  另一个就是自己随便命名的 当然这个灰色区域可以滑动第二页面 你还可以创建自己需要的快捷分类
+更新系统后无线网络断网并且无法打开无线网开关（灰色的）,薛定猫的鱼,14 hours ago,【problem help】,https://bbs.deepin.org/en/post/276003,2,60,操作步骤：
+UOS AI需要手动配置，怎么办？,196******67,14 hours ago,【problem help】,https://bbs.deepin.org/en/post/276002,3,93,NA
+任务栏电源提示问题,谢克辉,14 hours ago,【Topic DIscussion】,https://bbs.deepin.org/en/post/276001,0,43,NA
+飞书 取消“通知时提示声音”，但是收到通知还是有声音,深度之家,14 hours ago,【Others】,https://bbs.deepin.org/en/post/276000,1,48,NA
+小黑方块,味道,15 hours ago,【forum suggestion】,https://bbs.deepin.org/en/post/275999,4,123,今天更新最新的的8.2号的，还是有小黑放块啊！！！！！！！优化优化看看是哪的毛病
+系统音量不能调节大小,spox,15 hours ago,【problem help】,https://bbs.deepin.org/en/post/275998,2,52,系统音量是0%,播放视频之类还是有微弱声音，但是不能调节大小。另外通知中心也总是点不开
+通知区域的建议,阿顺呀,15 hours ago,【Suggestions for Improvement】,https://bbs.deepin.org/en/post/275997,1,77,目前最新内测，通知区域增加了三方图标和系统图标的区分
+屏幕刷新率显示不完整,深度之家,15 hours ago,【Others】,https://bbs.deepin.org/en/post/275996,1,68,NA
+关于我遇到的deepinv23无法切为深色主题问题描述,枫原万叶,16 hours ago,【Exchange and share】,https://bbs.deepin.org/en/post/275995,0,90,【前置条件】某台电脑，原来装的UOS。重装deepinv23内测版系统后，由于两个硬盘，一个硬盘1装着windows系统用用的MBR。另一个固态硬盘2装着linux用的gpt。分区的时候，提示无法将/home指定到硬盘1的原/home分区。因此装好系统后，手动将/home指定到了硬盘1。（并提前备份了安装deepinv23自带的/home分区为/home2）
+打开程序数量增多后，任务栏图标越变越小,深度之家,16 hours ago,【Others】,https://bbs.deepin.org/en/post/275994,1,100,NA
+deepin系统无线网络信号强度问题,134******40,17 hours ago,【Seek Help】,https://bbs.deepin.org/en/post/275993,2,104,同样的距离，同一电脑，windows系统wifi信号满满的，打开网页也很快速流畅，但deepinV23最新内测版wifi信号却较弱，甚至有时断网，到底是网卡驱动问题还是系统对网络优化方面还不够呢？
+关于Neovim的小问题,doing,17 hours ago,【other】,https://bbs.deepin.org/en/post/275992,2,114,neovim版本：V0.9.5
+这个问题如何解决呢？,mardou,17 hours ago,【Seek Help】,https://bbs.deepin.org/en/post/275991,6,101,今天新装了RC2版本，在终端升级中发现有以下提示，不知道如何解决，哪位高手给我一点指点，或提供几条命令，帮我把这个问题解决掉。提前谢谢！
+启动器自己想法算是完成了,星海,17 hours ago,【Feelings & Sharing】,https://bbs.deepin.org/en/post/275989,15,361,NA
+深度之家反馈的问题会同步到论坛吗？,枫原万叶,17 hours ago,【Topic DIscussion】,https://bbs.deepin.org/en/post/275988,2,94,在深度之家反馈只能发送一次，没有找到删除。也好像不能二次回复？
+关于安装双系统的问题,蒹葭九羽,18 hours ago,【System Installation】,https://bbs.deepin.org/en/post/275987,5,89,以前安装双系统，deepin是安装在另一块硬盘上，安装时需要指定一个esp分区，可以在那块硬盘上新建一个分区，就能完成安装还不影响windows系统，现在我想把deepin和windows装在同一块硬盘中，需要单独创建一个esp分区吗？可不可以共用windows的esp分区？
+7.3116：40左右电脑win+L 关屏后，等十几分中解锁，自动重启，且出现多个应用无法打开的问题,深度之家,18 hours ago,【Others】,https://bbs.deepin.org/en/post/275986,4,72,NA
+个性化设置里面的桌面设置，显示桌面项勾选和不勾选没有反应,深度之家,19 hours ago,【Others】,https://bbs.deepin.org/en/post/275985,2,75,NA
+显示设置分辨率被锁定,frand,20 hours ago,【Desktop】,https://bbs.deepin.org/en/post/275984,4,72,NA
+全屏启动器开机只能移动一次,深度之家,20 hours ago,【Others】,https://bbs.deepin.org/en/post/275983,0,42,NA
+“钉钉”下载文件“闪退”,漂泊的旅客,21 hours ago,【problem help】,https://bbs.deepin.org/en/post/275982,2,75,背景：
+严重bug：任务栏插件图标拖入横向折叠托盘后再拖出来点击无反应,深度之家,21 hours ago,【Others】,https://bbs.deepin.org/en/post/275981,1,88,NA
+dde-shell内存占用偏大，还不断增加,深度之家,a day ago,【Others】,https://bbs.deepin.org/en/post/275980,1,202,NA
+v23 RC2死活装不上usb网卡驱动,zengkp,a day ago,【problem help】,https://bbs.deepin.org/en/post/275979,6,177,折腾一晚，无奈求助各位大神，温10和V23双系统，Ax1800 wifi6的usb无线网卡在deepin死活装不上驱动。已在github中下载了8852au芯片驱动。论坛里有大神出了教程，但那是在网络已连接的前提下，可我是没有网线也没有其他能免驱的无线。实在搞不定，求助各位大神了！linux太难了，小白一个，请大神们步骤详细点
+自己设计的新版小型启动器请大家观看,星海,a day ago,【Contribute Advice】,https://bbs.deepin.org/en/post/275978,21,452,NA
+提示输入sudo密码的时候，直接回车不会提示密码错误，再输入密码会变成明文,深度之家,17 hours ago,【Others】,https://bbs.deepin.org/en/post/275990,1,24,NA
+春之亮白系列, 星海 , 6 minutes ago , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/276057,0,7,说明以下  向这种带有主题的都是状态都是和任务颜色一致  正常图标  状态栏都是和底部比如这个这个整体是白色就和它反色就行
+打开磁盘管理工具后文件管理器不显示分区, 363045841 , 2 hours ago , 【File Manager】 ,https://bbs.deepin.org/en/post/276056,0,14,使用磁盘管理工具（自带的，或者gparted），会导致文件管理器不显示分区，退出这些工具后恢复，这是设计成这样的还是一种bug？😂
+我要被骂了
+这状态栏还有主题？？, 星海 , 2 hours ago , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/276055,0,28,
+再提个小建议，关于设备管理器, userqian , 5 hours ago , 【Suggestions for Improvement】 ,https://bbs.deepin.org/en/post/276054,0,27,内存这里，既然是概况界面，可以显示成这种格式：32GB(4GB x 8) 53E2G32D4NQ-046LPDDR4 4267MT/s
+V23 Release鼠标移动到托盘右下角图标，鼠标指针会跳动位置, berners , 5 hours ago , 【Seek Help】 ,https://bbs.deepin.org/en/post/276053,0,30,如题，鼠标移动到托盘右下角图标，鼠标指针会跳动位置
+ipv6新源加入测试：v6 only新测试源加入分发测试, 神末shenmo , 6 hours ago , 【App Sharing】 ,https://bbs.deepin.org/en/post/276052,1,61,Hello，这里是shenmo
+V23的个性化主题需要优化的问题, 笑笑天 , 7 hours ago , 【Suggestions for Improvement】 ,https://bbs.deepin.org/en/post/276051,0,38,设置个性化主题之后，我打开一个应用程序。界面如图所示，黑麻麻的菜单，黑麻麻的应用程序界面。何解？
+自己做的的图标配上这个单行显示日历图标你看怎么样？暗黑色系的, 星海 , 7 hours ago , 【Share Experiences】 ,https://bbs.deepin.org/en/post/276050,7,128,壁纸同色暗黑系列之春
+请问23正式版推送后，如何从内测版升级, 173******47 , 7 hours ago , 【other】 ,https://bbs.deepin.org/en/post/276049,3,108,NA
+可以在小程序里加上收藏别人表情包这个功能吗, 放屁大王 , 8 hours ago , 【Contribute Advice】 ,https://bbs.deepin.org/en/post/276048,4,65,自己的表情包目前好像只能从相册添加
+待机或睡眠后任务栏卡死，无法点击, caoyuUU , 8 hours ago , 【Seek Help】 ,https://bbs.deepin.org/en/post/276047,2,42,NA
+显示桌面：在打开新的窗口时，会带出其他已打开的窗口, 光明 , 8 hours ago , 【Suggestions for Improvement】 ,https://bbs.deepin.org/en/post/276045,2,39,复现步骤：
+联想小新yoga13s
+合盖待机后开盖黑屏，只能进入命令行, 彭建忠 , 8 hours ago , 【Freezing/Lagging】 ,https://bbs.deepin.org/en/post/276044,6,63,合盖动作设置为待机，合盖后再开盖，屏幕背光会亮起，不显示锁屏页面，ctrl alt + f2 能进入命令行
+安装QQ无法打开，点击图标后闪一下, 135******77 , 9 hours ago , 【other】 ,https://bbs.deepin.org/en/post/276043,3,68,安装QQ无法打开，点击图标后闪一下，在终端直接打开显示如下：
+启动系统时提示SGX disabled by BIOS, momo , 9 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/276042,4,71,启动系统时提示SGX disabled by BIOS，但是bios中没有关于SGX的设置项，
+装V23后打印机不打印，出现Job stopped due to filtererrors错误, jiayouerbao , 10 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/276041,2,71,
+装V23 rc2后打印机不打印，出现Job stopped due to filtererrors错误，同样的驱动在20.9中无问题，打印一切正常，求助各位大佬怎么解决？v23以及20.9都是装的上图中的驱动，打印机故障检查一切正常，就是不能打印，一点打印就出现Job stopped due to filtererrors错误。系统版本：V23 rc2，打印机型号：京瓷 FS—1040
+重装内核，取消secure boot后，无法开机进入启动菜单或者开机引导, Vigilnet. , 11 hours ago , 【deepin exploration】 ,https://bbs.deepin.org/en/post/276040,2,80,NA
+推荐一下东方财富网上还有一款Choice金融终端看盘软件非常不错。, 梦游世界 , 12 hours ago , 【App Sharing】 ,https://bbs.deepin.org/en/post/276039,4,98,推荐一下东方财富网上还有一款Choice金融终端看盘软件非常不错。
+pip3 使用过程中出现如下：, 悠享余光 , 13 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/276037,6,117,@deepin小助手 @深度之家 这是deepinV23最新版本正常现象么？
+待机或者睡眠 之后无法唤起, 155******27 , 14 hours ago , 【deepin exploration】 ,https://bbs.deepin.org/en/post/276036,6,77,
+宏碁非凡S3,装完系统声卡、网卡检测不到，屏幕无法调节。, Vigilnet. , 15 hours ago , 【Kernel/Drive】 ,https://bbs.deepin.org/en/post/276034,5,101,以下是驱动信息：
+Intel的显示驱动我已经更新到最新了，但是依然无法调节屏幕亮度，而且发热厉害。声卡和网卡的驱动我没找着在哪。
+vigill@vigill-PC:~$ lspci
+00:00.0 Host bridge: Intel Corporation Device 4621 (rev 02)
+00:02.0 VGA compatible controller: Intel Corporation Device 46a6 (rev 0c)
+00:04.0 Signal processing controller: Intel Corporation Device 461d (rev 02)
+00:05.0 Multimedia controller: Intel Corporation Device 465d (rev 02)
+00:06.0 PCI bridge: Intel Corporation 12th Gen Core Processor PCI Express x4 Controller (rev 02)
+00:06.2 PCI bridge: Intel Corporation 12th Gen Core Processor PCI Express x4 Controller (rev 02)
+00:07.0 PCI bridge: Intel Corporation Alder Lake-P Thunderbolt 4 PCI Express Root Port (rev 02)
+00:07.2 PCI bridge: Intel Corporation Alder Lake-P Thunderbolt 4 PCI Express Root Port (rev 02)
+00:08.0 System peripheral: Intel Corporation 12th Gen Core Processor Gaussian & Neural Accelerator (rev 02)
+00:0d.0 USB controller: Intel Corporation Alder Lake-P Thunderbolt 4 USB Controller (rev 02)
+00:0d.2 USB controller: Intel Corporation Alder Lake-P Thunderbolt 4 NHI (rev 02)
+00:0d.3 USB controller: Intel Corporation Alder Lake-P Thunderbolt 4 NHI (rev 02)
+00:14.0 USB controller: Intel Corporation Alder Lake PCH USB 3.2 xHCI Host Controller (rev 01)
+00:14.2 RAM memory: Intel Corporation Alder Lake PCH Shared SRAM (rev 01)
+00:14.3 Network controller: Intel Corporation Alder Lake-P PCH CNVi WiFi (rev 01)
+00:15.0 Serial bus controller: Intel Corporation Alder Lake PCH Serial IO I2C Controller (rev 01)
+00:15.1 Serial bus controller: Intel Corporation Alder Lake PCH Serial IO I2C Controller (rev 01)
+00:16.0 Communication controller: Intel Corporation Alder Lake PCH HECI Controller (rev 01)
+00:19.0 Serial bus controller: Intel Corporation Alder Lake-P Serial IO I2C Controller (rev 01)
+00:19.1 Serial bus controller: Intel Corporation Alder Lake-P Serial IO I2C Controller (rev 01)
+00:1f.0 ISA bridge: Intel Corporation Device 5182 (rev 01)
+00:1f.3 Multimedia audio controller: Intel Corporation Alder Lake PCH-P High Definition Audio Controller (rev 01)
+00:1f.4 SMBus: Intel Corporation Alder Lake PCH-P SMBus Host Controller (rev 01)
+00:1f.5 Serial bus controller: Intel Corporation Alder Lake-P PCH SPI Controller (rev 01)
+01:00.0 Non-Volatile memory controller: Sandisk Corp Device 501e
+02:00.0 Non-Volatile memory controller: Micron Technology Inc Device 5411 (rev 01)
+Linux网络连接实时查看器, 倒吸一口凉屁 , 16 hours ago , 【App Sharing】 ,https://bbs.deepin.org/en/post/276033,8,195,适用于Linux的网络连接实时查看器，可查看本地网络连接、结束进程、打开程序路径，远程地址归属地 功能采用强大的纯真网络地址离线库（https://update.cz88.net/ ），软件在Deepin20.9、Kali Linux测试没有问题。
+在应用商店搜索应用后点击任一个应用后均显示请检查您的网络连接, 196******67 , 17 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/276032,8,76,在应用商店搜索应用后，点击任一个应用后均显示请检查您的网络连接，不能正常进入应用的具体介绍页面。但是只要不搜索就能够正常点击进入应用的具体介绍页面。
+能不能做成壁纸同色系列暗系看图
+单行时间显示和双更喜欢那个？, 星海 , 17 hours ago , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/276031,6,166,亮面就是白色透明
+更新最新20240802内测出现内核编译失败错误如何解决, 我樂苦多 , 17 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/276030,2,89,这是最后部分错误提示，内测更新出现 dde-dock-onboard-plugin插件冲突，然后卸载这个插件，操作如下：
+deepin自己更新内核后性能模式里面某些选项无法选择是怎么回事？, fbia , 18 hours ago , 【Kernel/Drive】 ,https://bbs.deepin.org/en/post/276029,3,121,deepin自己更新内核后性能模式里面的某些选项无法选择是怎么回事？还有我用的是主线内核，不是用的deepin官方内核源代码。
+安装23版系统后出现了开机过程中的提示是怎么回事呢？, mardou , 18 hours ago , 【Contribute Advice】 ,https://bbs.deepin.org/en/post/276028,9,138,近日新装了V23RC2后，在开机启动电脑过程中，出现了问题提示，究竟是怎么回事呢？如何解决？是我的安装问题还是系统本身与我的手提不兼容的问题？
+deepin WSL, myd8 , 19 hours ago , 【other】 ,https://bbs.deepin.org/en/post/276026,5,245,在下载使用deepin WSL 时出现下面问题，那个大佬帮忙解决下。万分感谢！！！
+更新系统建议增加错误原因等信息, 181******20 , 19 hours ago , 【System Installation】 ,https://bbs.deepin.org/en/post/276025,6,114,通过更新系统更新很少有成功的，而且也没提示原因不知道怎么解决，每次更新系统都只能重装，建议这里增加错误原因等信息，引导用户去解决
+V23RC 内测版 切换主题图标和调整护眼模式后，任务栏图标变小, 光明 , 21 hours ago , 【Suggestions for Improvement】 ,https://bbs.deepin.org/en/post/276024,5,111,这个会变小，挺烦的。
+更新到V23 RC2内测版本以后，不能使用扩展屏幕了,副屏幕黑屏, 郑发财 , 21 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/276023,7,91,
+Immutable Version Of Arch-Based Manjaro Linux Available For Testing, 卢凌风 , a day ago , 【Industry News】 ,https://bbs.deepin.org/en/post/276022,2,126,Manjaro Linux now has an immutable spin available for community testing. This immutable Manjaro Linux is built around Arkdep as developed by the Arkane Linux distribution. The Arkdep toolkit allows building / deploying / maintaining immutable, atomic systems built atop the Btrfs file-system. Arkdep is hosted on GitHub for those wanting to learn more about the project.
+Wine 9.14 installer on Debian 10+, 穿越Arch的追念 , 13 hours ago , 【wine zone】 ,https://bbs.deepin.org/en/post/276038,0,30,https://github.com/MacMonterey/spark-wine/releases/tag/9.14
+deepin V23 RC2 Update Changelog on Aug 2, 2024, Yoloy_Lan , 2024-08-02 10:22 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/275951,0,62,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
 Alleviating the Issue of Deepin 23
-Not Waking Up the Screen After Sleep, SuperDavid , 2024-08-01 10:17 , 【Share Experiences】 ,https://bbs.deepin.org/en/post/275893,0,49,1. Problem Description
-Good Morning deepin, News Overview - July 26, 2024, Yoloy_Lan , 2024-07-26 09:27 , 【News】 ,https://bbs.deepin.org/en/post/275580,0,118,
-deepin V23 RC Update Changelog on July 12, 2024, deepin小助手 , 2024-07-12 09:47 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/274990,4,612,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
-deepin V23 RC Update Changelog on July 5, 2024, deepin小助手 , 2024-07-05 06:19 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/274753,2,483,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
-Science Popularization: What are make, makefile, cmake, and nmake?, yanjuner , 2024-07-04 07:15 , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/274714,0,167,Original article:  https://bbs.deepin.org/post/260957                                                Original author：sammy-621
-Deepin Community Live CD 2.0.0 Upgrade, Added ARM Support, yanjuner , 2024-07-04 06:37 , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/274710,1,200,Original link：https://bbs.deepin.org/post/260096        Original author：gfdgd_xi
-deepin V23 RC Update Changelog on Jun 28, 2024, deepin小助手 , 2024-06-28 08:54 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/274477,0,364,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
-When the window size is reduced,the details move out., 深度之家 , 2024-06-26 07:00 , 【Others】 ,https://bbs.deepin.org/en/post/274349,1,231,NA
-deepin V23 RC Update Changelog on Jun 21, 2024, deepin小助手 , 2024-06-21 09:50 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/274138,0,366,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+Not Waking Up the Screen After Sleep, SuperDavid , 2024-08-01 10:17 , 【Share Experiences】 ,https://bbs.deepin.org/en/post/275893,0,67,1. Problem Description
+Good Morning deepin, News Overview - July 26, 2024, Yoloy_Lan , 2024-07-26 09:27 , 【News】 ,https://bbs.deepin.org/en/post/275580,0,123,
+deepin V23 RC Update Changelog on July 12, 2024, deepin小助手 , 2024-07-12 09:47 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/274990,4,618,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+deepin V23 RC Update Changelog on July 5, 2024, deepin小助手 , 2024-07-05 06:19 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/274753,2,487,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+Science Popularization: What are make, makefile, cmake, and nmake?, yanjuner , 2024-07-04 07:15 , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/274714,0,170,Original article:  https://bbs.deepin.org/post/260957                                                Original author：sammy-621
+Deepin Community Live CD 2.0.0 Upgrade, Added ARM Support, yanjuner , 2024-07-04 06:37 , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/274710,1,203,Original link：https://bbs.deepin.org/post/260096        Original author：gfdgd_xi
+deepin V23 RC Update Changelog on Jun 28, 2024, deepin小助手 , 2024-06-28 08:54 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/274477,0,368,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+When the window size is reduced,the details move out., 深度之家 , 2024-06-26 07:00 , 【Others】 ,https://bbs.deepin.org/en/post/274349,1,233,NA
+deepin V23 RC Update Changelog on Jun 21, 2024, deepin小助手 , 2024-06-21 09:50 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/274138,0,368,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
 deepin Forum moderator
-recruitment, deepin小助手 , 2024-06-19 08:32 , 【Official Events】 ,https://bbs.deepin.org/en/post/274055,0,1290,Are you passionate about technology, community engagement, and good at leading discussions? We are looking for enthusiastic individuals to join our team as deepin English forum moderators.
+recruitment, deepin小助手 , 2024-06-19 08:32 , 【Official Events】 ,https://bbs.deepin.org/en/post/274055,0,1307,Are you passionate about technology, community engagement, and good at leading discussions? We are looking for enthusiastic individuals to join our team as deepin English forum moderators.
 wine
-issue, giuseppe00 , 2024-06-17 08:19 , 【problem help】 ,https://bbs.deepin.org/en/post/273966,5,585,Yesterday I downloaded the version DEEPIN  RC2 when i do "sudo apt install wine" it says wine command not found, how can I install wine on this version of deepin
-Announcement on UOS AI related updates in deepin V23 RC2 on June 14, 2024, deepin小助手 , 2024-06-14 10:02 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/273831,4,357,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
-deepin V23 RC Update Changelog on Jun 07, 2024, deepin小助手 , 2024-06-07 09:53 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/273583,0,692,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
-deepin V23 release update log May 31, 2024, deepin小助手 , 2024-05-31 08:24 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/273270,0,682,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
-magic lamp effect, the animation moves to the second screen, 深度之家 , 2024-05-29 06:00 , 【Others】 ,https://bbs.deepin.org/en/post/273165,2,383,NA
+issue, giuseppe00 , 2024-06-17 08:19 , 【problem help】 ,https://bbs.deepin.org/en/post/273966,5,590,Yesterday I downloaded the version DEEPIN  RC2 when i do "sudo apt install wine" it says wine command not found, how can I install wine on this version of deepin
+Announcement on UOS AI related updates in deepin V23 RC2 on June 14, 2024, deepin小助手 , 2024-06-14 10:02 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/273831,4,360,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+deepin V23 RC Update Changelog on Jun 07, 2024, deepin小助手 , 2024-06-07 09:53 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/273583,0,694,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+deepin V23 release update log May 31, 2024, deepin小助手 , 2024-05-31 08:24 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/273270,0,686,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+magic lamp effect, the animation moves to the second screen, 深度之家 , 2024-05-29 06:00 , 【Others】 ,https://bbs.deepin.org/en/post/273165,2,386,NA
