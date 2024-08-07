@@ -1,6 +1,6 @@
 ---
 title: 拯救者r9000p启用混合显示BIOS启用进入系统黑屏
-date: '2024-08-06'
+date: '2024-08-07'
 linkTitle: https://bbs.deepin.org/en/post/276130
 source: deepin_bbs
 description:  red_stone 
