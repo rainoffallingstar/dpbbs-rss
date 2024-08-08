@@ -2115,260 +2115,141 @@ UOS-AI的问题,用户不存在,a day ago,【deepin exploration】,https://bbs.d
 开发操作系统的人是不独行的孤单英雄,138******92,a day ago,【Topic DIscussion】,https://bbs.deepin.org/en/post/276112,1,323,中国错过的计算机产业前半生，是五十年的技术积累时间，和期间海量的人力、物力、精力、资金投入。更重要的是，因为错过了这几十年的发展历程，中国信息技术产业相当于没有童年，一出生就被丟进了社会，怀揣着中国自主系统梦想的人始终在等国产操作系统市场占有率和软件生态有一个质的飞跃，这绝不是某个孤单英雄能够走通的路，而注定是一群从业者，甚至长达数代需要努力的方向。
 如果时尚任务栏设计成这样你会满意吗？,星海,a day ago,【Feelings & Sharing】,https://bbs.deepin.org/en/post/276111,5,178,NA
 Running Applications Using the ACE Compatibility Environment,SuperDavid,15 hours ago,【Share Experiences】,https://bbs.deepin.org/en/post/276140,0,35,The repository for Deepin v20 is outdated, and some applications are no longer supported (e.g., the latest Chrome-based browsers). The repository for v23 is still under development, and some dependencies are missing, making installation impossible. Using the ACE container can resolve these issues.
-deepin IDE全新版本重磅更新，抢先体验！, deepin商店流云 , 16 hours ago , 【Product exchange】 ,https://bbs.deepin.org/en/post/276185,10,691,自从我们上次发布了deepin IDE的新版本，已经过去了一个月。我们的工程师们在这短暂的时间里，又憋出了哪些大招呢？今天，就让我们一起来探个究竟，看看此次deepin IDE更新了哪些亮点？
-TrinityDE,一个幽默的桌面环境, 神末shenmo , 7 hours ago , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/276206,1,474,Q4OS以其TDE为特色，TDE是一个定制的KDE3，Q4OS使其更加贴合WinXP的使用习惯，主打一个比Wubuntu和LinuxFX更加Windows的体验——我认真的
-新安装的深度操作系统无网络连接？大佬求解。, 137******93 , 7 hours ago , 【Newbies】 ,https://bbs.deepin.org/en/post/276205,2,507,新安装的深度操作系统无网络连接，但是可以通过USB数据线共享手机网络或通过网线连接网络。
-大佬求解，新安装的深度操作系统无网络连接是怎么回事？, 137******93 , 8 hours ago , 【Newbies】 ,https://bbs.deepin.org/en/post/276204,2,201,新安装的深度操作系统无网络连接，但可以通过USB数据线连接手机网络或使用网线上网。
-反馈V23中几个细节问题, Deepin Fans , 8 hours ago , 【Dock】 ,https://bbs.deepin.org/en/post/276203,2,402,如下：
-又遇到deepin-IDE报这个错了, 枫原万叶 , 9 hours ago , 【 feedback】 ,https://bbs.deepin.org/en/post/276202,2,159,之前在UOS上遇到过，今天居然在deepinv23内测版遇到了这个问题。
-在Deepin系统上配置Python开发环境, 182******91 , 10 hours ago , 【software development】 ,https://bbs.deepin.org/en/post/276201,5,125,为了帮助Python初学者在Deepin系统上尽快配置好一个能用的Python开发环境，本教程介绍了相关的步骤。
-8月15日V23正式版loongarch和Arm同步更新吗？, 153******86 , 11 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/276200,2,282,如题
-NV驱动无法安装, zmqsybzc , 11 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/276199,5,194,(base) zmqsybzc@zmqsybzc-PC:~$ sudo apt install nvidia-driver
-正在读取软件包列表... 完成
-正在分析软件包的依赖关系树... 完成
-正在读取状态信息... 完成
-下列软件包是自动安装的并且现在不需要了：
-gdisk jfsutils libblockdev-fs2 libblockdev-loop2 libblockdev-part-err2 libblockdev-part2 libblockdev-swap2 libblockdev2
-libddcutil3 libdeepin-kwineffects13 libdeepin-kwinglutils13 libdeepin-kwinxrenderutils13 libgs9-common libhwloc15
-libmagickcore-6.q16-6 libmagickcore-6.q16-6-extra libmagickwand-6.q16-6 libopenblas0 libopencv-core406
-libopencv-imgproc406 libpoppler82 libtbb12 libtbbbind-2-5 libtbbmalloc2 org.bizconf.libhccontrolsdk org.bizconf.libhcimsdk
-org.bizconf.libhctranssdk spark-deepinid-unionid-patch squashfs-tools syslinux syslinux-common
-使用'sudo apt autoremove'来卸载它(它们)。
-将会同时安装下列软件：
-glx-alternative-nvidia glx-diversions libcuda1 libcuda1:i386 libegl-nvidia0 libegl-nvidia0:i386 libgl1-nvidia-glvnd-glx
-libgl1-nvidia-glvnd-glx:i386 libgles-nvidia1 libgles-nvidia1:i386 libgles-nvidia2 libgles-nvidia2:i386 libglx-nvidia0
-libglx-nvidia0:i386 libnvcuvid1 libnvcuvid1:i386 libnvidia-cfg1 libnvidia-encode1 libnvidia-encode1:i386 libnvidia-ml1
-libnvidia-pkcs11-openssl3 nvidia-alternative nvidia-driver-bin nvidia-driver-libs nvidia-driver-libs:i386
-nvidia-egl-common nvidia-egl-icd nvidia-egl-icd:i386 nvidia-installer-cleanup nvidia-kernel-common nvidia-kernel-dkms
-nvidia-kernel-support nvidia-legacy-check nvidia-modprobe nvidia-persistenced nvidia-settings nvidia-smi nvidia-support
-nvidia-suspend-common nvidia-vdpau-driver nvidia-vulkan-common nvidia-vulkan-icd nvidia-vulkan-icd:i386
-xserver-xorg-video-nvidia
-建议安装：
-nvidia-cuda-mps vulkan-tools vulkan-tools:i386
-下列【新】软件包将被安装：
-glx-alternative-nvidia glx-diversions libcuda1 libcuda1:i386 libegl-nvidia0 libegl-nvidia0:i386 libgl1-nvidia-glvnd-glx
-libgl1-nvidia-glvnd-glx:i386 libgles-nvidia1 libgles-nvidia1:i386 libgles-nvidia2 libgles-nvidia2:i386 libglx-nvidia0
-libglx-nvidia0:i386 libnvcuvid1 libnvcuvid1:i386 libnvidia-cfg1 libnvidia-encode1 libnvidia-encode1:i386 libnvidia-ml1
-libnvidia-pkcs11-openssl3 nvidia-alternative nvidia-driver nvidia-driver-bin nvidia-driver-libs nvidia-driver-libs:i386
-nvidia-egl-common nvidia-egl-icd nvidia-egl-icd:i386 nvidia-installer-cleanup nvidia-kernel-common nvidia-kernel-dkms
-nvidia-kernel-support nvidia-legacy-check nvidia-modprobe nvidia-persistenced nvidia-settings nvidia-smi nvidia-support
-nvidia-suspend-common nvidia-vdpau-driver nvidia-vulkan-common nvidia-vulkan-icd nvidia-vulkan-icd:i386
-xserver-xorg-video-nvidia
-升级了 0 个软件包，新安装了 45 个软件包，要卸载 0 个软件包，有 2 个软件包未被升级。
-需要下载 0 B/65.3 MB 的归档。
-解压缩后会消耗 192 MB 的额外空间。
-您希望继续执行吗？ [Y/n] y
-正在从软件包中解出模板：100%
-正在预设定软件包 ...
-正在选中未选择的软件包 nvidia-installer-cleanup。
-(正在读取数据库 ... 系统当前共安装有 444509 个文件和目录。)
-准备解压 .../nvidia-installer-cleanup_20151021+13_amd64.deb  ...
-正在解压 nvidia-installer-cleanup (20151021+13) ...
-正在设置 nvidia-installer-cleanup (20151021+13) ...
-正在选中未选择的软件包 glx-diversions。
-(正在读取数据库 ... 系统当前共安装有 444516 个文件和目录。)
-准备解压 .../glx-diversions_1.2.1_amd64.deb  ...
-正在解压 glx-diversions (1.2.1) ...
-正在选中未选择的软件包 glx-alternative-nvidia。
-准备解压 .../glx-alternative-nvidia_1.2.1_amd64.deb  ...
-正在解压 glx-alternative-nvidia (1.2.1) ...
-正在选中未选择的软件包 nvidia-legacy-check。
-准备解压 .../nvidia-legacy-check_535.161.08-2_amd64.deb  ...
-正在解压 nvidia-legacy-check (535.161.08-2) ...
-正在选中未选择的软件包 nvidia-support。
-准备解压 .../nvidia-support_20151021+13_amd64.deb  ...
-正在解压 nvidia-support (20151021+13) ...
-正在设置 nvidia-legacy-check (535.161.08-2) ...
-正在选中未选择的软件包 nvidia-alternative。
-(正在读取数据库 ... 系统当前共安装有 444551 个文件和目录。)
-准备解压 .../00-nvidia-alternative_535.161.08-2_amd64.deb  ...
-正在解压 nvidia-alternative (535.161.08-2) ...
-正在选中未选择的软件包 libnvidia-pkcs11-openssl3:amd64。
-准备解压 .../01-libnvidia-pkcs11-openssl3_535.161.08-2_amd64.deb  ...
-正在解压 libnvidia-pkcs11-openssl3:amd64 (535.161.08-2) ...
-正在选中未选择的软件包 libcuda1:amd64。
-准备解压 .../02-libcuda1_535.161.08-2_amd64.deb  ...
-正在解压 libcuda1:amd64 (535.161.08-2) ...
-正在选中未选择的软件包 libglx-nvidia0:amd64。
-准备解压 .../03-libglx-nvidia0_535.161.08-2_amd64.deb  ...
-正在解压 libglx-nvidia0:amd64 (535.161.08-2) ...
-正在选中未选择的软件包 libgl1-nvidia-glvnd-glx:amd64。
-准备解压 .../04-libgl1-nvidia-glvnd-glx_535.161.08-2_amd64.deb  ...
-正在解压 libgl1-nvidia-glvnd-glx:amd64 (535.161.08-2) ...
-正在选中未选择的软件包 nvidia-egl-common。
-准备解压 .../05-nvidia-egl-common_535.161.08-2_amd64.deb  ...
-正在解压 nvidia-egl-common (535.161.08-2) ...
-正在选中未选择的软件包 libegl-nvidia0:amd64。
-准备解压 .../06-libegl-nvidia0_535.161.08-2_amd64.deb  ...
-正在解压 libegl-nvidia0:amd64 (535.161.08-2) ...
-正在选中未选择的软件包 nvidia-egl-icd:amd64。
-准备解压 .../07-nvidia-egl-icd_535.161.08-2_amd64.deb  ...
-正在解压 nvidia-egl-icd:amd64 (535.161.08-2) ...
-正在选中未选择的软件包 nvidia-driver-libs:amd64。
-准备解压 .../08-nvidia-driver-libs_535.161.08-2_amd64.deb  ...
-正在解压 nvidia-driver-libs:amd64 (535.161.08-2) ...
-正在选中未选择的软件包 libnvidia-ml1:amd64。
-准备解压 .../09-libnvidia-ml1_535.161.08-2_amd64.deb  ...
-正在解压 libnvidia-ml1:amd64 (535.161.08-2) ...
-正在选中未选择的软件包 nvidia-driver-bin。
-准备解压 .../10-nvidia-driver-bin_535.161.08-2_amd64.deb  ...
-正在解压 nvidia-driver-bin (535.161.08-2) ...
-正在选中未选择的软件包 xserver-xorg-video-nvidia。
-准备解压 .../11-xserver-xorg-video-nvidia_535.161.08-2_amd64.deb  ...
-正在解压 xserver-xorg-video-nvidia (535.161.08-2) ...
-正在选中未选择的软件包 nvidia-vdpau-driver:amd64。
-准备解压 .../12-nvidia-vdpau-driver_535.161.08-2_amd64.deb  ...
-正在解压 nvidia-vdpau-driver:amd64 (535.161.08-2) ...
-正在选中未选择的软件包 nvidia-kernel-common。
-准备解压 .../13-nvidia-kernel-common_20151021+13_amd64.deb  ...
-正在解压 nvidia-kernel-common (20151021+13) ...
-正在选中未选择的软件包 nvidia-modprobe。
-准备解压 .../14-nvidia-modprobe_550.78-1_amd64.deb  ...
-正在解压 nvidia-modprobe (550.78-1) ...
-正在选中未选择的软件包 nvidia-kernel-support。
-准备解压 .../15-nvidia-kernel-support_535.161.08-2_amd64.deb  ...
-正在解压 nvidia-kernel-support (535.161.08-2) ...
-正在选中未选择的软件包 nvidia-kernel-dkms。
-准备解压 .../16-nvidia-kernel-dkms_535.161.08-2_amd64.deb  ...
-正在解压 nvidia-kernel-dkms (535.161.08-2) ...
-正在选中未选择的软件包 nvidia-driver。
-准备解压 .../17-nvidia-driver_535.161.08-2_amd64.deb  ...
-正在解压 nvidia-driver (535.161.08-2) ...
-正在选中未选择的软件包 libnvidia-cfg1:amd64。
-准备解压 .../18-libnvidia-cfg1_535.161.08-2_amd64.deb  ...
-正在解压 libnvidia-cfg1:amd64 (535.161.08-2) ...
-正在选中未选择的软件包 nvidia-persistenced。
-准备解压 .../19-nvidia-persistenced_535.171.04-1_amd64.deb  ...
-正在解压 nvidia-persistenced (535.171.04-1) ...
-正在选中未选择的软件包 nvidia-settings。
-准备解压 .../20-nvidia-settings_535.171.04-1_amd64.deb  ...
-正在解压 nvidia-settings (535.171.04-1) ...
-正在选中未选择的软件包 libcuda1:i386。
-准备解压 .../21-libcuda1_535.161.08-2_i386.deb  ...
-正在解压 libcuda1:i386 (535.161.08-2) ...
-正在选中未选择的软件包 libegl-nvidia0:i386。
-准备解压 .../22-libegl-nvidia0_535.161.08-2_i386.deb  ...
-正在解压 libegl-nvidia0:i386 (535.161.08-2) ...
-正在选中未选择的软件包 libglx-nvidia0:i386。
-准备解压 .../23-libglx-nvidia0_535.161.08-2_i386.deb  ...
-正在解压 libglx-nvidia0:i386 (535.161.08-2) ...
-正在选中未选择的软件包 libgl1-nvidia-glvnd-glx:i386。
-准备解压 .../24-libgl1-nvidia-glvnd-glx_535.161.08-2_i386.deb  ...
-正在解压 libgl1-nvidia-glvnd-glx:i386 (535.161.08-2) ...
-正在选中未选择的软件包 libgles-nvidia1:amd64。
-准备解压 .../25-libgles-nvidia1_535.161.08-2_amd64.deb  ...
-正在解压 libgles-nvidia1:amd64 (535.161.08-2) ...
-正在选中未选择的软件包 libgles-nvidia1:i386。
-准备解压 .../26-libgles-nvidia1_535.161.08-2_i386.deb  ...
-正在解压 libgles-nvidia1:i386 (535.161.08-2) ...
-正在选中未选择的软件包 libgles-nvidia2:i386。
-准备解压 .../27-libgles-nvidia2_535.161.08-2_i386.deb  ...
-正在解压 libgles-nvidia2:i386 (535.161.08-2) ...
-正在选中未选择的软件包 libgles-nvidia2:amd64。
-准备解压 .../28-libgles-nvidia2_535.161.08-2_amd64.deb  ...
-正在解压 libgles-nvidia2:amd64 (535.161.08-2) ...
-正在选中未选择的软件包 libnvcuvid1:amd64。
-准备解压 .../29-libnvcuvid1_535.161.08-2_amd64.deb  ...
-正在解压 libnvcuvid1:amd64 (535.161.08-2) ...
-正在选中未选择的软件包 libnvcuvid1:i386。
-准备解压 .../30-libnvcuvid1_535.161.08-2_i386.deb  ...
-正在解压 libnvcuvid1:i386 (535.161.08-2) ...
-正在选中未选择的软件包 libnvidia-encode1:i386。
-准备解压 .../31-libnvidia-encode1_535.161.08-2_i386.deb  ...
-正在解压 libnvidia-encode1:i386 (535.161.08-2) ...
-正在选中未选择的软件包 libnvidia-encode1:amd64。
-准备解压 .../32-libnvidia-encode1_535.161.08-2_amd64.deb  ...
-正在解压 libnvidia-encode1:amd64 (535.161.08-2) ...
-正在选中未选择的软件包 nvidia-egl-icd:i386。
-准备解压 .../33-nvidia-egl-icd_535.161.08-2_i386.deb  ...
-正在解压 nvidia-egl-icd:i386 (535.161.08-2) ...
-正在选中未选择的软件包 nvidia-driver-libs:i386。
-准备解压 .../34-nvidia-driver-libs_535.161.08-2_i386.deb  ...
-正在解压 nvidia-driver-libs:i386 (535.161.08-2) ...
-正在选中未选择的软件包 nvidia-smi。
-准备解压 .../35-nvidia-smi_535.161.08-2_amd64.deb  ...
-正在解压 nvidia-smi (535.161.08-2) ...
-正在选中未选择的软件包 nvidia-suspend-common。
-准备解压 .../36-nvidia-suspend-common_535.161.08-2_amd64.deb  ...
-正在解压 nvidia-suspend-common (535.161.08-2) ...
-正在选中未选择的软件包 nvidia-vulkan-common。
-准备解压 .../37-nvidia-vulkan-common_535.161.08-2_amd64.deb  ...
-正在解压 nvidia-vulkan-common (535.161.08-2) ...
-正在选中未选择的软件包 nvidia-vulkan-icd:amd64。
-准备解压 .../38-nvidia-vulkan-icd_535.161.08-2_amd64.deb  ...
-正在解压 nvidia-vulkan-icd:amd64 (535.161.08-2) ...
-正在选中未选择的软件包 nvidia-vulkan-icd:i386。
-准备解压 .../39-nvidia-vulkan-icd_535.161.08-2_i386.deb  ...
-正在解压 nvidia-vulkan-icd:i386 (535.161.08-2) ...
-正在设置 nvidia-support (20151021+13) ...
-正在设置 nvidia-egl-common (535.161.08-2) ...
-正在设置 nvidia-kernel-common (20151021+13) ...
-正在设置 nvidia-modprobe (550.78-1) ...
-正在设置 glx-diversions (1.2.1) ...
-dpkg-divert: 错误: 更改  /usr/lib/i386-linux-gnu/libGL.so.1  文件名会覆盖  /usr/lib/mesa-diverted/i386-linux-gnu/libGL.so.1，
-不允许此操作
-dpkg: 处理软件包 glx-diversions (--configure)时出错：
-已安装 glx-diversions 软件包 post-installation 脚本 子进程返回错误状态 2
-正在设置 nvidia-vulkan-common (535.161.08-2) ...
-dpkg: 依赖关系问题使得 glx-alternative-nvidia 的配置工作不能继续：
-glx-alternative-nvidia 依赖于 glx-diversions (= 1.2.1)；然而：
-软件包 glx-diversions 尚未配置。
-确定8月15发布正式版了！, 天园 , 11 hours ago , 【Topic DIscussion】 ,https://bbs.deepin.org/en/post/276198,18,825,公众号发文出来了！
-在家里搭建一台服务器可以做哪些很酷的事情？, 流浪的加菲 , 12 hours ago , 【Topic DIscussion】 ,https://bbs.deepin.org/en/post/276197,9,293,现在玩NAS的人挺多的，都说中年男人有三宝：充电头、路由器、NAS
-谷歌搜索被判垄断：受影响最大却可能是Firefox！, 卢凌风 , 13 hours ago , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/276196,7,195,美国地区法官阿米特-梅塔（Amit Mehta）此前裁定Google在网络搜索领域建立了垄断地位， 这家公司耗资上百亿美元，成为 PC 和移动设备计算平台和网络浏览器的领先搜索提供商。
-用了几天系统进不去，这是怎么回事，求高手, 弓长张的张 , 13 hours ago , 【deepin exploration】 ,https://bbs.deepin.org/en/post/276195,5,230,
-无法识别移动硬盘, 深度之家 , 13 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/276194,1,46,NA
-有奖活动-deepin V23特性大猜想！, deepin小助手 , 13 hours ago , 【Official Events】 ,https://bbs.deepin.org/en/post/276193,10,405,
-20.9-community安装 硬盘分区失败, 199******40 , 14 hours ago , 【System Installation】 ,https://bbs.deepin.org/en/post/276192,2,73,
-求助：Btrfs文件丢失, 神末shenmo , 14 hours ago , 【Topic DIscussion】 ,https://bbs.deepin.org/en/post/276191,8,336,我在Btrfs上跑了BT
-桌面右键菜单的小BUG, eagleluo2020 , 14 hours ago , 【Desktop】 ,https://bbs.deepin.org/en/post/276190,4,186,8月2日内测更新后，右键菜单“个性化”进入的不是个性化设置，而是壁纸屏保的设置。
-steam安装不了, 深度之家 , 14 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/276189,5,115,NA
-在软件商店安装了玲珑软件，安装好后打不开, 墨洛 , 15 hours ago , 【Topic discussion】 ,https://bbs.deepin.org/en/post/276188,3,138,在软件商店安装了玲珑软件，安装好后打不开
-内测最新版无法用官方u盘制作。, 边城浪子1777 , 16 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/276187,7,203,内测最新版本用什么制作u盘启动呢？官方的不行，制作失败。
-deepin桌面整理
-后期配上时间之类小组件
-我认为deepin又在创新, 星海 , 16 hours ago , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/276186,7,335,我的桌面  真的方便又实用  为啥还有吐槽的呢  吐槽估计右键菜单藏的太深不好操作估计
-V23卡出一半应用界面一半锁屏界面, Yueling-Ding , 16 hours ago , 【Suggestions for Improvement】 ,https://bbs.deepin.org/en/post/276184,3,106,切一下应用，时不时就是一半锁屏一半应用
-开机容易有crash通知, fax928 , 18 hours ago , 【Control Center】 ,https://bbs.deepin.org/en/post/276183,6,222,如题，开机登录进桌面时通知中心容易有条消息。
-求助U盘修复, Si.van , 18 hours ago , 【Tutorials】 ,https://bbs.deepin.org/en/post/276182,4,134,求助下各位大佬，我使用ISO文件解压后自带的启动盘制作工具，直接把我U盘干崩了，现在U盘只要插电脑就开始报格式化，然后还一直不成功，电脑也一直卡顿。并且通过网上使用cmd的修复教程也不行，用diskG的时候也是直接卡住，还有其他抢救的办法吗？
-V23RC2版怎么装输入法, tagerw , 19 hours ago , 【Seek Help】 ,https://bbs.deepin.org/en/post/276181,4,182,我在问题反馈里面看到有人用V23RC2版，已经安装了搜狗输入法，有没有大神教一下怎么安装？系统自带的输入法比较难用。
-玲珑格式应用，对普通用户意味着什么？（开放讨论）, 应用商店-小鱿鱼 , 19 hours ago , 【Topic discussion】 ,https://bbs.deepin.org/en/post/276180,16,561,大家好又是可爱的小鱿鱼话题时间。
-点右键关机应该是这两个图标, 而不是那两个图标., 181******56 , 19 hours ago , 【Boot/Shutdown】 ,https://bbs.deepin.org/en/post/276178,14,166,点右键关机应该是这两个图标, 而不是那两个图标.
-deepin V23 Release 这个月什么时候发布?, iyue , 19 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/276177,7,452,deepin V23 Release 这个月什么时候发布?
-日历图标的日期显示不正确，同时在任务栏显示也错误的日期。, 181******56 , 20 hours ago , 【Calendar】 ,https://bbs.deepin.org/en/post/276175,7,128,SVG图可以跟着变吧. SVG图内读取日期.
-设置了自动下载更新，下载完成后，还是显示下载更新, 深度之家 , 20 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/276174,3,73,NA
-玲珑商店打不开, kenxzr , 21 hours ago , 【玲珑】 ,https://bbs.deepin.org/en/post/276173,9,223,一个星火、一个玲珑，都无法进入应用。v23 内测版
+deepin IDE全新版本重磅更新，抢先体验！,deepin商店流云,16 hours ago,【Product exchange】,https://bbs.deepin.org/en/post/276185,10,691,自从我们上次发布了deepin IDE的新版本，已经过去了一个月。我们的工程师们在这短暂的时间里，又憋出了哪些大招呢？今天，就让我们一起来探个究竟，看看此次deepin IDE更新了哪些亮点？
+TrinityDE,一个幽默的桌面环境,神末shenmo,7 hours ago,【Feelings & Sharing】,https://bbs.deepin.org/en/post/276206,1,474,Q4OS以其TDE为特色，TDE是一个定制的KDE3，Q4OS使其更加贴合WinXP的使用习惯，主打一个比Wubuntu和LinuxFX更加Windows的体验——我认真的
+新安装的深度操作系统无网络连接？大佬求解。,137******93,7 hours ago,【Newbies】,https://bbs.deepin.org/en/post/276205,2,507,新安装的深度操作系统无网络连接，但是可以通过USB数据线共享手机网络或通过网线连接网络。
+大佬求解，新安装的深度操作系统无网络连接是怎么回事？,137******93,8 hours ago,【Newbies】,https://bbs.deepin.org/en/post/276204,2,201,新安装的深度操作系统无网络连接，但可以通过USB数据线连接手机网络或使用网线上网。
+反馈V23中几个细节问题,Deepin Fans,8 hours ago,【Dock】,https://bbs.deepin.org/en/post/276203,2,402,如下：
+又遇到deepin-IDE报这个错了,枫原万叶,9 hours ago,【 feedback】,https://bbs.deepin.org/en/post/276202,2,159,之前在UOS上遇到过，今天居然在deepinv23内测版遇到了这个问题。
+在Deepin系统上配置Python开发环境,182******91,10 hours ago,【software development】,https://bbs.deepin.org/en/post/276201,5,125,为了帮助Python初学者在Deepin系统上尽快配置好一个能用的Python开发环境，本教程介绍了相关的步骤。
+8月15日V23正式版loongarch和Arm同步更新吗？,153******86,11 hours ago,【problem help】,https://bbs.deepin.org/en/post/276200,2,282,如题
+NV驱动无法安装,zmqsybzc,11 hours ago,【problem help】,https://bbs.deepin.org/en/post/276199,5,194,(base) zmqsybzc@zmqsybzc-PC:~$ sudo apt install nvidia-driver
+确定8月15发布正式版了！,天园,11 hours ago,【Topic DIscussion】,https://bbs.deepin.org/en/post/276198,18,825,公众号发文出来了！
+在家里搭建一台服务器可以做哪些很酷的事情？,流浪的加菲,12 hours ago,【Topic DIscussion】,https://bbs.deepin.org/en/post/276197,9,293,现在玩NAS的人挺多的，都说中年男人有三宝：充电头、路由器、NAS
+谷歌搜索被判垄断：受影响最大却可能是Firefox！,卢凌风,13 hours ago,【Feelings & Sharing】,https://bbs.deepin.org/en/post/276196,7,195,美国地区法官阿米特-梅塔（Amit Mehta）此前裁定Google在网络搜索领域建立了垄断地位， 这家公司耗资上百亿美元，成为 PC 和移动设备计算平台和网络浏览器的领先搜索提供商。
+用了几天系统进不去，这是怎么回事，求高手,弓长张的张,13 hours ago,【deepin exploration】,https://bbs.deepin.org/en/post/276195,5,230,NA
+无法识别移动硬盘,深度之家,13 hours ago,【Others】,https://bbs.deepin.org/en/post/276194,1,46,NA
+有奖活动-deepin V23特性大猜想！,deepin小助手,13 hours ago,【Official Events】,https://bbs.deepin.org/en/post/276193,10,405,NA
+20.9-community安装 硬盘分区失败,199******40,14 hours ago,【System Installation】,https://bbs.deepin.org/en/post/276192,2,73,NA
+求助：Btrfs文件丢失,神末shenmo,14 hours ago,【Topic DIscussion】,https://bbs.deepin.org/en/post/276191,8,336,我在Btrfs上跑了BT
+桌面右键菜单的小BUG,eagleluo2020,14 hours ago,【Desktop】,https://bbs.deepin.org/en/post/276190,4,186,8月2日内测更新后，右键菜单“个性化”进入的不是个性化设置，而是壁纸屏保的设置。
+steam安装不了,深度之家,14 hours ago,【Others】,https://bbs.deepin.org/en/post/276189,5,115,NA
+在软件商店安装了玲珑软件，安装好后打不开,墨洛,15 hours ago,【Topic discussion】,https://bbs.deepin.org/en/post/276188,3,138,在软件商店安装了玲珑软件，安装好后打不开
+内测最新版无法用官方u盘制作。,边城浪子1777,16 hours ago,【problem help】,https://bbs.deepin.org/en/post/276187,7,203,内测最新版本用什么制作u盘启动呢？官方的不行，制作失败。
+我认为deepin又在创新,星海,16 hours ago,【Feelings & Sharing】,https://bbs.deepin.org/en/post/276186,7,335,我的桌面  真的方便又实用  为啥还有吐槽的呢  吐槽估计右键菜单藏的太深不好操作估计
+V23卡出一半应用界面一半锁屏界面,Yueling-Ding,16 hours ago,【Suggestions for Improvement】,https://bbs.deepin.org/en/post/276184,3,106,切一下应用，时不时就是一半锁屏一半应用
+开机容易有crash通知,fax928,18 hours ago,【Control Center】,https://bbs.deepin.org/en/post/276183,6,222,如题，开机登录进桌面时通知中心容易有条消息。
+求助U盘修复,Si.van,18 hours ago,【Tutorials】,https://bbs.deepin.org/en/post/276182,4,134,求助下各位大佬，我使用ISO文件解压后自带的启动盘制作工具，直接把我U盘干崩了，现在U盘只要插电脑就开始报格式化，然后还一直不成功，电脑也一直卡顿。并且通过网上使用cmd的修复教程也不行，用diskG的时候也是直接卡住，还有其他抢救的办法吗？
+V23RC2版怎么装输入法,tagerw,19 hours ago,【Seek Help】,https://bbs.deepin.org/en/post/276181,4,182,我在问题反馈里面看到有人用V23RC2版，已经安装了搜狗输入法，有没有大神教一下怎么安装？系统自带的输入法比较难用。
+玲珑格式应用，对普通用户意味着什么？（开放讨论）,应用商店-小鱿鱼,19 hours ago,【Topic discussion】,https://bbs.deepin.org/en/post/276180,16,561,大家好又是可爱的小鱿鱼话题时间。
+点右键关机应该是这两个图标,而不是那两个图标.,181******56,19 hours ago,【Boot/Shutdown】,https://bbs.deepin.org/en/post/276178,14,166,点右键关机应该是这两个图标, 而不是那两个图标.
+deepin V23 Release 这个月什么时候发布?,iyue,19 hours ago,【problem help】,https://bbs.deepin.org/en/post/276177,7,452,deepin V23 Release 这个月什么时候发布?
+日历图标的日期显示不正确，同时在任务栏显示也错误的日期。,181******56,20 hours ago,【Calendar】,https://bbs.deepin.org/en/post/276175,7,128,SVG图可以跟着变吧. SVG图内读取日期.
+设置了自动下载更新，下载完成后，还是显示下载更新,深度之家,20 hours ago,【Others】,https://bbs.deepin.org/en/post/276174,3,73,NA
+玲珑商店打不开,kenxzr,21 hours ago,【玲珑】,https://bbs.deepin.org/en/post/276173,9,223,一个星火、一个玲珑，都无法进入应用。v23 内测版
+这个这区域间做成活动的是不是更好,星海,a day ago,【Feelings & Sharing】,https://bbs.deepin.org/en/post/276172,12,288,正常黑
+【转】安同开源---安记冰室・七月下,卢凌风,a day ago,【Feelings & Sharing】,https://bbs.deepin.org/en/post/276171,5,266,此外，社区还计划上线由统信软件技术有限公司^[8]^及 deepin 社区^[9]^联合捐赠的两台双路 3B4000 构建服务器。这些服务器将助力我社安同 OS MIPS 龙芯 3 号发行的维护工作。同时，在星霞 OS 维护重启后，这些服务器还将承载星霞 OS 的龙芯 2F 版本的维护工作。
+笔记本带外屏的显示问题。,eagleluo2020,a day ago,【Suggestions for Improvement】,https://bbs.deepin.org/en/post/276170,7,124,笔记本外接一个屏幕，显卡为Intel i5-6200U自带核显，笔记本分辨率为1366x768,外屏分辨率为
+C++ Developing,a***0@yahoo.com,28 minutes ago,【Seek Help】,https://bbs.deepin.org/en/post/276209,0,26,Hi, I am fairly new to Deepin, and I have a problem running c++ files. I used to do it on my windows using gcc/g++, but now i cannot for the life of me figure how and what to do to complie and c++ files!
+Deeping 23 RC3,j***2@gmail.com,2 hours ago,【Share Experiences】,https://bbs.deepin.org/en/post/276208,0,76,Periodically I have experienced OS freezes when coming back from sleep mode or overnight when pc is waking up.
+Vmware e Virtulabox not running !!!,gfracasso_ITALY,5 hours ago,【problem help】,https://bbs.deepin.org/en/post/276207,1,275,Hi,
+Inspired by Wireshark's Adaptation,I Want to Say...,SuperDavid,19 hours ago,【Feelings & Sharing】,https://bbs.deepin.org/en/post/276179,0,48,Reflections
+秋日来信，wine版-印象笔记版本更新啦！, 商店运营-小七 , 14 hours ago , 【App Sharing】 ,https://bbs.deepin.org/en/post/276251,2,310,秋天的第一杯奶茶小伙伴们喝了吗？
+闲着无聊，在我的个人网站里面加了个贼无聊的玩意, Lwh2008-Equinox , 3 hours ago , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/276279,1,20,GitHub里面找到的植物大战僵尸的网页版（可能是移植）
+这段时间在溜那个攻击者, Lwh2008-Equinox , 3 hours ago , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/276278,3,31,引诱它感觉我的几个网站。。。哈哈哈
+mac arm vmware 安装deepinv23，显示分辨率无法调整, 2***6@qq.com , 5 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/276277,0,34,已安装open-vm-tools（包括连带的desktop都装了），按经验其他发行版只要装了这东西后就一切正常了。
+希望deepin越来越好，小建议, xuyang17785639754 , 5 hours ago , 【Contribute Advice】 ,https://bbs.deepin.org/en/post/276276,0,57,希望deepin越来越好
+求deepin ide
+win版本, 199******64 , 6 hours ago , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/276275,0,44,如题，我不一定用deepin系统但我特别想用国产的编译器写java，所以求上线win版本！不要歧视win  crud用户嘛
+小米平板5运行 deepin v23, 空木蓮華 , 8 hours ago , 【 Content contribution】 ,https://bbs.deepin.org/en/post/276273,6,320,deepin v23 加入了 arm64 支持，这里尝试将 deepin 系统刷入平板中，平常使用中，带个笔记本电脑有时候也会嫌比较麻烦，把 Linux 系统刷入平板中既满足了使用需要，又满足了轻便的需求。为什么不使用 termux ？虽然 termux 很方便，但是不想直接嵌套一层系统运行，希望能够获取更好的使用性能。然后上网查阅资料后，选中了小米平板5，不得不说小米为发烧而生。下面是关于小米平板5刷入系统的介绍，关于获取 root 权限，以及解 bootloader 锁的内容不做过多介绍。先叠个甲，如果有人想尝试刷机，请先确认具备刷机相关知识，产生的后果自行负责。
+商店安装程序需要输入配置, tagerw , 8 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/276272,5,90,安装Master PDF突然要求输入配置。这个对话框关不掉，商店退不出来,只能通过注销强制退出。重启后打开商店，仍然处于安装状态，仍然弹出这个对话框。现在商店已经不能继续使用了，还有好几个程序也无法安装了。
+企业微信窗口黑屏后应用托盘也黑了, 我是昵称 , 9 hours ago , 【Dock】 ,https://bbs.deepin.org/en/post/276271,2,61,系统版本：已升级到8.2内测更新
+拷贝文件有点过于龟速了, 艾丝妲单推人 , 9 hours ago , 【Seek Help】 ,https://bbs.deepin.org/en/post/276270,4,191,我先把视频(30G左右)下载到外接硬盘(文件系统exfat)里，由于家里的老电视不支持exfat格式，我又找了一个u盘，把文件系统格式化成fat32(deepin显示成vfat)，然后我就尝试拷到u盘里。结果我从下午一点开始拷的，7个小时都没完？？？而且这速度和某毒盘非会员速度相比好像半斤八两。。。
+无线网络无法识别, So , 9 hours ago , 【deepin exploration】 ,https://bbs.deepin.org/en/post/276269,3,61,笔记本没办法获取到无线网络 现在只能有线USB网络 我这边一直用的无线网 所以没备网线 有大佬知道怎样安装驱动吗
+不同分辨率多屏显示，没有合适的缩放倍数，也不能分别设置缩放, 188******02 , 10 hours ago , 【Suggestions for Improvement】 ,https://bbs.deepin.org/en/post/276268,1,71,不同分辨率多屏显示，没有合适的缩放倍数，也不能分别设置缩放
+正式版发布后RC2升级过去还是重装正式版比较好, zhangweioop , 10 hours ago , 【deepin exploration】 ,https://bbs.deepin.org/en/post/276267,7,281,正式版发布后RC2升级过去还是重装正式版比较好？
+能不能把ai和关机键移动到时间后面, 无法释怀-29 , 11 hours ago , 【Suggestions for Improvement】 ,https://bbs.deepin.org/en/post/276266,5,129,
+B站录播姬 mikufans 全自动直播录制, MMHMM , 11 hours ago , 【App Sharing】 ,https://bbs.deepin.org/en/post/276265,1,82,mikufans录播姬 是一款开源好用的哔哩哔哩直播录制工具
+开源、轻量级替代Postman工具Bruno, MMHMM , 12 hours ago , 【App Sharing】 ,https://bbs.deepin.org/en/post/276264,0,119,Bruno 是一款全新且创新的 API 客户端，旨在颠覆 Postman 和其他类似工具。
+Bruno 直接在您的电脑文件夹中存储您的 API 信息。
+我们使用纯文本标记语言 Bru 来保存有关 API 的信息。
+您可以使用 Git 或您选择的任何版本控制系统来对您的 API 信息进行版本控制和协作。
+Bruno 仅限离线使用。我们计划永不向 Bruno 添加云同步功能。
+我们重视您的数据隐私，并认为它应该留在您的设备上。
+开源跨平台个人知识管理工具 TidGi-Desktop, MMHMM , 12 hours ago , 【App Sharing】 ,https://bbs.deepin.org/en/post/276263,1,117,TidGi-Desktop v0.10.3 是一个创新的个人知识管理工具，它将流行的轻量级wiki系统TiddlyWiki5和版本控制系统Git无缝集成。这个项目旨在为用户提供一个可离线使用、版本化、协作友好且高度自定义的知识库。
+TidGi-Desktop基于Electron框架构建，这意味着它是一款跨平台的应用程序，可以在Windows、MacOS和Linux上运行。核心特性是它内部集成了TiddlyWiki5，一个非服务器式的HTML5应用程序，以单个文件的形式存储所有笔记内容。这样的设计让用户无需依赖网络就能创建、编辑和组织信息。而Git的整合则为TidGi-Desktop带来了强大的版本控制功能。每次保存都会生成一个新的提交，你可以轻松查看历史修改，回滚到早期版本，或者与他人协作时进行代码合并。此外，项目还支持通过GitHub等服务进行远程同步，方便团队共享和备份。应用场景* 个人知识管理：无论你是学生、教师还是专业人士，都可以用TidGi-Desktop整理学习资料、会议记录或项目文档。
+跨平台B站下载工具 DownKyiCore, MMHMM , 12 hours ago , 【App Sharing】 ,https://bbs.deepin.org/en/post/276262,0,77,DownKyiCore 是一个开源项目，关于这个，本人之前的帖子就已经介绍过了，这里不再重复，
+简单说就是跨平台版的哔哩下载姬。
+窗口在显示器间移动快捷键无效, 深度之家 , 12 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/276261,1,30,NA
+开放麒麟真不如deepin
+虽然deepin有也问题, 星海 , 12 hours ago , 【Share Experiences】 ,https://bbs.deepin.org/en/post/276260,5,504,我还是刚刚体验一下的还没深度体验  用不到一分钟就不想用了
+国产EUV光刻机要来啦！！！, piaoliang77 , 12 hours ago , 【Industry News】 ,https://bbs.deepin.org/en/post/276259,1,316,
+【SIG成员招募】加入deepin-game-hub，共创Linux游戏生态！, 应用商店-小鱿鱼 , 12 hours ago , 【Topic discussion】 ,https://bbs.deepin.org/en/post/276258,6,440,我们是一群对Linux游戏充满热情的开发者、设计师和爱好者，致力于推动Linux平台游戏生态的繁荣与发展。deepin-game-hub是基于deepin社区组建的Linux游戏生态发展小组，我们相信通过社区成员的自发贡献和协作，可以激发无限潜力，创造一个充满活力和创新的Linux游戏世界。
+Linux网络连接实时查看软件/工具, MMHMM , 12 hours ago , 【App Sharing】 ,https://bbs.deepin.org/en/post/276257,2,117,NA
+LFS：从源代码构建Linux发行版（元发行版）, 流浪的加菲 , 13 hours ago , 【Share Experiences】 ,https://bbs.deepin.org/en/post/276256,0,115,Linux发行版除了比较知名的deb系（Debian和Ubuntu）和rpm（CentOS和Fedora）系，还有两种“元发行版”（又称为“源代码发行版”）：LFS（Linux From Scratch）和Gentoo。
+希望改进GUI文件管理器的剪切复制逻辑, Iresee , 13 hours ago , 【Suggestions for Improvement】 ,https://bbs.deepin.org/en/post/276255,7,109,比如一个文件路径为/A/A/B，B里面有很多文件，那么剪切/A/A的A文件夹到/A，那么会复制/A/A/B里面所有的文件到/A，而不是直接移动
+[详细介绍]玲珑是什么?它从哪里来,又要到哪里去?, mozixun , 13 hours ago , 【Topic discussion】 ,https://bbs.deepin.org/en/post/276254,9,350,文章参考了deepin官方对玲珑的大致介绍:https://www.deepin.org/zh/deepin-linglong/
+更新系统或更新驱动后，发现特效开关打不开, qq4945286 , 13 hours ago , 【Exchange and share】 ,https://bbs.deepin.org/en/post/276253,2,103,今天更新显卡驱动，更新完重启进入系统后，发现没有特效模式。而且特效开关是关闭的。前面安装的是rocm6.1.3版本，今天把rocm更新到6.2重启后发现，没有了特效。
+wps又崩溃啦, aqliyongqi , 14 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/276250,4,223,UOS家庭版、20.9版、V23版都遇到过这种问题，无论是应用商店、星火还是wps官方下载的，都会出现这种情况。
+v23版本玩不了游戏, 暉兎兎 , 14 hours ago , 【Suggestions for Improvement】 ,https://bbs.deepin.org/en/post/276249,7,267,应用商店安装
+键盘快捷键无法使用, Iresee , 15 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/276248,3,68,屏幕截图：Ctrl+Alt+A、全选：Ctrl+A无法使用
+安装uengine后无法进系统, 158******61 , 15 hours ago , 【other】 ,https://bbs.deepin.org/en/post/276247,4,104,NA
+“设置-个性化-桌面-状态-智能隐藏”无法开启, Iresee , 15 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/276246,4,100,“设置-个性化-桌面-状态-智能隐藏”无法开启，只能选择“一直显示”和“一直隐藏”，系统和硬件信息如下：
+如何在更新后清理备份更新和清除软件包缓存, Iresee , 15 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/276245,2,51,硬盘空间太小，如何在更新后清理备份更新和清除软件包缓存
+ubuntu桌面异常, kanetora , 15 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/276244,2,184,
+Ubuntu 桌面环境常出现的屏幕上半截红色透明的这部分是什么？重启才好。好像最近在deepin v23 DDE下也出现过一次，也是重启才没有。
+PC电脑现在不好卖了，PC系统该如何寻找新的发展机会？, 凡 , 15 hours ago , 【Exchange and share】 ,https://bbs.deepin.org/en/post/276243,10,379,如题，这两年我感觉PC机的价格一直在涨，比如新款的零刻迷你主机SER8 8845HS的准系统版本已经是2599元起步，比原来其它型号的价格要贵一些。甚至，有些PC硬件商越来越多的把游戏显卡加到笔记本电脑中，不再发售新的游戏台式机电脑，变相的让电脑用户买更贵的产品。
+deepinV23 和win11双系统，只能进入Win11, LDT  one , 15 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/276242,3,169,我是微星创造者17的笔记本，在Win11最新的版本的基础上，用优盘成功地安装了deepinV23 ，win11安装在第一个硬盘，deepinV23安装在另外一个硬盘上面，现在没有看到双系统的启动菜单，启动电脑后直接进入到Win11，请教各位大侠，需要怎么做，才有启动双菜单可以选择呢？谢谢！
+启动器里一个应用都看不到了 也没法全屏,怎么办, 小刘忙~ , 15 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/276241,6,91,升级了最新版本的系统之后, 启动器没法用了, 看不到一个应用, 点击展开也没反应
+右下角任务栏右键菜单被隐藏, wesly , 16 hours ago , 【Suggestions for Improvement】 ,https://bbs.deepin.org/en/post/276240,4,157,右键调出菜单，不论菜单栏高度有多少，都会有一个展开图标，导致最后一项图标被遮挡，
+无法添加新的键盘布局, 飞鸿雪浪 , 16 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/276239,2,74,系统安装时默认选择的是汉语键盘布局，目前想添加新的键盘布局，系统无可用的新键盘布局可选，该如何处理？
+灵耀X13无声音, 宏彦 , 16 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/276238,2,101,
+蛟龙15笔记本自带键盘无法使用，插USB键盘可以使用, 173******14 , 17 hours ago , 【Others】 ,https://bbs.deepin.org/en/post/276237,2,92,
+系统管理权限异常, JL Yang , 18 hours ago , 【Control Center】 ,https://bbs.deepin.org/en/post/276236,3,127,系统做了还原以后，用户的管理权限缺失，进行需要权限或认证的图形操作均弹出需要认证，但是密码输入框无法输入密码；使用命令操作提示“sudo: /usr/bin/sudo 必须属于用户 ID 0(的用户)并且设置 setuid 位”。现在应用商店无法安装软件、部分软件也无法运行、系统相关设置也无法操作......
+桌面经常弹出如下提示框，好像是深度邮箱的？, kxmc , 19 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/276235,1,127,
+编译ASIX_USB_NIC_Linux_Driver_Source_v3.0.0报错, 什么是快乐星球 , 19 hours ago , 【other】 ,https://bbs.deepin.org/en/post/276234,0,79,
+统信可能要进入被b站限流的逆境了, genuine2015 , 19 hours ago , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/276233,15,698,我现在尚未登录任何账号，现在前四个结果已经被与统信无关的乱东西占领了，我怀疑是微软等国际垄断资本作祟
+为什么用户名不能用中文?, wendy17615848429 , 19 hours ago , 【System Installation】 ,https://bbs.deepin.org/en/post/276232,8,302,
+应用商店有软件点击提示请检查网络，其它的软件正常。, fax928 , 19 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/276231,4,106,如题。
+关机时提示ucsi_apci ACK failed -100, 什么是快乐星球 , 19 hours ago , 【Boot/Shutdown】 ,https://bbs.deepin.org/en/post/276230,0,76,插着type-c拓展坞关机时提示错误，然后就一直卡着不动了
+内测升级失败, 155******27 , 19 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/276228,2,180,升级失败出现错误
+Bug or Feature？启动器会显示autostart下的desktop文件, wesly , 20 hours ago , 【Suggestions for Improvement】 ,https://bbs.deepin.org/en/post/276227,2,120,
+deepin-从入门到出坑, 155******19 , 20 hours ago , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/276226,18,703,再见了深度，有缘与你在虚拟机上相会吧！
+为appimage的FluentReader设置桌面程序，但在任务栏里是齿轮图标, 180******78 , 20 hours ago , 【3rd-Party Apps】 ,https://bbs.deepin.org/en/post/276225,3,212,
+使用提问：v23办公开发能稳定了吗, zijinyise , 21 hours ago , 【Exchange and share】 ,https://bbs.deepin.org/en/post/276224,14,699,如果能使用我就试试了，目前20.9很稳定（除了文管复制文件太慢，插U盘容易导致系统崩溃），还想问问V23的多桌面切换是不是能隐藏当前桌面任务栏（就是桌面1打开了360浏览器，桌面2看不到，桌面2打开文件管理器，桌面1也看不到）
+Python 即将成为有史以来最流行的编程语言, 流浪的加菲 , 21 hours ago , 【Topic DIscussion】 ,https://bbs.deepin.org/en/post/276223,10,434,TIOBE 公布了 2024 年 8 月的编程语言排行榜：TIOBE Index for August 2024，Python 的份额首次超过 18%，而上一次超过 18% 的语言是 2016 年 11 月的 Java，Java 也是有史以来排名最高的语言：2001 年 6 月为 26.49%。
+v23内测版本怎么关闭防火墙, 张相山 , 21 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/276222,2,189,v23内测版本怎么关闭防火墙，试了几个命令都不行，求有大佬告知下，感谢
+能否加入待机后键盘/鼠标唤醒的设置, 178******61 , 21 hours ago , 【Boot/Shutdown】 ,https://bbs.deepin.org/en/post/276221,2,188,机器基本情况：V23 RC2，实体机，单系统，内存32，交换区16 。
+UOS AI 更新失败, 咕嘟 , 21 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/276220,4,262,UOS AI 显示下载失败，过一会儿就显示成已安装，然后第二天开机又显示在更新里（重新打开应用商店也是如此），重现前面的效果
+怎么样把计算机放在桌面, 肖兴中 , 21 hours ago , 【Newbies】 ,https://bbs.deepin.org/en/post/276219,5,378,怎么样把计算机放在桌面
+Minecraft分配显存为0, 海湾上的北辰 , 21 hours ago , 【Seek Help】 ,https://bbs.deepin.org/en/post/276218,1,161,如图
+插入U盘后任务栏没有U盘显示图标。, pyjy , 21 hours ago , 【Dock】 ,https://bbs.deepin.org/en/post/276217,3,195,刚开始安装系统时插入U盘任务栏有U盘图标，不记得是从哪次更新后开始，就出现插入U盘不显示图标了，托盘折叠栏里没有，但是点文件管理器和我的计算机，可以看到U盘和各个磁盘，所以我退出U盘都是从文件管理器或计算机，点U盘，然后点安全退出。反正最近几次更新都是一样，看不见U盘，故障应该有一两个月了，系统是V23RC，加入了内测，更新到最新。不知哪位大神能提供帮助，解决任务栏U盘图标问题。
+隔壁今天8月8日直播发2.0正式版, 我只是来看看 , 21 hours ago , 【Exchange and share】 ,https://bbs.deepin.org/en/post/276216,28,1075,
+求助!AMD显卡驱动及核显驱动如何安装？, 199******17 , 21 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/276214,5,343,硬件如图
+V23华为matebook x上触控板多指手势操作体验很糟糕, 用户不存在 , a day ago , 【Contribute Advice】 ,https://bbs.deepin.org/en/post/276213,2,266,V23华为matebook x上触控板多指手势操作体验很糟糕，如四指向上，向下操作，系统 反应很慢，全屏后的启动器里面的应用图标双指点击，很容易识别成打开应用，实际上应该打开右键菜单。望早日优化！
+【长安街知事】55年，“争气系统”在路上, sshnuke , a day ago , 【Industry News】 ,https://bbs.deepin.org/en/post/276212,8,762,https://mp.weixin.qq.com/s/hcsu18SNR1tIXv8HPOj5BQ
+截止目前还存在的重大bug,15号能清空吗？, AMZ , a day ago , 【problem help】 ,https://bbs.deepin.org/en/post/276210,6,772,现有的bug：玲珑输入法异常，dock异常卡死重启，自注销会话，打开软件之前的其它窗口先前置，文件管理偶现ctrl v闪退，拖拽无法移动文件
+TrinityDE,一个幽默的桌面环境, 神末shenmo , 2024-08-07 15:35 , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/276206,6,1265,Q4OS以其TDE为特色，TDE是一个定制的KDE3，Q4OS使其更加贴合WinXP的使用习惯，主打一个比Wubuntu和LinuxFX更加Windows的体验——我认真的
+点右键关机应该是这两个图标, 而不是那两个图标., 181******56 , 2024-08-07 03:14 , 【Boot/Shutdown】 ,https://bbs.deepin.org/en/post/276178,15,258,点右键关机应该是这两个图标, 而不是那两个图标.
 最后两种布局更喜欢哪个？
-这个这区域间做成活动的是不是更好, 星海 , a day ago , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/276172,12,288,正常黑
-【转】安同开源---安记冰室・七月下, 卢凌风 , a day ago , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/276171,5,266,此外，社区还计划上线由统信软件技术有限公司^[8]^及 deepin 社区^[9]^联合捐赠的两台双路 3B4000 构建服务器。这些服务器将助力我社安同 OS MIPS 龙芯 3 号发行的维护工作。同时，在星霞 OS 维护重启后，这些服务器还将承载星霞 OS 的龙芯 2F 版本的维护工作。
-笔记本带外屏的显示问题。, eagleluo2020 , a day ago , 【Suggestions for Improvement】 ,https://bbs.deepin.org/en/post/276170,7,124,笔记本外接一个屏幕，显卡为Intel i5-6200U自带核显，笔记本分辨率为1366x768,外屏分辨率为
-果然广大的网友还是挺厉害的
-启动台感觉这样分布也挺好
-主打听劝, 星海 , 2024-08-06 07:14 , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/276142,13,596,自己随便搞的颜色不喜欢很正常
-拯救者r9000p启用混合显示(BIOS启用),进入系统黑屏, red_stone , 2024-08-06 05:32 , 【problem help】 ,https://bbs.deepin.org/en/post/276130,1,61,现在装的系统是v23内测最新版。已经安装了nvidia最新驱动(cuda 12.5)。使用nvidia-smi输出正常。
-时尚任务栏暗兰溪
-这个颜色统一搭配值得一看 有DEEPIN15的感觉, 星海 , 2024-08-06 00:05 , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/276115,4,283,
-最新设计
-如果时尚任务栏设计成这样你会满意吗？, 星海 , 2024-08-05 23:42 , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/276111,5,202,
-C++ Developing, a***0@yahoo.com , 28 minutes ago , 【Seek Help】 ,https://bbs.deepin.org/en/post/276209,0,26,Hi, I am fairly new to Deepin, and I have a problem running c++ files. I used to do it on my windows using gcc/g++, but now i cannot for the life of me figure how and what to do to complie and c++ files!
-Deeping 23 RC3, j***2@gmail.com , 2 hours ago , 【Share Experiences】 ,https://bbs.deepin.org/en/post/276208,0,76,Periodically I have experienced OS freezes when coming back from sleep mode or overnight when pc is waking up.
-Vmware e Virtulabox not running !!!, gfracasso_ITALY , 5 hours ago , 【problem help】 ,https://bbs.deepin.org/en/post/276207,1,275,Hi,
-Inspired by Wireshark's Adaptation, I Want to Say..., SuperDavid , 19 hours ago , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/276179,0,48,Reflections
-deepin V23 RC2 Update Changelog on Aug 2, 2024, Yoloy_Lan , 2024-08-02 10:22 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/275951,0,145,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+这个这区域间做成活动的是不是更好, 星海 , 2024-08-07 00:09 , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/276172,12,314,正常黑
+Solving the Issue of Koodo Reader Not Starting Due to X Display, SuperDavid , 19 hours ago , 【Share Experiences】 ,https://bbs.deepin.org/en/post/276229,1,55,Koodo Reader is an e-book reader that supports multiple formats and has a clean and beautiful interface. However, on the Deepin v23 beta version, it fails to function properly regardless of whether it is installed from the Spark Store or the official open-source deb package. The following method successfully resolved the issue.
+Restore floating panel, deepinfan169 , a day ago , 【Share Experiences】 ,https://bbs.deepin.org/en/post/276211,1,147,I would like for the floating panel to be readded to deepin. It made the desktop look better and the current one looks too much like windows 11. It would be nice for their to be options to switch between all the panels you had if you guys  cant decide what to use, as that will probably attract more people to the OS.
+Inspired by Wireshark's Adaptation, I Want to Say..., SuperDavid , 2024-08-07 03:18 , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/276179,0,57,Reflections
+deepin V23 RC2 Update Changelog on Aug 2, 2024, Yoloy_Lan , 2024-08-02 10:22 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/275951,0,154,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
 Alleviating the Issue of Deepin 23
-Not Waking Up the Screen After Sleep, SuperDavid , 2024-08-01 10:17 , 【Share Experiences】 ,https://bbs.deepin.org/en/post/275893,0,109,1. Problem Description
-Good Morning deepin, News Overview - July 26, 2024, Yoloy_Lan , 2024-07-26 09:27 , 【News】 ,https://bbs.deepin.org/en/post/275580,0,137,
-deepin V23 RC Update Changelog on July 12, 2024, deepin小助手 , 2024-07-12 09:47 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/274990,4,633,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
-deepin V23 RC Update Changelog on July 5, 2024, deepin小助手 , 2024-07-05 06:19 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/274753,2,503,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
-Science Popularization: What are make, makefile, cmake, and nmake?, yanjuner , 2024-07-04 07:15 , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/274714,0,190,Original article:  https://bbs.deepin.org/post/260957                                                Original author：sammy-621
-Deepin Community Live CD 2.0.0 Upgrade, Added ARM Support, yanjuner , 2024-07-04 06:37 , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/274710,1,216,Original link：https://bbs.deepin.org/post/260096        Original author：gfdgd_xi
-deepin V23 RC Update Changelog on Jun 28, 2024, deepin小助手 , 2024-06-28 08:54 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/274477,0,378,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
-When the window size is reduced,the details move out., 深度之家 , 2024-06-26 07:00 , 【Others】 ,https://bbs.deepin.org/en/post/274349,1,244,NA
-deepin V23 RC Update Changelog on Jun 21, 2024, deepin小助手 , 2024-06-21 09:50 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/274138,0,382,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+Not Waking Up the Screen After Sleep, SuperDavid , 2024-08-01 10:17 , 【Share Experiences】 ,https://bbs.deepin.org/en/post/275893,0,113,1. Problem Description
+Good Morning deepin, News Overview - July 26, 2024, Yoloy_Lan , 2024-07-26 09:27 , 【News】 ,https://bbs.deepin.org/en/post/275580,0,141,
+deepin V23 RC Update Changelog on July 12, 2024, deepin小助手 , 2024-07-12 09:47 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/274990,4,636,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+deepin V23 RC Update Changelog on July 5, 2024, deepin小助手 , 2024-07-05 06:19 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/274753,2,510,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+Science Popularization: What are make, makefile, cmake, and nmake?, yanjuner , 2024-07-04 07:15 , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/274714,0,193,Original article:  https://bbs.deepin.org/post/260957                                                Original author：sammy-621
+Deepin Community Live CD 2.0.0 Upgrade, Added ARM Support, yanjuner , 2024-07-04 06:37 , 【Feelings & Sharing】 ,https://bbs.deepin.org/en/post/274710,1,218,Original link：https://bbs.deepin.org/post/260096        Original author：gfdgd_xi
+deepin V23 RC Update Changelog on Jun 28, 2024, deepin小助手 , 2024-06-28 08:54 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/274477,0,379,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+When the window size is reduced,the details move out., 深度之家 , 2024-06-26 07:00 , 【Others】 ,https://bbs.deepin.org/en/post/274349,1,248,NA
+deepin V23 RC Update Changelog on Jun 21, 2024, deepin小助手 , 2024-06-21 09:50 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/274138,0,383,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
 deepin Forum moderator
-recruitment, deepin小助手 , 2024-06-19 08:32 , 【Official Events】 ,https://bbs.deepin.org/en/post/274055,0,1359,Are you passionate about technology, community engagement, and good at leading discussions? We are looking for enthusiastic individuals to join our team as deepin English forum moderators.
+recruitment, deepin小助手 , 2024-06-19 08:32 , 【Official Events】 ,https://bbs.deepin.org/en/post/274055,0,1377,Are you passionate about technology, community engagement, and good at leading discussions? We are looking for enthusiastic individuals to join our team as deepin English forum moderators.
 wine
-issue, giuseppe00 , 2024-06-17 08:19 , 【problem help】 ,https://bbs.deepin.org/en/post/273966,5,605,Yesterday I downloaded the version DEEPIN  RC2 when i do "sudo apt install wine" it says wine command not found, how can I install wine on this version of deepin
-Announcement on UOS AI related updates in deepin V23 RC2 on June 14, 2024, deepin小助手 , 2024-06-14 10:02 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/273831,4,373,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
-deepin V23 RC Update Changelog on Jun 07, 2024, deepin小助手 , 2024-06-07 09:53 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/273583,0,708,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
-deepin V23 release update log May 31, 2024, deepin小助手 , 2024-05-31 08:24 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/273270,0,698,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+issue, giuseppe00 , 2024-06-17 08:19 , 【problem help】 ,https://bbs.deepin.org/en/post/273966,5,608,Yesterday I downloaded the version DEEPIN  RC2 when i do "sudo apt install wine" it says wine command not found, how can I install wine on this version of deepin
+Announcement on UOS AI related updates in deepin V23 RC2 on June 14, 2024, deepin小助手 , 2024-06-14 10:02 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/273831,4,375,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
+deepin V23 RC Update Changelog on Jun 07, 2024, deepin小助手 , 2024-06-07 09:53 , 【Community Announcements】 ,https://bbs.deepin.org/en/post/273583,0,713,To ensure the quality of the deepin V23, we invite you to take part in the internal test. If you are interested in it, please follow the guide in the last part of this post.
