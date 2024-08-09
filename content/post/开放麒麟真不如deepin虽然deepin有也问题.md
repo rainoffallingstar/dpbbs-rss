@@ -1,6 +1,6 @@
 ---
 title: 开放麒麟真不如deepin虽然deepin有也问题
-date: '2024-08-08'
+date: '2024-08-09'
 linkTitle: https://bbs.deepin.org/en/post/276260
 source: deepin_bbs
 description:  星海 

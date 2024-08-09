@@ -1,6 +1,6 @@
 ---
 title: 求deepin idewin版本
-date: '2024-08-08'
+date: '2024-08-09'
 linkTitle: https://bbs.deepin.org/en/post/276275
 source: deepin_bbs
 description:  199******64 
