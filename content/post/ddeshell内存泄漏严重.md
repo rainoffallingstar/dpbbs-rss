@@ -1,0 +1,9 @@
+---
+title: ddeshell内存泄漏严重
+date: '2024-08-10'
+linkTitle: https://bbs.deepin.org/en/post/276339
+source: deepin_bbs
+description:  深度之家 
+disable_comments: true
+---
+NA

@@ -1,6 +1,6 @@
 ---
 title: Alleviating the Issue of Deepin 23Not Waking Up the Screen After Sleep
-date: '2024-08-09'
+date: '2024-08-10'
 linkTitle: https://bbs.deepin.org/en/post/275893
 source: deepin_bbs
 description:  SuperDavid 
